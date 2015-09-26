@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Divvy Bikes in Chicago</title>
+
+    <link 
+        rel="stylesheet" 
+        href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"
+    />
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <script
+        src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js">
+    </script>
+    
+</head>
+<body>
+
+	<div id="map" style="width: 1200px; height: 600px"></div>
+    <script src="WorldMap.js"></script>
+    <script src="MapGeoJson.js"></script>
+    <script src="fi_markers.js"></script>
+
+	<script type="text/javascript">
+
+        var map = null;
+        var map1 = null;
+        var map2 = null;
+        var map3 = null;
+        var map3Counter = 1;
+
+        var svg = null;
+
+        function setMap(whichMap)
+        {
+            var selectedOnes = null;
+
+            if (whichMap === 1)
+            	{
+            		map.removeLayer(map2);
+            		map1.addTo(map);
+
+            		selectedOnes = svg.selectAll("text");
+            		selectedOnes.style("fill", "white");
+            	}
+            else if (whichMap === 2)
+            	{
+            		map.removeLayer(map1);
+            		map2.addTo(map);
+
+            		selectedOnes = svg.selectAll("text");
+            		selectedOnes.style("fill", "black");	
+
+            	}
+            else if (whichMap === 3 ){
+                    function onEachFeature(feature, layer) {
+                        // does this feeature have name property
+                        if (feature.properties && feature.properties.name) {
+                            layer.bindPopup("<b>" + feature.properties.name + "</b>");
+                        }
+                    }
+                    map3Counter = map3Counter + 1;
+
+                    if (map3Counter%2==0){
+
+
+                        L.geoJson(worldMap, {
+                            onEachFeature: onEachFeature
+                        }).addTo(map);  
+
+                        divvyBikeLayer(); 
+                    }
+                    else {
+
+                        d3.selectAll("path").remove();
+                        divvyBikeLayer(); 
+                       
+                    }
+
+            	    	
+                }
+        }   
+
+    function divvyBikeLayer(){
+            map.addLayer(map3);
+
+                console.log(map3);
+                var geojsonMarkerOptions = {
+                        radius: 10,
+                        fillColor: "#ff7800",
+                        color: "#000",
+                        weight: 1,
+                        opacity: 1,
+                        fillOpacity: 0.8
+                    };
+             
+                    /*
+                    var greenIcon = L.Icon.extend({
+                        iconUrl: 'http://technobd.rvillage.com/application/modules/Rvillage/externals/images/all_members.png',
+                        iconSize:     [38, 95], // size of the icon
+                        shadowSize:   [50, 64], // size of the shadow
+                        iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+                        shadowAnchor: [4, 62],  // the same for the shadow
+                        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+                    });
+                    */
+
+                    var DivvyLogo ='DivvyLogo.jpg';
+                L.geoJson(MapGeoJson, {
+                    pointToLayer: function (feature, latlng) {
+                        
+                        var content = "<table border=1><tr><th colspan=2 bgcolor=#99CCFF font-size><b>" + feature.properties.station_name + "</th></tr><tr><th colspan=2><img src='DivvyLogo.jpg' height=80 width=200></th></tr><tr><td>Popularity Rank" + "</td><td>"+ feature.properties.popularity +"</td></tr><tr><td> Community Name </td><td>" +  feature.properties.community + "</td></tr><tr><td>Overall Inflow</td><td>"+ feature.properties.inflow+"</td></tr><tr><td>Overall Outflow</td><td>"+ feature.properties.outflow+"</td></tr></table>";
+                        var popup = L.popup().setContent(content);
+
+                        var marker = L.circleMarker(latlng, geojsonMarkerOptions);
+
+                        marker.bindPopup(popup);
+                        return marker;              
+                    }
+                }).addTo(map);
+    }
+    var mapURL2 = 'http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png';
+    var mapCopyright2 = 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community';
+
+    var mapURL3 = 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
+    var mapCopyright3 = '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>';
+
+
+    var mapURL1 = 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
+    var mapCopyright1 = 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community';
+
+    //var mapURL2 = 'http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}';
+    //var mapCopyright2 = 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC';
+
+    map1 = L.tileLayer(mapURL1, {attribution: mapCopyright1});
+    map2 = L.tileLayer(mapURL2, {attribution: mapCopyright2});
+    map3 = L.tileLayer(mapURL3, {attribution: mapCopyright3});
+
+
+    map = L.map('map', {layers: [map1], zoomControl: false}).setView([41.869910, -87.65], 16);
+
+	//map = L.map('map', {zoomControl: false}).setView([41.869910, -87.65], 16);
+
+	// mapLink = L.tileLayer(mapURL1, {attribution: mapCopyright1}).addTo(map);
+
+
+	/* Initialize the SVG layer */
+	map._initPathRoot();  
+
+	/* We simply pick up the SVG from the map object */
+	svg = d3.select(map.getPanes().overlayPane).select("svg");
+
+	var g = svg.append("g");
+
+	var parseDate = d3.time.format("%Y-%m-%dT%H:%M:%S").parse;
+
+	var today = new Date();
+
+	var bigCollection = {};
+
+	//var numBeats = 3;
+	var currentBeats = 0;
+/*
+function getNewData()
+{
+		dealWithData();
+}
+
+function dealWithData()
+{		
+
+}
+
+function refreshData()
+{
+	
+
+	if (g != null)
+		{
+		g.selectAll("circle").remove();
+		g.selectAll("text").remove();
+        g.selectAll("path").remove();
+		}
+
+	currentBeats = 0;
+	
+	getNewData();
+}
+
+refreshData();
+*/
+</script>
+        <div id="buttons" style="width:100%; height:10%; text-align: center; background: #fff">
+            <input name="updateButton1" 
+                     type="button" 
+                    value="Zoom In" 
+                    onclick="map.zoomIn()" />
+            <input name="updateButton2" 
+                     type="button" 
+                    value="Zoom Out" 
+                    onclick="map.zoomOut()" />
+            <input name="updateButton3" 
+                     type="button" 
+                    value="Map View" 
+                    onclick="setMap(2)" />
+            <input name="updateButton4" 
+                     type="button" 
+                    value="Aerial View" 
+                    onclick="setMap(1)" />
+            <input name="updateButton4" 
+                     type="button" 
+                    value="Refresh" 
+                    onclick="refreshData()" />
+            <input name = "updateButton5" 
+                    type = "Button" 
+                    value = "Community View" 
+                    onclick= "setMap(3)"/> 
+        </div>
+</body>
+</html>

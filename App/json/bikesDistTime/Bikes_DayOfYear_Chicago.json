@@ -1,0 +1,942 @@
+[
+    {
+        "Day_of_Year": 178,
+        "Date": "2013-06-27",
+        "No_Of_Bikes": 95
+    },
+    {
+        "Day_of_Year": 179,
+        "Date": "2013-06-28",
+        "No_Of_Bikes": 545
+    },
+    {
+        "Day_of_Year": 180,
+        "Date": "2013-06-29",
+        "No_Of_Bikes": 205
+    },
+    {
+        "Day_of_Year": 181,
+        "Date": "2013-06-30",
+        "No_Of_Bikes": 226
+    },
+    {
+        "Day_of_Year": 182,
+        "Date": "2013-07-01",
+        "No_Of_Bikes": 537
+    },
+    {
+        "Day_of_Year": 183,
+        "Date": "2013-07-02",
+        "No_Of_Bikes": 509
+    },
+    {
+        "Day_of_Year": 184,
+        "Date": "2013-07-03",
+        "No_Of_Bikes": 528
+    },
+    {
+        "Day_of_Year": 185,
+        "Date": "2013-07-04",
+        "No_Of_Bikes": 304
+    },
+    {
+        "Day_of_Year": 186,
+        "Date": "2013-07-05",
+        "No_Of_Bikes": 393
+    },
+    {
+        "Day_of_Year": 187,
+        "Date": "2013-07-06",
+        "No_Of_Bikes": 260
+    },
+    {
+        "Day_of_Year": 188,
+        "Date": "2013-07-07",
+        "No_Of_Bikes": 294
+    },
+    {
+        "Day_of_Year": 189,
+        "Date": "2013-07-08",
+        "No_Of_Bikes": 503
+    },
+    {
+        "Day_of_Year": 190,
+        "Date": "2013-07-09",
+        "No_Of_Bikes": 702
+    },
+    {
+        "Day_of_Year": 191,
+        "Date": "2013-07-10",
+        "No_Of_Bikes": 751
+    },
+    {
+        "Day_of_Year": 192,
+        "Date": "2013-07-11",
+        "No_Of_Bikes": 785
+    },
+    {
+        "Day_of_Year": 193,
+        "Date": "2013-07-12",
+        "No_Of_Bikes": 872
+    },
+    {
+        "Day_of_Year": 194,
+        "Date": "2013-07-13",
+        "No_Of_Bikes": 456
+    },
+    {
+        "Day_of_Year": 195,
+        "Date": "2013-07-14",
+        "No_Of_Bikes": 468
+    },
+    {
+        "Day_of_Year": 196,
+        "Date": "2013-07-15",
+        "No_Of_Bikes": 762
+    },
+    {
+        "Day_of_Year": 197,
+        "Date": "2013-07-16",
+        "No_Of_Bikes": 855
+    },
+    {
+        "Day_of_Year": 198,
+        "Date": "2013-07-17",
+        "No_Of_Bikes": 839
+    },
+    {
+        "Day_of_Year": 199,
+        "Date": "2013-07-18",
+        "No_Of_Bikes": 779
+    },
+    {
+        "Day_of_Year": 200,
+        "Date": "2013-07-19",
+        "No_Of_Bikes": 797
+    },
+    {
+        "Day_of_Year": 201,
+        "Date": "2013-07-20",
+        "No_Of_Bikes": 569
+    },
+    {
+        "Day_of_Year": 202,
+        "Date": "2013-07-21",
+        "No_Of_Bikes": 419
+    },
+    {
+        "Day_of_Year": 203,
+        "Date": "2013-07-22",
+        "No_Of_Bikes": 1029
+    },
+    {
+        "Day_of_Year": 204,
+        "Date": "2013-07-23",
+        "No_Of_Bikes": 1179
+    },
+    {
+        "Day_of_Year": 205,
+        "Date": "2013-07-24",
+        "No_Of_Bikes": 1191
+    },
+    {
+        "Day_of_Year": 206,
+        "Date": "2013-07-25",
+        "No_Of_Bikes": 1225
+    },
+    {
+        "Day_of_Year": 207,
+        "Date": "2013-07-26",
+        "No_Of_Bikes": 991
+    },
+    {
+        "Day_of_Year": 208,
+        "Date": "2013-07-27",
+        "No_Of_Bikes": 652
+    },
+    {
+        "Day_of_Year": 209,
+        "Date": "2013-07-28",
+        "No_Of_Bikes": 657
+    },
+    {
+        "Day_of_Year": 210,
+        "Date": "2013-07-29",
+        "No_Of_Bikes": 1378
+    },
+    {
+        "Day_of_Year": 211,
+        "Date": "2013-07-30",
+        "No_Of_Bikes": 1372
+    },
+    {
+        "Day_of_Year": 212,
+        "Date": "2013-07-31",
+        "No_Of_Bikes": 1273
+    },
+    {
+        "Day_of_Year": 213,
+        "Date": "2013-08-01",
+        "No_Of_Bikes": 1629
+    },
+    {
+        "Day_of_Year": 214,
+        "Date": "2013-08-02",
+        "No_Of_Bikes": 1503
+    },
+    {
+        "Day_of_Year": 215,
+        "Date": "2013-08-03",
+        "No_Of_Bikes": 1151
+    },
+    {
+        "Day_of_Year": 216,
+        "Date": "2013-08-04",
+        "No_Of_Bikes": 1007
+    },
+    {
+        "Day_of_Year": 217,
+        "Date": "2013-08-05",
+        "No_Of_Bikes": 1455
+    },
+    {
+        "Day_of_Year": 218,
+        "Date": "2013-08-06",
+        "No_Of_Bikes": 1723
+    },
+    {
+        "Day_of_Year": 219,
+        "Date": "2013-08-07",
+        "No_Of_Bikes": 1600
+    },
+    {
+        "Day_of_Year": 220,
+        "Date": "2013-08-08",
+        "No_Of_Bikes": 1948
+    },
+    {
+        "Day_of_Year": 221,
+        "Date": "2013-08-09",
+        "No_Of_Bikes": 1886
+    },
+    {
+        "Day_of_Year": 222,
+        "Date": "2013-08-10",
+        "No_Of_Bikes": 1188
+    },
+    {
+        "Day_of_Year": 223,
+        "Date": "2013-08-11",
+        "No_Of_Bikes": 909
+    },
+    {
+        "Day_of_Year": 224,
+        "Date": "2013-08-12",
+        "No_Of_Bikes": 1742
+    },
+    {
+        "Day_of_Year": 225,
+        "Date": "2013-08-13",
+        "No_Of_Bikes": 2202
+    },
+    {
+        "Day_of_Year": 226,
+        "Date": "2013-08-14",
+        "No_Of_Bikes": 2252
+    },
+    {
+        "Day_of_Year": 227,
+        "Date": "2013-08-15",
+        "No_Of_Bikes": 2163
+    },
+    {
+        "Day_of_Year": 228,
+        "Date": "2013-08-16",
+        "No_Of_Bikes": 2357
+    },
+    {
+        "Day_of_Year": 229,
+        "Date": "2013-08-17",
+        "No_Of_Bikes": 1464
+    },
+    {
+        "Day_of_Year": 230,
+        "Date": "2013-08-18",
+        "No_Of_Bikes": 1253
+    },
+    {
+        "Day_of_Year": 231,
+        "Date": "2013-08-19",
+        "No_Of_Bikes": 2437
+    },
+    {
+        "Day_of_Year": 232,
+        "Date": "2013-08-20",
+        "No_Of_Bikes": 2689
+    },
+    {
+        "Day_of_Year": 233,
+        "Date": "2013-08-21",
+        "No_Of_Bikes": 2690
+    },
+    {
+        "Day_of_Year": 234,
+        "Date": "2013-08-22",
+        "No_Of_Bikes": 2279
+    },
+    {
+        "Day_of_Year": 235,
+        "Date": "2013-08-23",
+        "No_Of_Bikes": 2806
+    },
+    {
+        "Day_of_Year": 236,
+        "Date": "2013-08-24",
+        "No_Of_Bikes": 1888
+    },
+    {
+        "Day_of_Year": 237,
+        "Date": "2013-08-25",
+        "No_Of_Bikes": 1529
+    },
+    {
+        "Day_of_Year": 238,
+        "Date": "2013-08-26",
+        "No_Of_Bikes": 2604
+    },
+    {
+        "Day_of_Year": 239,
+        "Date": "2013-08-27",
+        "No_Of_Bikes": 2595
+    },
+    {
+        "Day_of_Year": 240,
+        "Date": "2013-08-28",
+        "No_Of_Bikes": 2842
+    },
+    {
+        "Day_of_Year": 241,
+        "Date": "2013-08-29",
+        "No_Of_Bikes": 3017
+    },
+    {
+        "Day_of_Year": 242,
+        "Date": "2013-08-30",
+        "No_Of_Bikes": 2393
+    },
+    {
+        "Day_of_Year": 243,
+        "Date": "2013-08-31",
+        "No_Of_Bikes": 1208
+    },
+    {
+        "Day_of_Year": 244,
+        "Date": "2013-09-01",
+        "No_Of_Bikes": 1339
+    },
+    {
+        "Day_of_Year": 245,
+        "Date": "2013-09-02",
+        "No_Of_Bikes": 1477
+    },
+    {
+        "Day_of_Year": 246,
+        "Date": "2013-09-03",
+        "No_Of_Bikes": 3076
+    },
+    {
+        "Day_of_Year": 247,
+        "Date": "2013-09-04",
+        "No_Of_Bikes": 3285
+    },
+    {
+        "Day_of_Year": 248,
+        "Date": "2013-09-05",
+        "No_Of_Bikes": 3292
+    },
+    {
+        "Day_of_Year": 249,
+        "Date": "2013-09-06",
+        "No_Of_Bikes": 3414
+    },
+    {
+        "Day_of_Year": 250,
+        "Date": "2013-09-07",
+        "No_Of_Bikes": 2224
+    },
+    {
+        "Day_of_Year": 251,
+        "Date": "2013-09-08",
+        "No_Of_Bikes": 1828
+    },
+    {
+        "Day_of_Year": 252,
+        "Date": "2013-09-09",
+        "No_Of_Bikes": 3406
+    },
+    {
+        "Day_of_Year": 253,
+        "Date": "2013-09-10",
+        "No_Of_Bikes": 3451
+    },
+    {
+        "Day_of_Year": 254,
+        "Date": "2013-09-11",
+        "No_Of_Bikes": 3741
+    },
+    {
+        "Day_of_Year": 255,
+        "Date": "2013-09-12",
+        "No_Of_Bikes": 3939
+    },
+    {
+        "Day_of_Year": 256,
+        "Date": "2013-09-13",
+        "No_Of_Bikes": 3675
+    },
+    {
+        "Day_of_Year": 257,
+        "Date": "2013-09-14",
+        "No_Of_Bikes": 2337
+    },
+    {
+        "Day_of_Year": 258,
+        "Date": "2013-09-15",
+        "No_Of_Bikes": 714
+    },
+    {
+        "Day_of_Year": 259,
+        "Date": "2013-09-16",
+        "No_Of_Bikes": 3716
+    },
+    {
+        "Day_of_Year": 260,
+        "Date": "2013-09-17",
+        "No_Of_Bikes": 4162
+    },
+    {
+        "Day_of_Year": 261,
+        "Date": "2013-09-18",
+        "No_Of_Bikes": 2998
+    },
+    {
+        "Day_of_Year": 262,
+        "Date": "2013-09-19",
+        "No_Of_Bikes": 3407
+    },
+    {
+        "Day_of_Year": 263,
+        "Date": "2013-09-20",
+        "No_Of_Bikes": 4120
+    },
+    {
+        "Day_of_Year": 264,
+        "Date": "2013-09-21",
+        "No_Of_Bikes": 2599
+    },
+    {
+        "Day_of_Year": 265,
+        "Date": "2013-09-22",
+        "No_Of_Bikes": 2208
+    },
+    {
+        "Day_of_Year": 266,
+        "Date": "2013-09-23",
+        "No_Of_Bikes": 3922
+    },
+    {
+        "Day_of_Year": 267,
+        "Date": "2013-09-24",
+        "No_Of_Bikes": 4434
+    },
+    {
+        "Day_of_Year": 268,
+        "Date": "2013-09-25",
+        "No_Of_Bikes": 4431
+    },
+    {
+        "Day_of_Year": 269,
+        "Date": "2013-09-26",
+        "No_Of_Bikes": 4480
+    },
+    {
+        "Day_of_Year": 270,
+        "Date": "2013-09-27",
+        "No_Of_Bikes": 4263
+    },
+    {
+        "Day_of_Year": 271,
+        "Date": "2013-09-28",
+        "No_Of_Bikes": 8903
+    },
+    {
+        "Day_of_Year": 272,
+        "Date": "2013-09-29",
+        "No_Of_Bikes": 7819
+    },
+    {
+        "Day_of_Year": 273,
+        "Date": "2013-09-30",
+        "No_Of_Bikes": 7109
+    },
+    {
+        "Day_of_Year": 274,
+        "Date": "2013-10-01",
+        "No_Of_Bikes": 6875
+    },
+    {
+        "Day_of_Year": 275,
+        "Date": "2013-10-02",
+        "No_Of_Bikes": 7180
+    },
+    {
+        "Day_of_Year": 276,
+        "Date": "2013-10-03",
+        "No_Of_Bikes": 4845
+    },
+    {
+        "Day_of_Year": 277,
+        "Date": "2013-10-04",
+        "No_Of_Bikes": 7400
+    },
+    {
+        "Day_of_Year": 278,
+        "Date": "2013-10-05",
+        "No_Of_Bikes": 5986
+    },
+    {
+        "Day_of_Year": 279,
+        "Date": "2013-10-06",
+        "No_Of_Bikes": 5821
+    },
+    {
+        "Day_of_Year": 280,
+        "Date": "2013-10-07",
+        "No_Of_Bikes": 6042
+    },
+    {
+        "Day_of_Year": 281,
+        "Date": "2013-10-08",
+        "No_Of_Bikes": 7022
+    },
+    {
+        "Day_of_Year": 282,
+        "Date": "2013-10-09",
+        "No_Of_Bikes": 7141
+    },
+    {
+        "Day_of_Year": 283,
+        "Date": "2013-10-10",
+        "No_Of_Bikes": 7860
+    },
+    {
+        "Day_of_Year": 284,
+        "Date": "2013-10-11",
+        "No_Of_Bikes": 9269
+    },
+    {
+        "Day_of_Year": 285,
+        "Date": "2013-10-12",
+        "No_Of_Bikes": 8500
+    },
+    {
+        "Day_of_Year": 286,
+        "Date": "2013-10-13",
+        "No_Of_Bikes": 8966
+    },
+    {
+        "Day_of_Year": 287,
+        "Date": "2013-10-14",
+        "No_Of_Bikes": 7469
+    },
+    {
+        "Day_of_Year": 288,
+        "Date": "2013-10-15",
+        "No_Of_Bikes": 5271
+    },
+    {
+        "Day_of_Year": 289,
+        "Date": "2013-10-16",
+        "No_Of_Bikes": 5539
+    },
+    {
+        "Day_of_Year": 290,
+        "Date": "2013-10-17",
+        "No_Of_Bikes": 3562
+    },
+    {
+        "Day_of_Year": 291,
+        "Date": "2013-10-18",
+        "No_Of_Bikes": 5080
+    },
+    {
+        "Day_of_Year": 292,
+        "Date": "2013-10-19",
+        "No_Of_Bikes": 5132
+    },
+    {
+        "Day_of_Year": 293,
+        "Date": "2013-10-20",
+        "No_Of_Bikes": 4845
+    },
+    {
+        "Day_of_Year": 294,
+        "Date": "2013-10-21",
+        "No_Of_Bikes": 4821
+    },
+    {
+        "Day_of_Year": 295,
+        "Date": "2013-10-22",
+        "No_Of_Bikes": 3814
+    },
+    {
+        "Day_of_Year": 296,
+        "Date": "2013-10-23",
+        "No_Of_Bikes": 4169
+    },
+    {
+        "Day_of_Year": 297,
+        "Date": "2013-10-24",
+        "No_Of_Bikes": 4301
+    },
+    {
+        "Day_of_Year": 298,
+        "Date": "2013-10-25",
+        "No_Of_Bikes": 4708
+    },
+    {
+        "Day_of_Year": 299,
+        "Date": "2013-10-26",
+        "No_Of_Bikes": 4146
+    },
+    {
+        "Day_of_Year": 300,
+        "Date": "2013-10-27",
+        "No_Of_Bikes": 3855
+    },
+    {
+        "Day_of_Year": 301,
+        "Date": "2013-10-28",
+        "No_Of_Bikes": 4551
+    },
+    {
+        "Day_of_Year": 302,
+        "Date": "2013-10-29",
+        "No_Of_Bikes": 4984
+    },
+    {
+        "Day_of_Year": 303,
+        "Date": "2013-10-30",
+        "No_Of_Bikes": 3860
+    },
+    {
+        "Day_of_Year": 304,
+        "Date": "2013-10-31",
+        "No_Of_Bikes": 1681
+    },
+    {
+        "Day_of_Year": 305,
+        "Date": "2013-11-01",
+        "No_Of_Bikes": 4102
+    },
+    {
+        "Day_of_Year": 306,
+        "Date": "2013-11-02",
+        "No_Of_Bikes": 3218
+    },
+    {
+        "Day_of_Year": 307,
+        "Date": "2013-11-03",
+        "No_Of_Bikes": 4054
+    },
+    {
+        "Day_of_Year": 308,
+        "Date": "2013-11-04",
+        "No_Of_Bikes": 4871
+    },
+    {
+        "Day_of_Year": 309,
+        "Date": "2013-11-05",
+        "No_Of_Bikes": 4640
+    },
+    {
+        "Day_of_Year": 310,
+        "Date": "2013-11-06",
+        "No_Of_Bikes": 2612
+    },
+    {
+        "Day_of_Year": 311,
+        "Date": "2013-11-07",
+        "No_Of_Bikes": 4080
+    },
+    {
+        "Day_of_Year": 312,
+        "Date": "2013-11-08",
+        "No_Of_Bikes": 4459
+    },
+    {
+        "Day_of_Year": 313,
+        "Date": "2013-11-09",
+        "No_Of_Bikes": 4972
+    },
+    {
+        "Day_of_Year": 314,
+        "Date": "2013-11-10",
+        "No_Of_Bikes": 3850
+    },
+    {
+        "Day_of_Year": 315,
+        "Date": "2013-11-11",
+        "No_Of_Bikes": 2273
+    },
+    {
+        "Day_of_Year": 316,
+        "Date": "2013-11-12",
+        "No_Of_Bikes": 2960
+    },
+    {
+        "Day_of_Year": 317,
+        "Date": "2013-11-13",
+        "No_Of_Bikes": 3133
+    },
+    {
+        "Day_of_Year": 318,
+        "Date": "2013-11-14",
+        "No_Of_Bikes": 3598
+    },
+    {
+        "Day_of_Year": 319,
+        "Date": "2013-11-15",
+        "No_Of_Bikes": 4098
+    },
+    {
+        "Day_of_Year": 320,
+        "Date": "2013-11-16",
+        "No_Of_Bikes": 2101
+    },
+    {
+        "Day_of_Year": 321,
+        "Date": "2013-11-17",
+        "No_Of_Bikes": 1420
+    },
+    {
+        "Day_of_Year": 322,
+        "Date": "2013-11-18",
+        "No_Of_Bikes": 3269
+    },
+    {
+        "Day_of_Year": 323,
+        "Date": "2013-11-19",
+        "No_Of_Bikes": 3567
+    },
+    {
+        "Day_of_Year": 324,
+        "Date": "2013-11-20",
+        "No_Of_Bikes": 3336
+    },
+    {
+        "Day_of_Year": 325,
+        "Date": "2013-11-21",
+        "No_Of_Bikes": 3173
+    },
+    {
+        "Day_of_Year": 326,
+        "Date": "2013-11-22",
+        "No_Of_Bikes": 3094
+    },
+    {
+        "Day_of_Year": 327,
+        "Date": "2013-11-23",
+        "No_Of_Bikes": 1350
+    },
+    {
+        "Day_of_Year": 328,
+        "Date": "2013-11-24",
+        "No_Of_Bikes": 950
+    },
+    {
+        "Day_of_Year": 329,
+        "Date": "2013-11-25",
+        "No_Of_Bikes": 2159
+    },
+    {
+        "Day_of_Year": 330,
+        "Date": "2013-11-26",
+        "No_Of_Bikes": 2715
+    },
+    {
+        "Day_of_Year": 331,
+        "Date": "2013-11-27",
+        "No_Of_Bikes": 1936
+    },
+    {
+        "Day_of_Year": 332,
+        "Date": "2013-11-28",
+        "No_Of_Bikes": 597
+    },
+    {
+        "Day_of_Year": 333,
+        "Date": "2013-11-29",
+        "No_Of_Bikes": 1282
+    },
+    {
+        "Day_of_Year": 334,
+        "Date": "2013-11-30",
+        "No_Of_Bikes": 2141
+    },
+    {
+        "Day_of_Year": 335,
+        "Date": "2013-12-01",
+        "No_Of_Bikes": 1396
+    },
+    {
+        "Day_of_Year": 336,
+        "Date": "2013-12-02",
+        "No_Of_Bikes": 3248
+    },
+    {
+        "Day_of_Year": 337,
+        "Date": "2013-12-03",
+        "No_Of_Bikes": 3536
+    },
+    {
+        "Day_of_Year": 338,
+        "Date": "2013-12-04",
+        "No_Of_Bikes": 3889
+    },
+    {
+        "Day_of_Year": 339,
+        "Date": "2013-12-05",
+        "No_Of_Bikes": 2853
+    },
+    {
+        "Day_of_Year": 340,
+        "Date": "2013-12-06",
+        "No_Of_Bikes": 2338
+    },
+    {
+        "Day_of_Year": 341,
+        "Date": "2013-12-07",
+        "No_Of_Bikes": 1067
+    },
+    {
+        "Day_of_Year": 342,
+        "Date": "2013-12-08",
+        "No_Of_Bikes": 488
+    },
+    {
+        "Day_of_Year": 343,
+        "Date": "2013-12-09",
+        "No_Of_Bikes": 1317
+    },
+    {
+        "Day_of_Year": 344,
+        "Date": "2013-12-10",
+        "No_Of_Bikes": 1270
+    },
+    {
+        "Day_of_Year": 345,
+        "Date": "2013-12-11",
+        "No_Of_Bikes": 1207
+    },
+    {
+        "Day_of_Year": 346,
+        "Date": "2013-12-12",
+        "No_Of_Bikes": 1241
+    },
+    {
+        "Day_of_Year": 347,
+        "Date": "2013-12-13",
+        "No_Of_Bikes": 1858
+    },
+    {
+        "Day_of_Year": 348,
+        "Date": "2013-12-14",
+        "No_Of_Bikes": 346
+    },
+    {
+        "Day_of_Year": 349,
+        "Date": "2013-12-15",
+        "No_Of_Bikes": 432
+    },
+    {
+        "Day_of_Year": 350,
+        "Date": "2013-12-16",
+        "No_Of_Bikes": 1255
+    },
+    {
+        "Day_of_Year": 351,
+        "Date": "2013-12-17",
+        "No_Of_Bikes": 1647
+    },
+    {
+        "Day_of_Year": 352,
+        "Date": "2013-12-18",
+        "No_Of_Bikes": 1985
+    },
+    {
+        "Day_of_Year": 353,
+        "Date": "2013-12-19",
+        "No_Of_Bikes": 2381
+    },
+    {
+        "Day_of_Year": 354,
+        "Date": "2013-12-20",
+        "No_Of_Bikes": 1632
+    },
+    {
+        "Day_of_Year": 355,
+        "Date": "2013-12-21",
+        "No_Of_Bikes": 704
+    },
+    {
+        "Day_of_Year": 356,
+        "Date": "2013-12-22",
+        "No_Of_Bikes": 635
+    },
+    {
+        "Day_of_Year": 357,
+        "Date": "2013-12-23",
+        "No_Of_Bikes": 1086
+    },
+    {
+        "Day_of_Year": 358,
+        "Date": "2013-12-24",
+        "No_Of_Bikes": 389
+    },
+    {
+        "Day_of_Year": 359,
+        "Date": "2013-12-25",
+        "No_Of_Bikes": 125
+    },
+    {
+        "Day_of_Year": 360,
+        "Date": "2013-12-26",
+        "No_Of_Bikes": 785
+    },
+    {
+        "Day_of_Year": 361,
+        "Date": "2013-12-27",
+        "No_Of_Bikes": 1594
+    },
+    {
+        "Day_of_Year": 362,
+        "Date": "2013-12-28",
+        "No_Of_Bikes": 1899
+    },
+    {
+        "Day_of_Year": 363,
+        "Date": "2013-12-29",
+        "No_Of_Bikes": 625
+    },
+    {
+        "Day_of_Year": 364,
+        "Date": "2013-12-30",
+        "No_Of_Bikes": 933
+    },
+    {
+        "Day_of_Year": 365,
+        "Date": "2013-12-31",
+        "No_Of_Bikes": 512
+    }
+]

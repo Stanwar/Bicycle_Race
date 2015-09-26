@@ -1,0 +1,2159 @@
+[
+{
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Belmont Cragin",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Dunning",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 4466,
+    "CommunityName": "West Town",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 4436,
+    "CommunityName": "West Town",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 4860,
+    "CommunityName": "West Town",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 4545,
+    "CommunityName": "West Town",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 4352,
+    "CommunityName": "West Town",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 5282,
+    "CommunityName": "West Town",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 5199,
+    "CommunityName": "West Town",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Lawn",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chicago Lawn",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Englewood",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Forest Glen",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Rogers Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Austin",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Garfield Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 8,
+    "CommunityName": "Oakland",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 17,
+    "CommunityName": "Oakland",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 9,
+    "CommunityName": "Oakland",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 10,
+    "CommunityName": "Oakland",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 11,
+    "CommunityName": "Oakland",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 19,
+    "CommunityName": "Oakland",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 30,
+    "CommunityName": "Oakland",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Elsdon",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Beverly",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 13324,
+    "CommunityName": "Near North Side",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 16176,
+    "CommunityName": "Near North Side",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 16266,
+    "CommunityName": "Near North Side",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 15567,
+    "CommunityName": "Near North Side",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 14614,
+    "CommunityName": "Near North Side",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 17099,
+    "CommunityName": "Near North Side",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 15730,
+    "CommunityName": "Near North Side",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 233,
+    "CommunityName": "Bridgeport",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 232,
+    "CommunityName": "Bridgeport",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 244,
+    "CommunityName": "Bridgeport",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 260,
+    "CommunityName": "Bridgeport",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 259,
+    "CommunityName": "Bridgeport",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 260,
+    "CommunityName": "Bridgeport",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 226,
+    "CommunityName": "Bridgeport",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Side",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 1326,
+    "CommunityName": "Logan Square",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 1408,
+    "CommunityName": "Logan Square",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 1605,
+    "CommunityName": "Logan Square",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 1532,
+    "CommunityName": "Logan Square",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 1531,
+    "CommunityName": "Logan Square",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 1827,
+    "CommunityName": "Logan Square",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 1638,
+    "CommunityName": "Logan Square",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Riverdale",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 9790,
+    "CommunityName": "The Loop",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 18568,
+    "CommunityName": "The Loop",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 19104,
+    "CommunityName": "The Loop",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 18504,
+    "CommunityName": "The Loop",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 17452,
+    "CommunityName": "The Loop",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 19663,
+    "CommunityName": "The Loop",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 11206,
+    "CommunityName": "The Loop",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 736,
+    "CommunityName": "Lower West Side",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 748,
+    "CommunityName": "Lower West Side",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 812,
+    "CommunityName": "Lower West Side",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 741,
+    "CommunityName": "Lower West Side",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 771,
+    "CommunityName": "Lower West Side",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 860,
+    "CommunityName": "Lower West Side",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 713,
+    "CommunityName": "Lower West Side",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Edison Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "McKinley Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 1695,
+    "CommunityName": "Uptown",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 1037,
+    "CommunityName": "Uptown",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 1074,
+    "CommunityName": "Uptown",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 958,
+    "CommunityName": "Uptown",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 866,
+    "CommunityName": "Uptown",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 1175,
+    "CommunityName": "Uptown",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 1759,
+    "CommunityName": "Uptown",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avalon Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 14,
+    "CommunityName": "South Lawndale",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 9,
+    "CommunityName": "South Lawndale",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 13,
+    "CommunityName": "South Lawndale",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 14,
+    "CommunityName": "South Lawndale",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 9,
+    "CommunityName": "South Lawndale",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 15,
+    "CommunityName": "South Lawndale",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 18,
+    "CommunityName": "South Lawndale",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 52,
+    "CommunityName": "Grand Boulevard",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 89,
+    "CommunityName": "Grand Boulevard",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 96,
+    "CommunityName": "Grand Boulevard",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 99,
+    "CommunityName": "Grand Boulevard",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 89,
+    "CommunityName": "Grand Boulevard",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 88,
+    "CommunityName": "Grand Boulevard",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 64,
+    "CommunityName": "Grand Boulevard",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 361,
+    "CommunityName": "Hyde Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 387,
+    "CommunityName": "Hyde Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 315,
+    "CommunityName": "Hyde Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 309,
+    "CommunityName": "Hyde Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 286,
+    "CommunityName": "Hyde Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 344,
+    "CommunityName": "Hyde Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 381,
+    "CommunityName": "Hyde Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Chicago",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Deering",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Humboldt Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "South Shore",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Roseland",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 5930,
+    "CommunityName": "Near West Side",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 16780,
+    "CommunityName": "Near West Side",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 18467,
+    "CommunityName": "Near West Side",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 17328,
+    "CommunityName": "Near West Side",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 16060,
+    "CommunityName": "Near West Side",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 17048,
+    "CommunityName": "Near West Side",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 6727,
+    "CommunityName": "Near West Side",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 2284,
+    "CommunityName": "Near South Side",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 1782,
+    "CommunityName": "Near South Side",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 1661,
+    "CommunityName": "Near South Side",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 1637,
+    "CommunityName": "Near South Side",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 1665,
+    "CommunityName": "Near South Side",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 2067,
+    "CommunityName": "Near South Side",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 2801,
+    "CommunityName": "Near South Side",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Woodlawn",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 297,
+    "CommunityName": "Armour Square",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 188,
+    "CommunityName": "Armour Square",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 179,
+    "CommunityName": "Armour Square",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 147,
+    "CommunityName": "Armour Square",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 142,
+    "CommunityName": "Armour Square",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 215,
+    "CommunityName": "Armour Square",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 268,
+    "CommunityName": "Armour Square",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 420,
+    "CommunityName": "Lincoln Square",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 400,
+    "CommunityName": "Lincoln Square",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 412,
+    "CommunityName": "Lincoln Square",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 373,
+    "CommunityName": "Lincoln Square",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 332,
+    "CommunityName": "Lincoln Square",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 459,
+    "CommunityName": "Lincoln Square",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 538,
+    "CommunityName": "Lincoln Square",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 654,
+    "CommunityName": "Douglas",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 457,
+    "CommunityName": "Douglas",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 449,
+    "CommunityName": "Douglas",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 487,
+    "CommunityName": "Douglas",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 448,
+    "CommunityName": "Douglas",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 540,
+    "CommunityName": "Douglas",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 641,
+    "CommunityName": "Douglas",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Fuller Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 6666,
+    "CommunityName": "Lake View",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 4978,
+    "CommunityName": "Lake View",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 5123,
+    "CommunityName": "Lake View",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 4944,
+    "CommunityName": "Lake View",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 4620,
+    "CommunityName": "Lake View",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 5628,
+    "CommunityName": "Lake View",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 7623,
+    "CommunityName": "Lake View",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Portage Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Irving Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Ashburn",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Ridge",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 150,
+    "CommunityName": "Edgewater",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 77,
+    "CommunityName": "Edgewater",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 59,
+    "CommunityName": "Edgewater",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 54,
+    "CommunityName": "Edgewater",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 37,
+    "CommunityName": "Edgewater",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 86,
+    "CommunityName": "Edgewater",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 111,
+    "CommunityName": "Edgewater",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Englewood",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Morgan Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 663,
+    "CommunityName": "North Center",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 583,
+    "CommunityName": "North Center",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 553,
+    "CommunityName": "North Center",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 491,
+    "CommunityName": "North Center",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 547,
+    "CommunityName": "North Center",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 672,
+    "CommunityName": "North Center",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 857,
+    "CommunityName": "North Center",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Greater Grand Crossing",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Mount Greenwood",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "New City",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 76,
+    "CommunityName": "O'Hare",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 41,
+    "CommunityName": "O'Hare",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 42,
+    "CommunityName": "O'Hare",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 33,
+    "CommunityName": "O'Hare",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 47,
+    "CommunityName": "O'Hare",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 48,
+    "CommunityName": "O'Hare",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 63,
+    "CommunityName": "O'Hare",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Brighton Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Burnside",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Albany Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "East Garfield Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Avondale",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 8640,
+    "CommunityName": "Lincoln Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 6728,
+    "CommunityName": "Lincoln Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 6542,
+    "CommunityName": "Lincoln Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 6248,
+    "CommunityName": "Lincoln Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 5881,
+    "CommunityName": "Lincoln Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 7228,
+    "CommunityName": "Lincoln Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 9829,
+    "CommunityName": "Lincoln Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Lawndale",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Chatham",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Auburn Gresham",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Norwood Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Jefferson Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Archer Heights",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Clearing",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Calumet Heights",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Gage Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "North Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hegewisch",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Pullman",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Garfield Ridge",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Washington Heights",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 214,
+    "CommunityName": "Kenwood",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 228,
+    "CommunityName": "Kenwood",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 241,
+    "CommunityName": "Kenwood",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 231,
+    "CommunityName": "Kenwood",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 259,
+    "CommunityName": "Kenwood",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 274,
+    "CommunityName": "Kenwood",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 230,
+    "CommunityName": "Kenwood",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Hermosa",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "West Pullman",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 8,
+    "CommunityName": "Washington Park",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 22,
+    "CommunityName": "Washington Park",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 25,
+    "CommunityName": "Washington Park",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 21,
+    "CommunityName": "Washington Park",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 21,
+    "CommunityName": "Washington Park",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 32,
+    "CommunityName": "Washington Park",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 14,
+    "CommunityName": "Washington Park",
+    "Day": 6
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 0
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 1
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 2
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 3
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 4
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 5
+}, {
+    "No.Of.Bikes": 0,
+    "CommunityName": "Montclare",
+    "Day": 6
+}
+]

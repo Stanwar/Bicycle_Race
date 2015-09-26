@@ -1,0 +1,1002 @@
+trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthday,from_community,from_station_latt,from_station_long,to_community,to_station_latt,to_station_long,dist_meters
+4118,6/27/2013 12:11,6/27/2013 12:16,480,316,85,Michigan Ave & Oak St,28,Larrabee St & Menomonee St,Customer,null,null,Near North Side,41.901,-87.6238,Lincoln Park,41.9147,-87.6433,2225.18747356355
+4275,6/27/2013 14:44,6/27/2013 14:45,77,64,32,Racine Ave & Congress Pkwy,32,Racine Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8746,-87.657,Near West Side,41.8746,-87.657,0
+4291,6/27/2013 14:58,6/27/2013 15:05,77,433,32,Racine Ave & Congress Pkwy,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8746,-87.657,Near West Side,41.8694,-87.661,667.041100914419
+4316,6/27/2013 15:06,6/27/2013 15:09,77,123,19,Loomis St & Taylor St,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8694,-87.661,Near West Side,41.8694,-87.661,0
+4342,6/27/2013 15:13,6/27/2013 15:27,77,852,19,Loomis St & Taylor St,55,Halsted St & James M Rochford St,Customer,null,null,Near West Side,41.8694,-87.661,Near West Side,41.8659,-87.6466,1257.89176138699
+4480,6/27/2013 19:40,6/27/2013 22:28,27,10105,340,Clark St & Wrightwood Ave,46,Wells St & Walton St,Customer,null,null,Lincoln Park,41.9295,-87.6431,Near North Side,41.8999,-87.6344,3367.53364357363
+4490,6/27/2013 18:45,6/27/2013 19:03,418,1094,37,Dearborn St & Adams St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.881,-87.6167,1097.5787017109
+4592,6/27/2013 19:34,6/27/2013 19:51,170,1020,90,Millennium Park,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8781,-87.64,1359.436181492
+4602,6/27/2013 19:45,6/27/2013 20:42,353,3419,37,Dearborn St & Adams St,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.8794,-87.6298,0
+4607,6/27/2013 19:46,6/27/2013 19:57,369,653,51,Clark St & Randolph St,340,Clark St & Wrightwood Ave,Customer,null,null,The Loop,41.8846,-87.6319,Lincoln Park,41.9295,-87.6431,5080.99487144364
+4617,6/27/2013 19:50,6/27/2013 20:19,658,1738,44,State St & Randolph St,44,State St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8847,-87.6277,0
+4619,6/27/2013 19:52,6/27/2013 20:50,533,3482,24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8919,-87.6206,0
+4644,6/27/2013 20:22,6/27/2013 20:50,522,1712,20,Sheffield Ave & Kingsbury St,46,Wells St & Walton St,Customer,null,null,Near North Side,41.9096,-87.6535,Near North Side,41.8999,-87.6344,1911.71736863357
+4646,6/27/2013 20:22,6/27/2013 20:39,477,996,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+4647,6/27/2013 20:25,6/27/2013 20:39,525,818,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+4666,6/27/2013 20:33,6/27/2013 21:22,242,2936,44,State St & Randolph St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.886,-87.6241,332.797863811464
+4793,6/27/2013 21:39,6/27/2013 21:51,240,730,69,Damen Ave & Pierce Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9007,-87.6626,1582.81718031229
+4863,6/27/2013 22:15,6/27/2013 22:36,381,1292,61,Wood St & Milwaukee Ave,17,Wood St & Division St,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9033,-87.6727,481.721190578136
+4865,6/27/2013 22:16,6/27/2013 22:42,343,1511,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4866,6/27/2013 22:17,6/27/2013 22:42,220,1512,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4867,6/27/2013 22:17,6/27/2013 22:36,157,1125,61,Wood St & Milwaukee Ave,17,Wood St & Division St,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9033,-87.6727,481.721190578136
+4869,6/27/2013 22:20,6/27/2013 22:36,239,964,61,Wood St & Milwaukee Ave,17,Wood St & Division St,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9033,-87.6727,481.721190578136
+4874,6/27/2013 22:23,6/27/2013 22:39,334,972,61,Wood St & Milwaukee Ave,16,Wood St & North Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9103,-87.6725,297.020254250797
+4875,6/27/2013 22:23,6/27/2013 22:39,362,977,61,Wood St & Milwaukee Ave,16,Wood St & North Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9103,-87.6725,297.020254250797
+4883,6/27/2013 22:26,6/27/2013 23:04,221,2272,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4896,6/27/2013 22:33,6/27/2013 23:05,409,1911,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4897,6/27/2013 22:35,6/27/2013 23:04,222,1758,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4902,6/27/2013 22:41,6/27/2013 22:53,257,730,17,Wood St & Division St,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9077,-87.6726,481.721190578123
+4943,6/27/2013 23:05,6/27/2013 23:37,325,1866,67,Sheffield Ave & Fullerton Ave,348,California Ave & 21st St,Customer,null,null,Lincoln Park,41.9256,-87.6537,South Lawndale,41.854,-87.6954,8672.88786721969
+4946,6/27/2013 23:06,6/27/2013 23:37,530,1856,67,Sheffield Ave & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6537,Lincoln Park,41.9268,-87.6344,1604.27584992647
+4954,6/27/2013 23:07,6/27/2013 23:26,164,1117,61,Wood St & Milwaukee Ave,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.8996,-87.6677,976.736586473385
+4955,6/27/2013 23:09,6/27/2013 23:26,229,980,61,Wood St & Milwaukee Ave,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.8996,-87.6677,976.736586473385
+4972,6/27/2013 23:24,6/27/2013 23:51,176,1642,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4986,6/27/2013 23:36,6/28/2013 0:34,221,3513,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+4989,6/27/2013 23:43,6/28/2013 0:21,159,2285,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+4991,6/27/2013 23:44,6/27/2013 23:51,306,423,32,Racine Ave & Congress Pkwy,15,Racine Ave & 18th St,Customer,null,null,Near West Side,41.8746,-87.657,Lower West Side,41.8582,-87.6565,1828.71229566052
+5032,6/28/2013 0:04,6/28/2013 0:37,228,1995,73,Jefferson St & Monroe St,73,Jefferson St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8804,-87.6427,0
+5033,6/28/2013 0:04,6/28/2013 0:37,251,1977,73,Jefferson St & Monroe St,73,Jefferson St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8804,-87.6427,0
+5035,6/28/2013 0:08,6/28/2013 0:24,141,944,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+5036,6/28/2013 0:10,6/28/2013 0:38,632,1656,29,Noble St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9007,-87.6626,West Town,41.9007,-87.6626,0
+5070,6/28/2013 0:23,6/28/2013 0:36,531,736,311,Lincoln Ave & Eastwood Ave,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Lincoln Square,41.9658,-87.6865,Lincoln Park,41.9256,-87.6537,5230.99610209543
+5100,6/28/2013 0:46,6/28/2013 0:49,411,223,60,Dayton St & North Ave,20,Sheffield Ave & Kingsbury St,Customer,null,null,Near North Side,41.9106,-87.6494,Near North Side,41.9096,-87.6535,355.414053845199
+5125,6/28/2013 1:24,6/28/2013 1:44,460,1196,69,Damen Ave & Pierce Ave,44,State St & Randolph St,Customer,null,null,West Town,41.9094,-87.6777,The Loop,41.8847,-87.6277,4969.20665715336
+5127,6/28/2013 2:08,6/28/2013 2:24,592,915,37,Dearborn St & Adams St,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.8794,-87.6298,0
+5128,6/28/2013 2:29,6/28/2013 18:03,150,56023,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+5130,6/28/2013 3:26,6/28/2013 4:11,525,2681,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+5131,6/28/2013 3:30,6/28/2013 4:11,242,2433,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+5132,6/28/2013 5:11,6/28/2013 5:26,233,951,72,State St & 16th St,179,Martin Luther King Dr & Oakwood Blvd,Customer,null,null,Near South Side,41.8601,-87.6277,Grand Boulevard,41.8226,-87.6161,4281.36438721439
+5133,6/28/2013 5:48,6/28/2013 6:02,592,857,37,Dearborn St & Adams St,90,Millennium Park,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.881,-87.6241,508.93066059794
+5136,6/28/2013 5:55,6/28/2013 6:23,418,1645,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6167,0
+5137,6/28/2013 6:01,6/28/2013 6:22,269,1285,61,Wood St & Milwaukee Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.8919,-87.6206,4652.77696814077
+5140,6/28/2013 6:28,6/28/2013 6:35,848,406,42,Wabash Ave & Cermak Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8682,-87.6263,1659.21933118581
+5173,6/28/2013 7:13,6/28/2013 7:35,173,1336,26,McClurg Ct & Illinois St,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.8777,-87.6353,2103.21629861412
+5199,6/28/2013 7:37,6/28/2013 7:48,401,668,91,Clinton St & Washington Blvd,52,Michigan Ave & Lake St,Customer,null,null,Near West Side,41.8834,-87.6412,The Loop,41.886,-87.6241,1445.54658226144
+5248,6/28/2013 8:17,6/28/2013 9:04,343,2789,85,Michigan Ave & Oak St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6167,2297.09579332762
+5250,6/28/2013 8:18,6/28/2013 9:21,225,3760,26,McClurg Ct & Illinois St,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.8761,-87.6244,1763.37239316462
+5251,6/28/2013 8:19,6/28/2013 8:45,212,1593,30,Ashland Ave & Augusta Blvd,51,Clark St & Randolph St,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.8846,-87.6319,3410.67971491962
+5252,6/28/2013 8:21,6/28/2013 8:33,236,746,91,Clinton St & Washington Blvd,74,Kingsbury St & Erie St,Customer,null,null,Near West Side,41.8834,-87.6412,Near North Side,41.8938,-87.6419,1163.52801005862
+5255,6/28/2013 8:23,6/28/2013 8:46,401,1368,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+5256,6/28/2013 8:25,6/28/2013 8:42,314,1057,29,Noble St & Milwaukee Ave,77,Clinton St & Madison St,Customer,null,null,West Town,41.9007,-87.6626,Near West Side,41.8816,-87.6413,2762.41558851436
+5260,6/28/2013 8:28,6/28/2013 11:38,242,11437,52,Michigan Ave & Lake St,350,Ashland Ave & Chicago Ave,Customer,null,null,The Loop,41.886,-87.6241,West Town,41.896,-87.6677,3785.58148092616
+5262,6/28/2013 8:30,6/28/2013 11:38,322,11321,52,Michigan Ave & Lake St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.891,-87.6173,792.484512133261
+5284,6/28/2013 8:42,6/28/2013 10:12,172,5377,26,McClurg Ct & Illinois St,62,McCormick Place,Customer,null,null,Near North Side,41.891,-87.6173,Near South Side,41.8514,-87.6188,4405.22500469765
+5293,6/28/2013 8:49,6/28/2013 9:20,708,1895,31,Franklin St & Chicago Ave,44,State St & Randolph St,Customer,null,null,Near North Side,41.8968,-87.6356,The Loop,41.8847,-87.6277,1492.72282470547
+5294,6/28/2013 8:49,6/28/2013 9:07,470,1106,91,Clinton St & Washington Blvd,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8834,-87.6412,Near West Side,41.8694,-87.661,2261.3734037992
+5305,6/28/2013 8:53,6/28/2013 9:09,335,1007,31,Franklin St & Chicago Ave,75,Canal St & Jackson Blvd,Customer,null,null,Near North Side,41.8968,-87.6356,Near West Side,41.8781,-87.64,2103.21537845908
+5312,6/28/2013 8:54,6/28/2013 9:17,51,1360,75,Canal St & Jackson Blvd,31,Franklin St & Chicago Ave,Customer,null,null,Near West Side,41.8781,-87.64,Near North Side,41.8968,-87.6356,2103.2153784591
+5313,6/28/2013 8:55,6/28/2013 9:14,168,1196,19,Loomis St & Taylor St,48,Larrabee St & Kingsbury St,Customer,null,null,Near West Side,41.8694,-87.661,Near North Side,41.8978,-87.6429,3489.01541081145
+5314,6/28/2013 8:55,6/28/2013 9:30,154,2063,45,Michigan Ave & Congress Pkwy,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8761,-87.6244,0
+5319,6/28/2013 8:57,6/28/2013 9:08,236,646,74,Kingsbury St & Erie St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8938,-87.6419,Near West Side,41.8816,-87.6413,1362.64727965945
+5327,6/28/2013 9:05,6/28/2013 9:15,524,594,27,Larrabee St & North Ave,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.9102,-87.6435,West Town,41.8964,-87.6541,1770.19932985376
+5335,6/28/2013 9:14,6/28/2013 9:41,227,1670,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+5346,6/28/2013 9:26,6/28/2013 14:25,118,17898,74,Kingsbury St & Erie St,88,May St & Randolph St,Customer,null,null,Near North Side,41.8938,-87.6419,Near West Side,41.884,-87.6557,1587.88118430856
+5353,6/28/2013 9:35,6/28/2013 9:50,226,896,24,Fairbanks Ct & Grand Ave,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8977,-87.6235,687.408482863163
+5354,6/28/2013 9:36,6/28/2013 10:01,308,1498,48,Larrabee St & Kingsbury St,66,Clinton St & Lake St,Customer,null,null,Near North Side,41.8978,-87.6429,Near West Side,41.8858,-87.6414,1331.06635642032
+5355,6/28/2013 9:37,6/28/2013 10:02,772,1465,48,Larrabee St & Kingsbury St,66,Clinton St & Lake St,Customer,null,null,Near North Side,41.8978,-87.6429,Near West Side,41.8858,-87.6414,1331.06635642032
+5357,6/28/2013 9:40,6/28/2013 10:07,286,1637,51,Clark St & Randolph St,69,Damen Ave & Pierce Ave,Customer,null,null,The Loop,41.8846,-87.6319,West Town,41.9094,-87.6777,4695.33650642086
+5363,6/28/2013 9:43,6/28/2013 9:56,466,812,32,Racine Ave & Congress Pkwy,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8746,-87.657,The Loop,41.8777,-87.6353,1834.01317156175
+5370,6/28/2013 9:47,6/28/2013 10:17,527,1787,88,May St & Randolph St,62,McCormick Place,Customer,null,null,Near West Side,41.884,-87.6557,Near South Side,41.8514,-87.6188,4740.06632672388
+5372,6/28/2013 9:47,6/28/2013 10:42,221,3270,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+5374,6/28/2013 9:48,6/28/2013 10:15,407,1638,54,Ogden Ave & Chicago Ave,67,Sheffield Ave & Fullerton Ave,Customer,null,null,West Town,41.8964,-87.6541,Lincoln Park,41.9256,-87.6537,3247.8000795506
+5378,6/28/2013 9:49,6/28/2013 10:18,465,1709,341,Adler Planetarium,350,Ashland Ave & Chicago Ave,Customer,null,null,Near South Side,41.8661,-87.6073,West Town,41.896,-87.6677,6017.43911542699
+5380,6/28/2013 9:51,6/28/2013 11:08,229,4588,30,Ashland Ave & Augusta Blvd,76,Lake Shore Dr & Monroe St,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.881,-87.6167,4710.85624954838
+5381,6/28/2013 9:56,6/28/2013 11:08,211,4315,30,Ashland Ave & Augusta Blvd,76,Lake Shore Dr & Monroe St,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.881,-87.6167,4710.85624954838
+5383,6/28/2013 10:00,6/28/2013 10:24,449,1415,127,Lincoln Ave & Fullerton Ave,127,Lincoln Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9259,-87.6493,Lincoln Park,41.9259,-87.6493,0
+5384,6/28/2013 10:01,6/28/2013 11:00,654,3514,164,Franklin St & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.8858,-87.6355,The Loop,41.881,-87.6241,1087.50405284722
+5393,6/28/2013 10:04,6/28/2013 11:27,281,4988,279,Halsted St & 35th St,85,Michigan Ave & Oak St,Customer,null,null,Bridgeport,41.8307,-87.6472,Near North Side,41.901,-87.6238,8046.17181944067
+5403,6/28/2013 10:11,6/28/2013 10:33,409,1298,350,Ashland Ave & Chicago Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,West Town,41.896,-87.6677,Near North Side,41.8919,-87.6206,3937.48696077911
+5406,6/28/2013 10:15,6/28/2013 10:20,526,329,19,Loomis St & Taylor St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8694,-87.661,Near West Side,41.8695,-87.6555,457.463543622628
+5408,6/28/2013 10:17,6/28/2013 10:49,222,1912,85,Michigan Ave & Oak St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6167,2297.09579332762
+5409,6/28/2013 10:18,6/28/2013 10:42,57,1409,37,Dearborn St & Adams St,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.8794,-87.6298,0
+5410,6/28/2013 10:19,6/28/2013 10:32,511,780,73,Jefferson St & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near West Side,41.8804,-87.6427,Near North Side,41.8919,-87.6206,2233.032439183
+5412,6/28/2013 10:21,6/28/2013 10:34,38,747,25,Michigan Ave & Pearson St,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.886,-87.6241,1293.40567788078
+5417,6/28/2013 10:25,6/28/2013 11:00,253,2140,72,State St & 16th St,72,State St & 16th St,Customer,null,null,Near South Side,41.8601,-87.6277,Near South Side,41.8601,-87.6277,0
+5419,6/28/2013 10:29,6/28/2013 11:27,909,3472,24,Fairbanks Ct & Grand Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8919,-87.6206,0
+5421,6/28/2013 10:31,6/28/2013 10:56,333,1525,21,Aberdeen St & Jackson Blvd,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.8761,-87.6244,2526.44028692259
+5423,6/28/2013 10:34,6/28/2013 11:05,44,1852,25,Michigan Ave & Pearson St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.891,-87.6173,899.730301562153
+5433,6/28/2013 10:43,6/28/2013 11:03,218,1214,25,Michigan Ave & Pearson St,44,State St & Randolph St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8847,-87.6277,1478.28583688794
+5443,6/28/2013 10:54,6/28/2013 11:20,98,1573,28,Larrabee St & Menomonee St,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Near North Side,41.901,-87.6238,2225.1874735633
+5455,6/28/2013 11:02,6/28/2013 15:04,471,14517,55,Halsted St & James M Rochford St,14,Morgan St & 18th St,Customer,null,null,Near West Side,41.8659,-87.6466,Lower West Side,41.8581,-87.6511,939.688164432862
+5462,6/28/2013 11:05,6/28/2013 11:20,312,898,29,Noble St & Milwaukee Ave,31,Franklin St & Chicago Ave,Customer,null,null,West Town,41.9007,-87.6626,Near North Side,41.8968,-87.6356,2278.41265402326
+5463,6/28/2013 11:05,6/28/2013 11:41,206,2178,252,Greenwood Ave & 47th St,90,Millennium Park,Customer,null,null,Kenwood,41.8098,-87.5994,The Loop,41.881,-87.6241,8169.60318619948
+5466,6/28/2013 11:05,6/28/2013 11:41,160,2130,91,Clinton St & Washington Blvd,90,Millennium Park,Customer,null,null,Near West Side,41.8834,-87.6412,The Loop,41.881,-87.6241,1441.95538574339
+5468,6/28/2013 11:07,6/28/2013 11:32,25,1529,34,Cannon Dr & Fullerton Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9183,-87.6363,951.061622846123
+5470,6/28/2013 11:07,6/28/2013 11:32,272,1502,311,Lincoln Ave & Eastwood Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,Lincoln Square,41.9658,-87.6865,Lincoln Park,41.9183,-87.6363,6724.01946373162
+5471,6/28/2013 11:07,6/28/2013 11:16,407,544,67,Sheffield Ave & Fullerton Ave,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6537,Lincoln Park,41.9256,-87.6537,0
+5477,6/28/2013 11:14,6/28/2013 13:54,375,9614,59,Wabash Ave & Roosevelt Rd,249,Montrose Harbor,Customer,null,null,The Loop,41.8682,-87.6263,Uptown,41.964,-87.6382,10688.7922042801
+5486,6/28/2013 11:18,6/28/2013 13:54,403,9396,59,Wabash Ave & Roosevelt Rd,108,Halsted St & Polk St,Customer,null,null,The Loop,41.8682,-87.6263,Near West Side,41.8718,-87.6466,1740.01201822034
+5499,6/28/2013 11:20,6/28/2013 11:36,282,999,24,Fairbanks Ct & Grand Ave,48,Larrabee St & Kingsbury St,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8978,-87.6429,1960.54634134641
+5503,6/28/2013 11:21,6/28/2013 11:36,280,945,232,Pine Grove Ave & Addison St,48,Larrabee St & Kingsbury St,Customer,null,null,Lake View,41.9493,-87.6463,Near North Side,41.8978,-87.6429,5728.44415130048
+5510,6/28/2013 11:23,6/28/2013 11:46,98,1406,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+5518,6/28/2013 11:25,6/28/2013 11:48,401,1365,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+5534,6/28/2013 11:29,6/28/2013 11:46,372,1021,60,Dayton St & North Ave,60,Dayton St & North Ave,Customer,null,null,Near North Side,41.9106,-87.6494,Near North Side,41.9106,-87.6494,0
+5552,6/28/2013 11:35,6/28/2013 11:55,116,1204,74,Kingsbury St & Erie St,51,Clark St & Randolph St,Customer,null,null,Near North Side,41.8938,-87.6419,The Loop,41.8846,-87.6319,1320.19322686914
+5566,6/28/2013 11:38,6/28/2013 12:03,192,1521,30,Ashland Ave & Augusta Blvd,51,Clark St & Randolph St,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.8846,-87.6319,3410.67971491962
+5567,6/28/2013 11:39,6/28/2013 12:07,173,1706,36,Franklin St & Jackson Blvd,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8794,-87.6298,494.208920492863
+5574,6/28/2013 11:41,6/28/2013 11:53,95,747,66,Clinton St & Lake St,88,May St & Randolph St,Customer,null,null,Near West Side,41.8858,-87.6414,Near West Side,41.884,-87.6557,1205.26160460202
+5584,6/28/2013 11:46,6/28/2013 12:06,207,1185,22,May St & Taylor St,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8695,-87.6555,The Loop,41.8761,-87.6244,2679.59001409892
+5589,6/28/2013 11:48,6/28/2013 12:07,309,1131,36,Franklin St & Jackson Blvd,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8777,-87.6353,Near North Side,41.891,-87.6173,2103.21629861427
+5590,6/28/2013 11:49,6/28/2013 12:12,193,1381,30,Ashland Ave & Augusta Blvd,90,Millennium Park,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.881,-87.6241,4168.46572966543
+5599,6/28/2013 11:54,6/28/2013 12:00,174,351,66,Clinton St & Lake St,91,Clinton St & Washington Blvd,Customer,null,null,Near West Side,41.8858,-87.6414,Near West Side,41.8834,-87.6412,272.99772095213
+5612,6/28/2013 11:56,6/28/2013 12:08,102,694,31,Franklin St & Chicago Ave,46,Wells St & Walton St,Customer,null,null,Near North Side,41.8968,-87.6356,Near North Side,41.8999,-87.6344,361.607484705673
+5614,6/28/2013 11:56,6/28/2013 12:08,656,671,31,Franklin St & Chicago Ave,46,Wells St & Walton St,Customer,null,null,Near North Side,41.8968,-87.6356,Near North Side,41.8999,-87.6344,361.607484705673
+5624,6/28/2013 11:58,6/28/2013 12:19,239,1304,17,Wood St & Division St,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9033,-87.6727,Lincoln Park,41.9183,-87.6363,3451.80246384291
+5625,6/28/2013 11:58,6/28/2013 12:19,175,1296,17,Wood St & Division St,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9033,-87.6727,Lincoln Park,41.9183,-87.6363,3451.80246384291
+5652,6/28/2013 12:03,6/28/2013 12:11,898,507,62,McCormick Place,42,Wabash Ave & Cermak Rd,Customer,null,null,Near South Side,41.8514,-87.6188,Near South Side,41.8532,-87.6253,578.289627989729
+5654,6/28/2013 12:03,6/28/2013 12:12,834,547,62,McCormick Place,42,Wabash Ave & Cermak Rd,Customer,null,null,Near South Side,41.8514,-87.6188,Near South Side,41.8532,-87.6253,578.289627989729
+5661,6/28/2013 12:04,6/28/2013 14:50,511,10004,26,McClurg Ct & Illinois St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8919,-87.6206,290.899449609793
+5664,6/28/2013 12:04,6/28/2013 14:50,337,9966,26,McClurg Ct & Illinois St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8919,-87.6206,290.899449609793
+5679,6/28/2013 12:06,6/28/2013 12:32,255,1560,90,Millennium Park,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8919,-87.6206,1236.60337235102
+5682,6/28/2013 12:07,6/28/2013 12:58,418,3031,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6167,0
+5685,6/28/2013 12:07,6/28/2013 12:57,343,3001,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6167,0
+5690,6/28/2013 12:08,6/28/2013 12:24,217,931,44,State St & Randolph St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8846,-87.6319,345.40075404336
+5697,6/28/2013 12:11,6/28/2013 12:48,64,2211,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+5699,6/28/2013 12:11,6/28/2013 12:21,159,590,60,Dayton St & North Ave,60,Dayton St & North Ave,Customer,null,null,Near North Side,41.9106,-87.6494,Near North Side,41.9106,-87.6494,0
+5702,6/28/2013 12:13,6/28/2013 14:48,448,9307,76,Lake Shore Dr & Monroe St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,The Loop,41.881,-87.6167,Lincoln Park,41.9256,-87.6537,5830.61752301516
+5703,6/28/2013 12:13,6/28/2013 14:47,503,9250,76,Lake Shore Dr & Monroe St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,The Loop,41.881,-87.6167,Lincoln Park,41.9256,-87.6537,5830.61752301516
+5704,6/28/2013 12:14,6/28/2013 12:48,63,2056,90,Millennium Park,311,Lincoln Ave & Eastwood Ave,Customer,null,null,The Loop,41.881,-87.6241,Lincoln Square,41.9658,-87.6865,10748.290600178
+5705,6/28/2013 12:14,6/28/2013 12:29,615,920,48,Larrabee St & Kingsbury St,73,Jefferson St & Monroe St,Customer,null,null,Near North Side,41.8978,-87.6429,Near West Side,41.8804,-87.6427,1926.22959495405
+5706,6/28/2013 12:14,6/28/2013 12:48,65,2035,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+5708,6/28/2013 12:16,6/28/2013 13:11,58,3256,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+5712,6/28/2013 12:17,6/28/2013 13:10,62,3202,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+5713,6/28/2013 12:18,6/28/2013 12:52,379,2040,52,Michigan Ave & Lake St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6167,831.400176754601
+5716,6/28/2013 12:18,6/28/2013 12:41,401,1374,52,Michigan Ave & Lake St,127,Lincoln Ave & Fullerton Ave,Customer,null,null,The Loop,41.886,-87.6241,Lincoln Park,41.9259,-87.6493,4896.31162795392
+5746,6/28/2013 12:26,6/28/2013 12:50,437,1440,90,Millennium Park,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.901,-87.6238,2213.65014406801
+5782,6/28/2013 12:35,6/28/2013 12:56,307,1309,45,Michigan Ave & Congress Pkwy,21,Aberdeen St & Jackson Blvd,Customer,null,null,The Loop,41.8761,-87.6244,Near West Side,41.8777,-87.6548,2526.44028692257
+5783,6/28/2013 12:35,6/28/2013 12:46,57,659,37,Dearborn St & Adams St,5,State St & Harrison St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.874,-87.6277,623.309828562775
+5802,6/28/2013 12:37,6/28/2013 14:29,842,6749,42,Wabash Ave & Cermak Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8682,-87.6263,1659.21933118581
+5805,6/28/2013 12:37,6/28/2013 12:56,141,1137,90,Millennium Park,48,Larrabee St & Kingsbury St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8978,-87.6429,2426.59208557987
+5806,6/28/2013 12:37,6/28/2013 13:16,599,2349,45,Michigan Ave & Congress Pkwy,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8682,-87.6263,891.068676179201
+5807,6/28/2013 12:37,6/28/2013 13:03,139,1557,90,Millennium Park,74,Kingsbury St & Erie St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8938,-87.6419,2049.21587436284
+5808,6/28/2013 12:38,6/28/2013 13:16,154,2334,45,Michigan Ave & Congress Pkwy,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8682,-87.6263,891.068676179201
+5810,6/28/2013 12:38,6/28/2013 12:53,116,893,51,Clark St & Randolph St,48,Larrabee St & Kingsbury St,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.8978,-87.6429,1725.71497719104
+5822,6/28/2013 12:40,6/28/2013 13:28,140,2882,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+5823,6/28/2013 12:41,6/28/2013 12:58,225,1014,45,Michigan Ave & Congress Pkwy,21,Aberdeen St & Jackson Blvd,Customer,null,null,The Loop,41.8761,-87.6244,Near West Side,41.8777,-87.6548,2526.44028692257
+5824,6/28/2013 12:41,6/28/2013 13:18,80,2244,90,Millennium Park,30,Ashland Ave & Augusta Blvd,Customer,null,null,The Loop,41.881,-87.6241,West Town,41.8996,-87.6677,4168.46572966553
+5826,6/28/2013 12:41,6/28/2013 13:18,628,2219,90,Millennium Park,30,Ashland Ave & Augusta Blvd,Customer,null,null,The Loop,41.881,-87.6241,West Town,41.8996,-87.6677,4168.46572966553
+5840,6/28/2013 12:43,6/28/2013 13:13,98,1761,85,Michigan Ave & Oak St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.891,-87.6173,1227.96162263681
+5850,6/28/2013 12:47,6/28/2013 12:51,380,196,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+5853,6/28/2013 12:48,6/28/2013 15:13,463,8681,90,Millennium Park,279,Halsted St & 35th St,Customer,null,null,The Loop,41.881,-87.6241,Bridgeport,41.8307,-87.6472,5914.0580955761
+5857,6/28/2013 12:49,6/28/2013 12:56,495,430,77,Clinton St & Madison St,77,Clinton St & Madison St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8816,-87.6413,0
+5858,6/28/2013 12:49,6/28/2013 13:09,386,1196,51,Clark St & Randolph St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.8919,-87.6206,1236.68621760581
+5860,6/28/2013 12:50,6/28/2013 14:29,479,5937,42,Wabash Ave & Cermak Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8682,-87.6263,1659.21933118581
+5871,6/28/2013 12:52,6/28/2013 12:57,380,325,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+5876,6/28/2013 12:52,6/28/2013 13:03,474,622,51,Clark St & Randolph St,74,Kingsbury St & Erie St,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.8938,-87.6419,1320.19322686882
+5880,6/28/2013 12:54,6/28/2013 13:07,409,770,24,Fairbanks Ct & Grand Ave,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8977,-87.6235,687.408482863163
+5883,6/28/2013 12:55,6/28/2013 13:18,176,1368,85,Michigan Ave & Oak St,28,Larrabee St & Menomonee St,Customer,null,null,Near North Side,41.901,-87.6238,Lincoln Park,41.9147,-87.6433,2225.18747356355
+5897,6/28/2013 12:59,6/28/2013 13:03,316,278,54,Ogden Ave & Chicago Ave,54,Ogden Ave & Chicago Ave,Customer,null,null,West Town,41.8964,-87.6541,West Town,41.8964,-87.6541,0
+5903,6/28/2013 12:59,6/28/2013 13:23,418,1421,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+5906,6/28/2013 13:00,6/28/2013 13:09,372,554,60,Dayton St & North Ave,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.9106,-87.6494,West Town,41.8964,-87.6541,1625.19267536285
+5910,6/28/2013 13:01,6/28/2013 13:06,286,271,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+5911,6/28/2013 13:01,6/28/2013 13:35,193,2028,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+5912,6/28/2013 13:02,6/28/2013 13:35,592,2008,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+5914,6/28/2013 13:02,6/28/2013 13:42,817,2388,73,Jefferson St & Monroe St,73,Jefferson St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8804,-87.6427,0
+5917,6/28/2013 13:03,6/28/2013 13:37,557,1989,77,Clinton St & Madison St,62,McCormick Place,Customer,null,null,Near West Side,41.8816,-87.6413,Near South Side,41.8514,-87.6188,3837.80866412636
+5919,6/28/2013 13:05,6/28/2013 13:38,476,1999,341,Adler Planetarium,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near South Side,41.8661,-87.6073,Lincoln Park,41.9256,-87.6537,7651.04054189384
+5920,6/28/2013 13:05,6/28/2013 13:11,57,350,5,State St & Harrison St,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8794,-87.6298,623.309828562892
+5921,6/28/2013 13:05,6/28/2013 13:34,379,1694,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+5922,6/28/2013 13:05,6/28/2013 13:34,401,1709,127,Lincoln Ave & Fullerton Ave,26,McClurg Ct & Illinois St,Customer,null,null,Lincoln Park,41.9259,-87.6493,Near North Side,41.891,-87.6173,4695.21572465957
+5923,6/28/2013 13:06,6/28/2013 13:14,258,522,36,Franklin St & Jackson Blvd,91,Clinton St & Washington Blvd,Customer,null,null,The Loop,41.8777,-87.6353,Near West Side,41.8834,-87.6412,795.359694031179
+5924,6/28/2013 13:06,6/28/2013 13:17,606,632,51,Clark St & Randolph St,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8777,-87.6353,814.296960657244
+5928,6/28/2013 13:07,6/28/2013 13:24,607,1041,69,Damen Ave & Pierce Ave,84,Green St & Milwaukee Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.8917,-87.6487,3102.52793761126
+5929,6/28/2013 13:07,6/28/2013 13:14,177,436,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+5931,6/28/2013 13:07,6/28/2013 13:45,897,2253,62,McCormick Place,76,Lake Shore Dr & Monroe St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.881,-87.6167,3290.37100219941
+5932,6/28/2013 13:07,6/28/2013 13:44,835,2171,62,McCormick Place,76,Lake Shore Dr & Monroe St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.881,-87.6167,3290.37100219941
+5934,6/28/2013 13:08,6/28/2013 13:26,183,1106,25,Michigan Ave & Pearson St,37,Dearborn St & Adams St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8794,-87.6298,2098.7763981204
+5935,6/28/2013 13:08,6/28/2013 13:36,525,1686,52,Michigan Ave & Lake St,5,State St & Harrison St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.874,-87.6277,1373.49347946289
+5937,6/28/2013 13:09,6/28/2013 13:14,437,259,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+5938,6/28/2013 13:11,6/28/2013 13:31,389,1180,5,State St & Harrison St,44,State St & Randolph St,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8847,-87.6277,1196.47182998698
+5942,6/28/2013 13:13,6/28/2013 13:35,855,1316,45,Michigan Ave & Congress Pkwy,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8846,-87.6319,1129.88700962033
+5946,6/28/2013 13:14,6/28/2013 13:37,249,1413,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+5948,6/28/2013 13:14,6/28/2013 13:39,206,1524,90,Millennium Park,30,Ashland Ave & Augusta Blvd,Customer,null,null,The Loop,41.881,-87.6241,West Town,41.8996,-87.6677,4168.46572966553
+5949,6/28/2013 13:14,6/28/2013 13:37,58,1371,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+5950,6/28/2013 13:14,6/28/2013 13:28,335,843,37,Dearborn St & Adams St,91,Clinton St & Washington Blvd,Customer,null,null,The Loop,41.8794,-87.6298,Near West Side,41.8834,-87.6412,1044.90049023248
+5958,6/28/2013 13:15,6/28/2013 13:30,441,928,5,State St & Harrison St,44,State St & Randolph St,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8847,-87.6277,1196.47182998698
+5959,6/28/2013 13:15,6/28/2013 13:55,369,2399,340,Clark St & Wrightwood Ave,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9295,-87.6431,Near North Side,41.901,-87.6238,3557.47007705459
+5960,6/28/2013 13:15,6/28/2013 14:27,211,4326,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+5961,6/28/2013 13:15,6/28/2013 14:01,229,2727,76,Lake Shore Dr & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.8919,-87.6206,1252.92282793922
+5962,6/28/2013 13:16,6/28/2013 13:51,420,2094,54,Ogden Ave & Chicago Ave,26,McClurg Ct & Illinois St,Customer,null,null,West Town,41.8964,-87.6541,Near North Side,41.891,-87.6173,3107.93706167549
+5970,6/28/2013 13:19,6/28/2013 13:30,138,658,5,State St & Harrison St,44,State St & Randolph St,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8847,-87.6277,1196.47182998698
+5978,6/28/2013 13:26,6/28/2013 13:56,607,1793,84,Green St & Milwaukee Ave,44,State St & Randolph St,Customer,null,null,West Town,41.8917,-87.6487,The Loop,41.8847,-87.6277,1908.09117127911
+5992,6/28/2013 13:27,6/28/2013 14:03,222,2152,76,Lake Shore Dr & Monroe St,62,McCormick Place,Customer,null,null,The Loop,41.881,-87.6167,Near South Side,41.8514,-87.6188,3290.37100219968
+6001,6/28/2013 13:30,6/28/2013 13:56,225,1564,21,Aberdeen St & Jackson Blvd,52,Michigan Ave & Lake St,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.886,-87.6241,2707.46207181405
+6003,6/28/2013 13:30,6/28/2013 13:57,416,1580,279,Halsted St & 35th St,37,Dearborn St & Adams St,Customer,null,null,Bridgeport,41.8307,-87.6472,The Loop,41.8794,-87.6298,5597.87621205859
+6010,6/28/2013 13:31,6/28/2013 13:48,43,1008,52,Michigan Ave & Lake St,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8977,-87.6235,1293.40567788126
+6014,6/28/2013 13:32,6/28/2013 14:05,343,1924,26,McClurg Ct & Illinois St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.891,-87.6173,Near West Side,41.8816,-87.6413,2249.27492326855
+6021,6/28/2013 13:34,6/28/2013 14:00,648,1547,349,Halsted St & Wrightwood Ave,17,Wood St & Division St,Customer,null,null,Lincoln Park,41.9291,-87.6491,West Town,41.9033,-87.6727,3475.19282026347
+6026,6/28/2013 13:36,6/28/2013 13:55,55,1174,44,State St & Randolph St,22,May St & Taylor St,Customer,null,null,The Loop,41.8847,-87.6277,Near West Side,41.8695,-87.6555,2859.31257031667
+6028,6/28/2013 13:37,6/28/2013 14:20,326,2579,24,Fairbanks Ct & Grand Ave,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8968,-87.6356,1361.86586362862
+6030,6/28/2013 13:38,6/28/2013 13:50,101,748,31,Franklin St & Chicago Ave,340,Clark St & Wrightwood Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Lincoln Park,41.9295,-87.6431,3689.48196272814
+6059,6/28/2013 13:42,6/28/2013 14:36,333,3266,45,Michigan Ave & Congress Pkwy,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8761,-87.6244,Near North Side,41.891,-87.6173,1763.37239316424
+6062,6/28/2013 13:43,6/28/2013 14:27,531,2643,36,Franklin St & Jackson Blvd,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8777,-87.6353,Near North Side,41.891,-87.6173,2103.21629861427
+6063,6/28/2013 13:43,6/28/2013 15:41,409,7058,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8977,-87.6235,0
+6067,6/28/2013 13:43,6/28/2013 14:27,466,2603,36,Franklin St & Jackson Blvd,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8777,-87.6353,Near North Side,41.891,-87.6173,2103.21629861427
+6068,6/28/2013 13:44,6/28/2013 14:03,48,1143,72,State St & 16th St,19,Loomis St & Taylor St,Customer,null,null,Near South Side,41.8601,-87.6277,Near West Side,41.8694,-87.661,2948.67528122193
+6069,6/28/2013 13:44,6/28/2013 14:27,340,2601,36,Franklin St & Jackson Blvd,350,Ashland Ave & Chicago Ave,Customer,null,null,The Loop,41.8777,-87.6353,West Town,41.896,-87.6677,3369.78214768591
+6083,6/28/2013 13:50,6/28/2013 14:27,42,2253,25,Michigan Ave & Pearson St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9183,-87.6363,2526.18953894258
+6084,6/28/2013 13:50,6/28/2013 14:27,94,2229,25,Michigan Ave & Pearson St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9183,-87.6363,2526.18953894258
+6114,6/28/2013 13:52,6/28/2013 14:26,442,2044,76,Lake Shore Dr & Monroe St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.8682,-87.6263,1626.46260678173
+6121,6/28/2013 13:52,6/29/2013 7:14,835,62529,76,Lake Shore Dr & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.8919,-87.6206,1252.92282793922
+6122,6/28/2013 13:53,6/29/2013 9:28,897,70484,76,Lake Shore Dr & Monroe St,62,McCormick Place,Customer,null,null,The Loop,41.881,-87.6167,Near South Side,41.8514,-87.6188,3290.37100219968
+6131,6/28/2013 13:56,6/28/2013 14:23,387,1627,190,Southport Ave & Wrightwood Ave,44,State St & Randolph St,Customer,null,null,Lincoln Park,41.9289,-87.6632,The Loop,41.8847,-87.6277,5717.68793317592
+6136,6/28/2013 13:57,6/28/2013 14:22,176,1500,28,Larrabee St & Menomonee St,28,Larrabee St & Menomonee St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Lincoln Park,41.9147,-87.6433,0
+6139,6/28/2013 13:59,6/28/2013 15:08,437,4120,85,Michigan Ave & Oak St,251,Clarendon Ave & Leland Ave,Customer,null,null,Near North Side,41.901,-87.6238,Uptown,41.968,-87.65,7753.94623089797
+6141,6/28/2013 14:00,6/28/2013 14:23,85,1370,28,Larrabee St & Menomonee St,28,Larrabee St & Menomonee St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Lincoln Park,41.9147,-87.6433,0
+6143,6/28/2013 14:01,6/28/2013 14:27,351,1614,22,May St & Taylor St,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8695,-87.6555,The Loop,41.8777,-87.6353,1907.11034885374
+6171,6/28/2013 14:06,6/28/2013 14:35,586,1737,17,Wood St & Division St,27,Larrabee St & North Ave,Customer,null,null,West Town,41.9033,-87.6727,Near North Side,41.9102,-87.6435,2543.13617623142
+6178,6/28/2013 14:06,6/28/2013 14:34,299,1687,17,Wood St & Division St,27,Larrabee St & North Ave,Customer,null,null,West Town,41.9033,-87.6727,Near North Side,41.9102,-87.6435,2543.13617623142
+6204,6/28/2013 14:09,6/28/2013 14:35,183,1571,37,Dearborn St & Adams St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8794,-87.6298,Near North Side,41.891,-87.6173,1659.26276888207
+6218,6/28/2013 14:10,6/28/2013 14:15,395,285,37,Dearborn St & Adams St,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.8794,-87.6298,Near West Side,41.8781,-87.64,858.050927420636
+6238,6/28/2013 14:12,6/28/2013 15:10,149,3449,17,Wood St & Division St,52,Michigan Ave & Lake St,Customer,null,null,West Town,41.9033,-87.6727,The Loop,41.886,-87.6241,4468.31352279091
+6250,6/28/2013 14:15,6/28/2013 14:45,407,1786,67,Sheffield Ave & Fullerton Ave,61,Wood St & Milwaukee Ave,Customer,null,null,Lincoln Park,41.9256,-87.6537,West Town,41.9077,-87.6726,2533.26360964089
+6253,6/28/2013 14:16,6/28/2013 15:06,287,2995,88,May St & Randolph St,81,Daley Center Plaza,Customer,null,null,Near West Side,41.884,-87.6557,The Loop,41.8842,-87.6296,2162.53069119606
+6256,6/28/2013 14:17,6/28/2013 14:28,121,654,36,Franklin St & Jackson Blvd,57,Clinton St & Roosevelt Rd,Customer,null,null,The Loop,41.8777,-87.6353,Near West Side,41.8671,-87.6411,1269.95193010438
+6258,6/28/2013 14:17,6/28/2013 14:27,602,597,61,Wood St & Milwaukee Ave,20,Sheffield Ave & Kingsbury St,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.9096,-87.6535,1595.52965251637
+6263,6/28/2013 14:21,6/28/2013 15:07,286,2762,44,State St & Randolph St,44,State St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8847,-87.6277,0
+6264,6/28/2013 14:21,6/28/2013 18:40,411,15555,20,Sheffield Ave & Kingsbury St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near North Side,41.9096,-87.6535,Lincoln Park,41.9183,-87.6363,1725.28280747568
+6273,6/28/2013 14:25,6/28/2013 14:41,420,966,26,McClurg Ct & Illinois St,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8968,-87.6356,1651.82760290282
+6274,6/28/2013 14:25,6/28/2013 15:07,607,2549,44,State St & Randolph St,44,State St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8847,-87.6277,0
+6281,6/28/2013 14:28,6/28/2013 14:52,176,1428,28,Larrabee St & Menomonee St,28,Larrabee St & Menomonee St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Lincoln Park,41.9147,-87.6433,0
+6283,6/28/2013 14:28,6/28/2013 14:52,272,1419,28,Larrabee St & Menomonee St,28,Larrabee St & Menomonee St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Lincoln Park,41.9147,-87.6433,0
+6286,6/28/2013 14:29,6/28/2013 15:27,449,3513,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+6294,6/28/2013 14:30,6/28/2013 14:49,389,1112,44,State St & Randolph St,349,Halsted St & Wrightwood Ave,Customer,null,null,The Loop,41.8847,-87.6277,Lincoln Park,41.9291,-87.6491,5241.23136771454
+6295,6/28/2013 14:31,6/28/2013 15:01,226,1841,25,Michigan Ave & Pearson St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.891,-87.6173,899.730301562153
+6296,6/28/2013 14:31,6/28/2013 15:01,572,1829,25,Michigan Ave & Pearson St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.891,-87.6173,899.730301562153
+6298,6/28/2013 14:32,6/28/2013 15:00,154,1682,59,Wabash Ave & Roosevelt Rd,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8532,-87.6253,1659.21933118528
+6300,6/28/2013 14:32,6/28/2013 14:59,599,1628,59,Wabash Ave & Roosevelt Rd,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8532,-87.6253,1659.21933118528
+6302,6/28/2013 14:33,6/28/2013 14:52,142,1085,90,Millennium Park,349,Halsted St & Wrightwood Ave,Customer,null,null,The Loop,41.881,-87.6241,Lincoln Park,41.9291,-87.6491,5732.05809255459
+6303,6/28/2013 14:34,6/28/2013 15:02,351,1696,36,Franklin St & Jackson Blvd,90,Millennium Park,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.881,-87.6241,1003.13627335496
+6310,6/28/2013 14:35,6/28/2013 15:01,177,1560,85,Michigan Ave & Oak St,44,State St & Randolph St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.8847,-87.6277,1832.37214442966
+6319,6/28/2013 14:37,6/28/2013 15:01,369,1444,85,Michigan Ave & Oak St,44,State St & Randolph St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.8847,-87.6277,1832.37214442966
+6323,6/28/2013 14:39,6/28/2013 15:01,221,1342,85,Michigan Ave & Oak St,44,State St & Randolph St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.8847,-87.6277,1832.37214442966
+6330,6/28/2013 14:40,6/28/2013 14:56,224,965,59,Wabash Ave & Roosevelt Rd,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.881,-87.6167,1626.46260678155
+6336,6/28/2013 14:44,6/28/2013 20:19,712,20090,75,Canal St & Jackson Blvd,75,Canal St & Jackson Blvd,Customer,null,null,Near West Side,41.8781,-87.64,Near West Side,41.8781,-87.64,0
+6338,6/28/2013 14:45,6/28/2013 15:09,378,1429,85,Michigan Ave & Oak St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.901,-87.6238,Lincoln Park,41.9268,-87.6344,2998.35103829834
+6345,6/28/2013 14:48,6/28/2013 15:26,173,2285,25,Michigan Ave & Pearson St,69,Damen Ave & Pierce Ave,Customer,null,null,Near North Side,41.8977,-87.6235,West Town,41.9094,-87.6777,4680.95225887106
+6350,6/28/2013 14:51,6/28/2013 15:23,531,1942,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6352,6/28/2013 14:53,6/28/2013 15:00,161,431,73,Jefferson St & Monroe St,73,Jefferson St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8804,-87.6427,0
+6353,6/28/2013 14:53,6/28/2013 14:57,222,223,62,McCormick Place,62,McCormick Place,Customer,null,null,Near South Side,41.8514,-87.6188,Near South Side,41.8514,-87.6188,0
+6354,6/28/2013 14:54,6/28/2013 15:05,602,667,20,Sheffield Ave & Kingsbury St,61,Wood St & Milwaukee Ave,Customer,null,null,Near North Side,41.9096,-87.6535,West Town,41.9077,-87.6726,1595.52965251635
+6355,6/28/2013 14:56,6/28/2013 15:27,183,1856,26,McClurg Ct & Illinois St,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.891,-87.6173,West Town,41.8964,-87.6541,3107.93706167551
+6356,6/28/2013 14:57,6/28/2013 15:20,410,1375,97,Museum Campus,350,Ashland Ave & Chicago Ave,Customer,null,null,Near South Side,41.8652,-87.6178,West Town,41.896,-87.6677,5374.45033663922
+6357,6/28/2013 14:58,6/28/2013 15:20,225,1349,52,Michigan Ave & Lake St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.891,-87.6173,792.484512133261
+6361,6/28/2013 15:00,6/28/2013 15:22,527,1347,62,McCormick Place,90,Millennium Park,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.881,-87.6241,3322.68118632272
+6362,6/28/2013 15:00,6/28/2013 15:30,419,1782,341,Adler Planetarium,76,Lake Shore Dr & Monroe St,Customer,null,null,Near South Side,41.8661,-87.6073,The Loop,41.881,-87.6167,1828.68923276774
+6363,6/28/2013 15:01,6/28/2013 15:10,119,546,74,Kingsbury St & Erie St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8938,-87.6419,Near West Side,41.8816,-87.6413,1362.64727965945
+6368,6/28/2013 15:03,6/28/2013 15:15,121,752,57,Clinton St & Roosevelt Rd,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8671,-87.6411,The Loop,41.8777,-87.6353,1269.95193010475
+6373,6/28/2013 15:04,6/28/2013 15:33,167,1763,51,Clark St & Randolph St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8846,-87.6319,0
+6393,6/28/2013 15:07,6/28/2013 15:33,320,1590,51,Clark St & Randolph St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8846,-87.6319,0
+6408,6/28/2013 15:12,6/28/2013 15:39,351,1642,90,Millennium Park,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.901,-87.6238,2213.65014406801
+6409,6/28/2013 15:13,6/28/2013 15:42,460,1748,51,Clark St & Randolph St,33,State St & Van Buren St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8772,-87.6278,887.396722210196
+6413,6/28/2013 15:16,6/28/2013 15:30,47,828,25,Michigan Ave & Pearson St,350,Ashland Ave & Chicago Ave,Customer,null,null,Near North Side,41.8977,-87.6235,West Town,41.896,-87.6677,3675.80303795318
+6414,6/28/2013 15:17,6/28/2013 15:39,557,1353,62,McCormick Place,76,Lake Shore Dr & Monroe St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.881,-87.6167,3290.37100219941
+6418,6/28/2013 15:19,6/28/2013 15:42,94,1386,94,Lincoln Ave & Armitage Ave,17,Wood St & Division St,Customer,null,null,Lincoln Park,41.9183,-87.6363,West Town,41.9033,-87.6727,3451.8024638428
+6419,6/28/2013 15:19,6/28/2013 15:42,42,1374,94,Lincoln Ave & Armitage Ave,17,Wood St & Division St,Customer,null,null,Lincoln Park,41.9183,-87.6363,West Town,41.9033,-87.6727,3451.8024638428
+6421,6/28/2013 15:20,6/28/2013 15:43,378,1391,34,Cannon Dr & Fullerton Ave,25,Michigan Ave & Pearson St,Customer,null,null,Lincoln Park,41.9268,-87.6344,Near North Side,41.8977,-87.6235,3356.29720890708
+6422,6/28/2013 15:20,6/28/2013 15:39,591,1165,88,May St & Randolph St,251,Clarendon Ave & Leland Ave,Customer,null,null,Near West Side,41.884,-87.6557,Uptown,41.968,-87.65,9341.73042438043
+6425,6/28/2013 15:21,6/28/2013 15:37,442,1002,59,Wabash Ave & Roosevelt Rd,90,Millennium Park,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.881,-87.6241,1440.99648865702
+6428,6/28/2013 15:22,6/28/2013 15:53,225,1819,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6429,6/28/2013 15:23,6/28/2013 15:53,410,1800,350,Ashland Ave & Chicago Ave,26,McClurg Ct & Illinois St,Customer,null,null,West Town,41.896,-87.6677,Near North Side,41.891,-87.6173,4222.42433296083
+6431,6/28/2013 15:23,6/28/2013 15:41,321,1097,51,Clark St & Randolph St,33,State St & Van Buren St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8772,-87.6278,887.396722210196
+6442,6/28/2013 15:29,6/28/2013 15:35,421,355,73,Jefferson St & Monroe St,46,Wells St & Walton St,Customer,null,null,Near West Side,41.8804,-87.6427,Near North Side,41.8999,-87.6344,2274.03831182294
+6445,6/28/2013 15:35,6/28/2013 15:47,181,757,51,Clark St & Randolph St,73,Jefferson St & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,Near West Side,41.8804,-87.6427,1012.35521750218
+6450,6/28/2013 15:37,6/28/2013 15:53,116,954,48,Larrabee St & Kingsbury St,97,Museum Campus,Customer,null,null,Near North Side,41.8978,-87.6429,Near South Side,41.8652,-87.6178,4173.92840216733
+6451,6/28/2013 15:38,6/28/2013 15:49,453,660,77,Clinton St & Madison St,74,Kingsbury St & Erie St,Customer,null,null,Near West Side,41.8816,-87.6413,Near North Side,41.8938,-87.6419,1362.64727965897
+6456,6/28/2013 15:42,6/28/2013 16:13,557,1889,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+6462,6/28/2013 15:45,6/28/2013 16:07,486,1311,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8977,-87.6235,0
+6463,6/28/2013 15:45,6/28/2013 16:06,43,1287,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8977,-87.6235,0
+6464,6/28/2013 15:46,6/28/2013 16:05,337,1163,24,Fairbanks Ct & Grand Ave,29,Noble St & Milwaukee Ave,Customer,null,null,Near North Side,41.8919,-87.6206,West Town,41.9007,-87.6626,3618.83978387075
+6465,6/28/2013 15:46,6/28/2013 16:03,246,1017,51,Clark St & Randolph St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.881,-87.6167,1319.90329701348
+6466,6/28/2013 15:47,6/28/2013 16:00,161,819,73,Jefferson St & Monroe St,32,Racine Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8746,-87.657,1348.4571742154
+6469,6/28/2013 15:47,6/28/2013 15:55,144,454,90,Millennium Park,81,Daley Center Plaza,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8842,-87.6296,577.258732475139
+6471,6/28/2013 15:48,6/28/2013 15:55,281,444,90,Millennium Park,81,Daley Center Plaza,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8842,-87.6296,577.258732475139
+6472,6/28/2013 15:48,6/28/2013 16:07,149,1194,52,Michigan Ave & Lake St,88,May St & Randolph St,Customer,null,null,The Loop,41.886,-87.6241,Near West Side,41.884,-87.6557,2630.29838293673
+6486,6/28/2013 15:52,6/28/2013 16:01,421,566,46,Wells St & Walton St,46,Wells St & Walton St,Customer,null,null,Near North Side,41.8999,-87.6344,Near North Side,41.8999,-87.6344,0
+6489,6/28/2013 15:53,6/28/2013 16:05,152,680,48,Larrabee St & Kingsbury St,60,Dayton St & North Ave,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.9106,-87.6494,1523.15268278799
+6498,6/28/2013 15:58,6/28/2013 16:20,572,1317,26,McClurg Ct & Illinois St,44,State St & Randolph St,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.8847,-87.6277,1112.62026140056
+6499,6/28/2013 15:58,6/28/2013 16:23,80,1476,30,Ashland Ave & Augusta Blvd,20,Sheffield Ave & Kingsbury St,Customer,null,null,West Town,41.8996,-87.6677,Near North Side,41.9096,-87.6535,1615.5183602767
+6500,6/28/2013 15:58,6/28/2013 16:15,226,1010,26,McClurg Ct & Illinois St,44,State St & Randolph St,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.8847,-87.6277,1112.62026140056
+6503,6/28/2013 16:01,6/28/2013 16:17,45,966,24,Fairbanks Ct & Grand Ave,46,Wells St & Walton St,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.8999,-87.6344,1454.93617499189
+6507,6/28/2013 16:02,6/28/2013 16:13,329,648,81,Daley Center Plaza,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8682,-87.6263,1799.21123246792
+6516,6/28/2013 16:06,6/28/2013 16:36,246,1825,76,Lake Shore Dr & Monroe St,62,McCormick Place,Customer,null,null,The Loop,41.881,-87.6167,Near South Side,41.8514,-87.6188,3290.37100219968
+6518,6/28/2013 16:06,6/28/2013 16:31,386,1518,24,Fairbanks Ct & Grand Ave,90,Millennium Park,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.881,-87.6241,1236.60337235101
+6525,6/28/2013 16:07,6/28/2013 16:16,281,505,81,Daley Center Plaza,5,State St & Harrison St,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.874,-87.6277,1144.34070228611
+6526,6/28/2013 16:07,6/28/2013 16:16,233,501,81,Daley Center Plaza,5,State St & Harrison St,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.874,-87.6277,1144.34070228611
+6529,6/28/2013 16:10,6/28/2013 16:19,534,554,73,Jefferson St & Monroe St,21,Aberdeen St & Jackson Blvd,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8777,-87.6548,1043.41589431633
+6534,6/28/2013 16:14,6/28/2013 16:27,764,784,52,Michigan Ave & Lake St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.8682,-87.6263,1992.07026736709
+6539,6/28/2013 16:19,6/28/2013 16:37,226,1054,44,State St & Randolph St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8846,-87.6319,345.40075404336
+6542,6/28/2013 16:21,6/28/2013 16:27,356,411,51,Clark St & Randolph St,47,State St & Kinzie St,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.8892,-87.6277,618.389428467027
+6543,6/28/2013 16:20,6/28/2013 16:44,338,1439,77,Clinton St & Madison St,26,McClurg Ct & Illinois St,Customer,null,null,Near West Side,41.8816,-87.6413,Near North Side,41.891,-87.6173,2249.27492326851
+6546,6/28/2013 16:23,6/28/2013 16:37,572,836,44,State St & Randolph St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8846,-87.6319,345.40075404336
+6548,6/28/2013 16:23,6/28/2013 16:43,453,1165,74,Kingsbury St & Erie St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8938,-87.6419,Near North Side,41.8919,-87.6206,1775.68071837104
+6550,6/28/2013 16:26,6/28/2013 16:42,485,1004,48,Larrabee St & Kingsbury St,22,May St & Taylor St,Customer,null,null,Near North Side,41.8978,-87.6429,Near West Side,41.8695,-87.6555,3310.87878404178
+6558,6/28/2013 16:30,6/28/2013 16:42,409,668,25,Michigan Ave & Pearson St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8919,-87.6206,687.408482863148
+6559,6/28/2013 16:31,6/28/2013 16:45,122,834,74,Kingsbury St & Erie St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8938,-87.6419,Near West Side,41.8816,-87.6413,1362.64727965945
+6561,6/28/2013 16:32,6/28/2013 16:47,392,881,33,State St & Van Buren St,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.8772,-87.6278,Near North Side,41.8977,-87.6235,2302.89131018605
+6573,6/28/2013 16:36,6/28/2013 16:44,521,472,20,Sheffield Ave & Kingsbury St,58,Ashland Ave & Armitage Ave,Customer,null,null,Near North Side,41.9096,-87.6535,Logan Square,41.916,-87.6689,1462.11931648612
+6585,6/28/2013 16:39,6/28/2013 17:01,380,1282,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+6594,6/28/2013 16:44,6/28/2013 19:00,47,8152,350,Ashland Ave & Chicago Ave,26,McClurg Ct & Illinois St,Customer,null,null,West Town,41.896,-87.6677,Near North Side,41.891,-87.6173,4222.42433296083
+6596,6/28/2013 16:44,6/28/2013 19:00,557,8145,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6602,6/28/2013 16:47,6/28/2013 16:53,217,387,48,Larrabee St & Kingsbury St,56,Desplaines St & Kinzie St,Customer,null,null,Near North Side,41.8978,-87.6429,Near West Side,41.8887,-87.6444,1013.31334099961
+6616,6/28/2013 16:51,6/28/2013 17:38,462,2840,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+6627,6/28/2013 16:52,6/28/2013 17:05,90,787,36,Franklin St & Jackson Blvd,262,Halsted St & 37th St,Customer,null,null,The Loop,41.8777,-87.6353,Near West Side,41.8271,-87.6458,5691.20027632142
+6634,6/28/2013 16:53,6/28/2013 17:05,112,721,48,Larrabee St & Kingsbury St,47,State St & Kinzie St,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.8892,-87.6277,1580.15691834088
+6650,6/28/2013 16:56,6/28/2013 17:08,392,728,25,Michigan Ave & Pearson St,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8761,-87.6244,2399.73750262216
+6653,6/28/2013 16:58,6/28/2013 17:21,244,1365,47,State St & Kinzie St,17,Wood St & Division St,Customer,null,null,Near North Side,41.8892,-87.6277,West Town,41.9033,-87.6727,4053.45188675318
+6657,6/28/2013 16:58,6/28/2013 17:25,177,1616,44,State St & Randolph St,340,Clark St & Wrightwood Ave,Customer,null,null,The Loop,41.8847,-87.6277,Lincoln Park,41.9295,-87.6431,5138.81557387389
+6661,6/28/2013 16:59,6/28/2013 17:21,620,1315,62,McCormick Place,17,Wood St & Division St,Customer,null,null,Near South Side,41.8514,-87.6188,West Town,41.9033,-87.6727,7300.89103897729
+6663,6/28/2013 16:59,6/28/2013 17:11,842,723,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+6664,6/28/2013 16:59,6/28/2013 17:18,270,1117,54,Ogden Ave & Chicago Ave,55,Halsted St & James M Rochford St,Customer,null,null,West Town,41.8964,-87.6541,Near West Side,41.8659,-87.6466,3443.80601520685
+6665,6/28/2013 17:00,6/28/2013 17:38,333,2262,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+6666,6/28/2013 17:01,6/28/2013 17:06,221,296,44,State St & Randolph St,44,State St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8847,-87.6277,0
+6668,6/28/2013 17:01,6/28/2013 17:22,297,1278,56,Desplaines St & Kinzie St,56,Desplaines St & Kinzie St,Customer,null,null,Near West Side,41.8887,-87.6444,Near West Side,41.8887,-87.6444,0
+6669,6/28/2013 17:01,6/28/2013 17:38,351,2197,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+6670,6/28/2013 17:02,6/28/2013 17:22,912,1257,56,Desplaines St & Kinzie St,56,Desplaines St & Kinzie St,Customer,null,null,Near West Side,41.8887,-87.6444,Near West Side,41.8887,-87.6444,0
+6673,6/28/2013 17:02,6/28/2013 17:26,469,1461,69,Damen Ave & Pierce Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Lincoln Park,41.9183,-87.6363,3575.16999242753
+6674,6/28/2013 17:02,6/28/2013 17:12,442,574,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+6675,6/28/2013 17:02,6/28/2013 17:26,288,1404,74,Kingsbury St & Erie St,74,Kingsbury St & Erie St,Customer,null,null,Near North Side,41.8938,-87.6419,Near North Side,41.8938,-87.6419,0
+6679,6/28/2013 17:03,6/28/2013 17:42,155,2329,32,Racine Ave & Congress Pkwy,32,Racine Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8746,-87.657,Near West Side,41.8746,-87.657,0
+6682,6/28/2013 17:04,6/28/2013 17:26,130,1309,74,Kingsbury St & Erie St,74,Kingsbury St & Erie St,Customer,null,null,Near North Side,41.8938,-87.6419,Near North Side,41.8938,-87.6419,0
+6685,6/28/2013 17:06,6/28/2013 17:19,224,809,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+6692,6/28/2013 17:08,6/28/2013 17:25,221,1050,44,State St & Randolph St,84,Green St & Milwaukee Ave,Customer,null,null,The Loop,41.8847,-87.6277,West Town,41.8917,-87.6487,1908.09117127908
+6693,6/28/2013 17:08,6/28/2013 17:25,607,1001,44,State St & Randolph St,84,Green St & Milwaukee Ave,Customer,null,null,The Loop,41.8847,-87.6277,West Town,41.8917,-87.6487,1908.09117127908
+6696,6/28/2013 17:09,6/28/2013 17:47,246,2300,62,McCormick Place,17,Wood St & Division St,Customer,null,null,Near South Side,41.8514,-87.6188,West Town,41.9033,-87.6727,7300.89103897729
+6698,6/28/2013 17:09,6/28/2013 17:26,369,978,44,State St & Randolph St,84,Green St & Milwaukee Ave,Customer,null,null,The Loop,41.8847,-87.6277,West Town,41.8917,-87.6487,1908.09117127908
+6702,6/28/2013 17:11,6/28/2013 17:33,249,1335,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6704,6/28/2013 17:12,6/28/2013 17:42,477,1827,52,Michigan Ave & Lake St,69,Damen Ave & Pierce Ave,Customer,null,null,The Loop,41.886,-87.6241,West Town,41.9094,-87.6777,5148.23924639731
+6719,6/28/2013 17:16,6/28/2013 17:24,206,472,30,Ashland Ave & Augusta Blvd,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.8996,-87.6677,West Town,41.9094,-87.6777,1364.13461004271
+6724,6/28/2013 17:17,6/28/2013 18:23,226,3971,51,Clark St & Randolph St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.881,-87.6167,1319.90329701348
+6756,6/28/2013 17:23,6/28/2013 17:46,172,1395,62,McCormick Place,22,May St & Taylor St,Customer,null,null,Near South Side,41.8514,-87.6188,Near West Side,41.8695,-87.6555,3647.75211098182
+6757,6/28/2013 17:23,6/28/2013 18:23,564,3579,51,Clark St & Randolph St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.881,-87.6167,1319.90329701348
+6775,6/28/2013 17:25,6/28/2013 17:29,123,226,75,Canal St & Jackson Blvd,77,Clinton St & Madison St,Customer,null,null,Near West Side,41.8781,-87.64,Near West Side,41.8816,-87.6413,395.795892662928
+6778,6/28/2013 17:26,6/28/2013 17:37,620,644,17,Wood St & Division St,93,Sheffield Ave & Willow St,Customer,null,null,West Town,41.9033,-87.6727,Lincoln Park,41.9137,-87.6529,2011.32064364849
+6788,6/28/2013 17:29,6/28/2013 17:34,300,294,32,Racine Ave & Congress Pkwy,32,Racine Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8746,-87.657,Near West Side,41.8746,-87.657,0
+6789,6/28/2013 17:29,6/28/2013 17:42,313,746,48,Larrabee St & Kingsbury St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.901,-87.6238,1624.81293742761
+6792,6/28/2013 17:30,6/28/2013 18:49,541,4772,322,Kimbark Ave & 53rd St,26,McClurg Ct & Illinois St,Customer,null,null,Hyde Park,41.7996,-87.5947,Near North Side,41.891,-87.6173,10328.8501650535
+6802,6/28/2013 17:33,6/28/2013 17:55,55,1295,75,Canal St & Jackson Blvd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near West Side,41.8781,-87.64,The Loop,41.8682,-87.6263,1590.78867335119
+6803,6/28/2013 17:34,6/28/2013 18:08,160,2029,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+6804,6/28/2013 17:34,6/28/2013 18:08,142,2046,190,Southport Ave & Wrightwood Ave,26,McClurg Ct & Illinois St,Customer,null,null,Lincoln Park,41.9289,-87.6632,Near North Side,41.891,-87.6173,5671.58941896902
+6805,6/28/2013 17:34,6/28/2013 17:44,129,591,17,Wood St & Division St,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9077,-87.6726,481.721190578123
+6806,6/28/2013 17:34,6/28/2013 18:40,837,3972,62,McCormick Place,26,McClurg Ct & Illinois St,Customer,null,null,Near South Side,41.8514,-87.6188,Near North Side,41.891,-87.6173,4405.22500469764
+6807,6/28/2013 17:34,6/28/2013 18:41,222,3973,62,McCormick Place,26,McClurg Ct & Illinois St,Customer,null,null,Near South Side,41.8514,-87.6188,Near North Side,41.891,-87.6173,4405.22500469764
+6808,6/28/2013 17:35,6/28/2013 17:54,135,1162,75,Canal St & Jackson Blvd,72,State St & 16th St,Customer,null,null,Near West Side,41.8781,-87.64,Near South Side,41.8601,-87.6277,2246.62914138408
+6810,6/28/2013 17:34,6/28/2013 18:08,370,2017,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.891,-87.6173,1244.13071441771
+6815,6/28/2013 17:38,6/28/2013 18:49,914,4280,75,Canal St & Jackson Blvd,26,McClurg Ct & Illinois St,Customer,null,null,Near West Side,41.8781,-87.64,Near North Side,41.891,-87.6173,2365.14581043572
+6818,6/28/2013 17:39,6/28/2013 17:55,89,980,44,State St & Randolph St,31,Franklin St & Chicago Ave,Customer,null,null,The Loop,41.8847,-87.6277,Near North Side,41.8968,-87.6356,1492.72282470532
+6835,6/28/2013 17:44,6/28/2013 17:57,145,781,52,Michigan Ave & Lake St,74,Kingsbury St & Erie St,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8938,-87.6419,1708.94965386759
+6840,6/28/2013 17:47,6/28/2013 18:03,393,996,33,State St & Van Buren St,31,Franklin St & Chicago Ave,Customer,null,null,The Loop,41.8772,-87.6278,Near North Side,41.8968,-87.6356,2273.31833778119
+6841,6/28/2013 17:48,6/28/2013 18:06,138,1075,44,State St & Randolph St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8842,-87.6296,169.9292974962
+6843,6/28/2013 17:49,6/28/2013 18:08,615,1111,73,Jefferson St & Monroe St,73,Jefferson St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8804,-87.6427,0
+6846,6/28/2013 17:49,6/28/2013 18:08,616,1105,73,Jefferson St & Monroe St,46,Wells St & Walton St,Customer,null,null,Near West Side,41.8804,-87.6427,Near North Side,41.8999,-87.6344,2274.03831182294
+6847,6/28/2013 17:49,6/28/2013 18:07,122,1063,77,Clinton St & Madison St,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8816,-87.6413,The Loop,41.8777,-87.6353,655.464528974457
+6848,6/28/2013 17:50,6/28/2013 18:08,561,1075,26,McClurg Ct & Illinois St,81,Daley Center Plaza,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.8842,-87.6296,1275.98699968223
+6849,6/28/2013 17:52,6/28/2013 18:38,606,2739,44,State St & Randolph St,57,Clinton St & Roosevelt Rd,Customer,null,null,The Loop,41.8847,-87.6277,Near West Side,41.8671,-87.6411,2248.49882175436
+6854,6/28/2013 17:54,6/28/2013 18:16,602,1281,61,Wood St & Milwaukee Ave,17,Wood St & Division St,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9033,-87.6727,481.721190578136
+6863,6/28/2013 17:59,6/28/2013 18:40,130,2469,74,Kingsbury St & Erie St,74,Kingsbury St & Erie St,Customer,null,null,Near North Side,41.8938,-87.6419,Near North Side,41.8938,-87.6419,0
+6877,6/28/2013 18:04,6/28/2013 18:53,705,2940,51,Clark St & Randolph St,14,Morgan St & 18th St,Customer,null,null,The Loop,41.8846,-87.6319,Lower West Side,41.8581,-87.6511,3345.62853242641
+6878,6/28/2013 18:04,6/28/2013 19:14,586,4198,94,Lincoln Ave & Armitage Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,Lincoln Park,41.9183,-87.6363,Lincoln Park,41.9183,-87.6363,0
+6916,6/28/2013 18:09,6/28/2013 18:54,561,2661,81,Daley Center Plaza,14,Morgan St & 18th St,Customer,null,null,The Loop,41.8842,-87.6296,Lower West Side,41.8581,-87.6511,3399.49171796833
+6917,6/28/2013 18:09,6/28/2013 18:30,142,1223,26,McClurg Ct & Illinois St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8977,-87.6235,899.730301561782
+6922,6/28/2013 18:10,6/28/2013 18:30,505,1195,26,McClurg Ct & Illinois St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8977,-87.6235,899.730301561782
+6928,6/28/2013 18:10,6/28/2013 18:34,138,1424,81,Daley Center Plaza,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8682,-87.6263,1799.21123246792
+6937,6/28/2013 18:12,6/28/2013 18:30,160,1060,26,McClurg Ct & Illinois St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8977,-87.6235,899.730301561782
+6962,6/28/2013 18:15,6/28/2013 18:56,267,2466,81,Daley Center Plaza,15,Racine Ave & 18th St,Customer,null,null,The Loop,41.8842,-87.6296,Lower West Side,41.8582,-87.6565,3646.57212033311
+6974,6/28/2013 18:17,6/28/2013 18:20,58,179,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6979,6/28/2013 18:18,6/28/2013 18:21,169,174,17,Wood St & Division St,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9077,-87.6726,481.721190578123
+6980,6/28/2013 18:18,6/28/2013 18:56,765,2283,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6982,6/28/2013 18:20,6/28/2013 18:28,55,477,59,Wabash Ave & Roosevelt Rd,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8532,-87.6253,1659.21933118528
+6990,6/28/2013 18:22,6/28/2013 18:57,249,2079,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+6993,6/28/2013 18:22,6/28/2013 18:57,327,2089,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+7005,6/28/2013 18:25,6/28/2013 19:00,206,2097,69,Damen Ave & Pierce Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,West Town,41.9094,-87.6777,Lincoln Park,41.9256,-87.6584,2405.108649193
+7007,6/28/2013 18:26,6/28/2013 22:53,305,16018,52,Michigan Ave & Lake St,30,Ashland Ave & Augusta Blvd,Customer,null,null,The Loop,41.886,-87.6241,West Town,41.8996,-87.6677,3920.51396673137
+7015,6/28/2013 18:29,6/28/2013 18:46,313,1023,85,Michigan Ave & Oak St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.901,-87.6238,Lincoln Park,41.9268,-87.6344,2998.35103829834
+7048,6/28/2013 18:36,6/28/2013 19:05,245,1757,59,Wabash Ave & Roosevelt Rd,32,Racine Ave & Congress Pkwy,Customer,null,null,The Loop,41.8682,-87.6263,Near West Side,41.8746,-87.657,2653.31518254145
+7050,6/28/2013 18:37,6/28/2013 18:58,860,1266,48,Larrabee St & Kingsbury St,60,Dayton St & North Ave,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.9106,-87.6494,1523.15268278799
+7051,6/28/2013 18:37,6/28/2013 19:51,138,4471,59,Wabash Ave & Roosevelt Rd,108,Halsted St & Polk St,Customer,null,null,The Loop,41.8682,-87.6263,Near West Side,41.8718,-87.6466,1740.01201822034
+7052,6/28/2013 18:37,6/28/2013 19:51,479,4451,59,Wabash Ave & Roosevelt Rd,49,Dearborn St & Monroe St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8813,-87.6295,1486.31261929873
+7054,6/28/2013 18:37,6/28/2013 19:35,36,3485,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+7055,6/28/2013 18:38,6/28/2013 19:36,220,3452,52,Michigan Ave & Lake St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.886,-87.6241,0
+7059,6/28/2013 18:38,6/28/2013 19:06,193,1707,21,Aberdeen St & Jackson Blvd,47,State St & Kinzie St,Customer,null,null,Near West Side,41.8777,-87.6548,Near North Side,41.8892,-87.6277,2583.2825698701
+7062,6/28/2013 18:41,6/28/2013 19:06,101,1521,340,Clark St & Wrightwood Ave,69,Damen Ave & Pierce Ave,Customer,null,null,Lincoln Park,41.9295,-87.6431,West Town,41.9094,-87.6777,3637.99081547151
+7063,6/28/2013 18:41,6/28/2013 19:07,349,1569,320,Loomis St & Lexington St,47,State St & Kinzie St,Customer,null,null,Near West Side,41.8722,-87.6615,Near North Side,41.8892,-87.6277,3381.44026070003
+7072,6/28/2013 18:45,6/28/2013 19:15,164,1820,5,State St & Harrison St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.881,-87.6167,1199.04903411111
+7076,6/28/2013 18:46,6/28/2013 19:37,223,3027,52,Michigan Ave & Lake St,62,McCormick Place,Customer,null,null,The Loop,41.886,-87.6241,Near South Side,41.8514,-87.6188,3873.37720600448
+7078,6/28/2013 18:47,6/28/2013 19:00,485,744,22,May St & Taylor St,15,Racine Ave & 18th St,Customer,null,null,Near West Side,41.8695,-87.6555,Lower West Side,41.8582,-87.6565,1258.00794372893
+7081,6/28/2013 18:49,6/28/2013 21:05,46,8149,55,Halsted St & James M Rochford St,57,Clinton St & Roosevelt Rd,Customer,null,null,Near West Side,41.8659,-87.6466,Near West Side,41.8671,-87.6411,479.320097899069
+7089,6/28/2013 18:52,6/28/2013 19:17,1,1539,62,McCormick Place,88,May St & Randolph St,Customer,null,null,Near South Side,41.8514,-87.6188,Near West Side,41.884,-87.6557,4740.06632672382
+7091,6/28/2013 18:52,6/28/2013 19:29,351,2229,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7099,6/28/2013 18:55,6/28/2013 19:27,390,1929,14,Morgan St & 18th St,66,Clinton St & Lake St,Customer,null,null,Lower West Side,41.8581,-87.6511,Near West Side,41.8858,-87.6414,3185.12432367873
+7102,6/28/2013 18:55,6/28/2013 21:18,561,8586,14,Morgan St & 18th St,17,Wood St & Division St,Customer,null,null,Lower West Side,41.8581,-87.6511,West Town,41.9033,-87.6727,5336.09955460922
+7112,6/28/2013 18:56,6/28/2013 19:10,309,801,77,Clinton St & Madison St,29,Noble St & Milwaukee Ave,Customer,null,null,Near West Side,41.8816,-87.6413,West Town,41.9007,-87.6626,2762.41558851422
+7120,6/28/2013 18:57,6/28/2013 19:21,333,1436,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7127,6/28/2013 18:58,6/28/2013 23:36,267,16650,15,Racine Ave & 18th St,29,Noble St & Milwaukee Ave,Customer,null,null,Lower West Side,41.8582,-87.6565,West Town,41.9007,-87.6626,4747.64458295461
+7128,6/28/2013 18:58,6/28/2013 19:21,893,1392,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7136,6/28/2013 18:59,6/28/2013 19:22,405,1357,29,Noble St & Milwaukee Ave,67,Sheffield Ave & Fullerton Ave,Customer,null,null,West Town,41.9007,-87.6626,Lincoln Park,41.9256,-87.6537,2864.72700065981
+7146,6/28/2013 19:01,6/28/2013 19:11,435,636,33,State St & Van Buren St,21,Aberdeen St & Jackson Blvd,Customer,null,null,The Loop,41.8772,-87.6278,Near West Side,41.8777,-87.6548,2237.38101032707
+7151,6/28/2013 19:04,6/28/2013 19:20,419,989,59,Wabash Ave & Roosevelt Rd,14,Morgan St & 18th St,Customer,null,null,The Loop,41.8682,-87.6263,Lower West Side,41.8581,-87.6511,2343.96503724681
+7153,6/28/2013 19:06,6/28/2013 19:47,300,2444,32,Racine Ave & Congress Pkwy,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8746,-87.657,Near West Side,41.8694,-87.661,667.041100914419
+7157,6/28/2013 19:09,6/28/2013 19:44,270,2112,55,Halsted St & James M Rochford St,25,Michigan Ave & Pearson St,Customer,null,null,Near West Side,41.8659,-87.6466,Near North Side,41.8977,-87.6235,4018.87461592309
+7164,6/28/2013 19:11,6/28/2013 19:47,253,2193,72,State St & 16th St,56,Desplaines St & Kinzie St,Customer,null,null,Near South Side,41.8601,-87.6277,Near West Side,41.8887,-87.6444,3466.03227328215
+7165,6/28/2013 19:11,6/28/2013 19:47,816,2150,72,State St & 16th St,56,Desplaines St & Kinzie St,Customer,null,null,Near South Side,41.8601,-87.6277,Near West Side,41.8887,-87.6444,3466.03227328215
+7178,6/28/2013 19:13,6/28/2013 19:18,149,315,88,May St & Randolph St,88,May St & Randolph St,Customer,null,null,Near West Side,41.884,-87.6557,Near West Side,41.884,-87.6557,0
+7184,6/28/2013 19:13,6/28/2013 19:23,283,566,47,State St & Kinzie St,48,Larrabee St & Kingsbury St,Customer,null,null,Near North Side,41.8892,-87.6277,Near North Side,41.8978,-87.6429,1580.15691834095
+7193,6/28/2013 19:17,6/28/2013 19:44,206,1622,87,Racine Ave & Fullerton Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9256,-87.6584,0
+7194,6/28/2013 19:20,6/28/2013 19:45,69,1473,87,Racine Ave & Fullerton Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9256,-87.6584,0
+7198,6/28/2013 19:23,6/28/2013 19:49,463,1571,279,Halsted St & 35th St,85,Michigan Ave & Oak St,Customer,null,null,Bridgeport,41.8307,-87.6472,Near North Side,41.901,-87.6238,8046.17181944067
+7200,6/28/2013 19:23,6/28/2013 19:45,523,1304,87,Racine Ave & Fullerton Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9256,-87.6584,0
+7201,6/28/2013 19:23,6/28/2013 19:51,382,1646,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7208,6/28/2013 19:27,6/28/2013 19:47,469,1233,94,Lincoln Ave & Armitage Ave,69,Damen Ave & Pierce Ave,Customer,null,null,Lincoln Park,41.9183,-87.6363,West Town,41.9094,-87.6777,3575.16999242752
+7210,6/28/2013 19:27,6/28/2013 20:21,465,3239,75,Canal St & Jackson Blvd,47,State St & Kinzie St,Customer,null,null,Near West Side,41.8781,-87.64,Near North Side,41.8892,-87.6277,1594.87269040608
+7211,6/28/2013 19:27,6/28/2013 19:49,912,1296,66,Clinton St & Lake St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near West Side,41.8858,-87.6414,Lincoln Park,41.9183,-87.6363,3631.59390550641
+7213,6/28/2013 19:30,6/28/2013 19:46,149,983,88,May St & Randolph St,17,Wood St & Division St,Customer,null,null,Near West Side,41.884,-87.6557,West Town,41.9033,-87.6727,2572.81972531386
+7216,6/28/2013 19:31,6/28/2013 20:20,412,2951,75,Canal St & Jackson Blvd,47,State St & Kinzie St,Customer,null,null,Near West Side,41.8781,-87.64,Near North Side,41.8892,-87.6277,1594.87269040608
+7217,6/28/2013 19:32,6/28/2013 19:40,283,484,48,Larrabee St & Kingsbury St,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.8968,-87.6356,610.688309214155
+7226,6/28/2013 19:35,6/28/2013 19:41,122,363,36,Franklin St & Jackson Blvd,33,State St & Van Buren St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8772,-87.6278,623.427596355935
+7227,6/28/2013 19:35,6/28/2013 20:17,347,2528,19,Loomis St & Taylor St,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8694,-87.661,Near West Side,41.8694,-87.661,0
+7228,6/28/2013 19:35,6/28/2013 20:43,330,4070,73,Jefferson St & Monroe St,55,Halsted St & James M Rochford St,Customer,null,null,Near West Side,41.8804,-87.6427,Near West Side,41.8659,-87.6466,1648.82181983216
+7232,6/28/2013 19:38,6/28/2013 20:17,389,2297,349,Halsted St & Wrightwood Ave,19,Loomis St & Taylor St,Customer,null,null,Lincoln Park,41.9291,-87.6491,Near West Side,41.8694,-87.661,6707.17094478879
+7243,6/28/2013 19:41,6/28/2013 20:10,628,1717,30,Ashland Ave & Augusta Blvd,262,Halsted St & 37th St,Customer,null,null,West Town,41.8996,-87.6677,Near West Side,41.8271,-87.6458,8263.14112687535
+7245,6/28/2013 19:42,6/28/2013 21:03,535,4896,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7258,6/28/2013 19:45,6/28/2013 19:59,393,802,31,Franklin St & Chicago Ave,30,Ashland Ave & Augusta Blvd,Customer,null,null,Near North Side,41.8968,-87.6356,West Town,41.8996,-87.6677,2679.20457878634
+7273,6/28/2013 19:49,6/28/2013 20:07,485,1090,15,Racine Ave & 18th St,54,Ogden Ave & Chicago Ave,Customer,null,null,Lower West Side,41.8582,-87.6565,West Town,41.8964,-87.6541,4245.66872314607
+7278,6/28/2013 19:49,6/28/2013 20:16,270,1576,25,Michigan Ave & Pearson St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.881,-87.6167,1938.26013960184
+7279,6/28/2013 19:49,6/28/2013 20:06,471,965,21,Aberdeen St & Jackson Blvd,33,State St & Van Buren St,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.8772,-87.6278,2237.38101032706
+7290,6/28/2013 19:56,6/28/2013 20:22,220,1570,52,Michigan Ave & Lake St,68,Clinton St & Tilden St,Customer,null,null,The Loop,41.886,-87.6241,Near West Side,41.8759,-87.6408,1784.56050778332
+7303,6/28/2013 20:00,6/28/2013 20:02,350,108,71,Morgan St & Lake St,71,Morgan St & Lake St,Customer,null,null,Near West Side,41.8855,-87.6523,Near West Side,41.8855,-87.6523,0
+7309,6/28/2013 20:01,6/28/2013 20:33,458,1939,31,Franklin St & Chicago Ave,17,Wood St & Division St,Customer,null,null,Near North Side,41.8968,-87.6356,West Town,41.9033,-87.6727,3161.86834061337
+7314,6/28/2013 20:04,6/28/2013 20:20,599,979,42,Wabash Ave & Cermak Rd,33,State St & Van Buren St,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8772,-87.6278,2667.41338974823
+7316,6/28/2013 20:05,6/28/2013 20:20,154,924,42,Wabash Ave & Cermak Rd,33,State St & Van Buren St,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8772,-87.6278,2667.41338974823
+7317,6/28/2013 20:06,6/28/2013 20:36,178,1799,31,Franklin St & Chicago Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Logan Square,41.916,-87.6689,3487.36969261696
+7318,6/28/2013 20:07,6/28/2013 21:19,858,4331,15,Racine Ave & 18th St,15,Racine Ave & 18th St,Customer,null,null,Lower West Side,41.8582,-87.6565,Lower West Side,41.8582,-87.6565,0
+7319,6/28/2013 20:07,6/28/2013 20:18,356,687,91,Clinton St & Washington Blvd,37,Dearborn St & Adams St,Customer,null,null,Near West Side,41.8834,-87.6412,The Loop,41.8794,-87.6298,1044.90049023257
+7320,6/28/2013 20:07,6/28/2013 20:18,527,679,91,Clinton St & Washington Blvd,37,Dearborn St & Adams St,Customer,null,null,Near West Side,41.8834,-87.6412,The Loop,41.8794,-87.6298,1044.90049023257
+7322,6/28/2013 20:08,6/28/2013 20:37,181,1700,73,Jefferson St & Monroe St,58,Ashland Ave & Armitage Ave,Customer,null,null,Near West Side,41.8804,-87.6427,Logan Square,41.916,-87.6689,4509.2775240459
+7323,6/28/2013 20:08,6/28/2013 20:37,420,1742,31,Franklin St & Chicago Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Logan Square,41.916,-87.6689,3487.36969261696
+7324,6/28/2013 20:10,6/28/2013 20:26,442,1004,52,Michigan Ave & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6241,554.506499811496
+7326,6/28/2013 20:11,6/28/2013 20:37,127,1567,31,Franklin St & Chicago Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Logan Square,41.916,-87.6689,3487.36969261696
+7327,6/28/2013 20:11,6/28/2013 20:36,286,1521,31,Franklin St & Chicago Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Logan Square,41.916,-87.6689,3487.36969261696
+7328,6/28/2013 20:11,6/28/2013 20:48,914,2251,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+7330,6/28/2013 20:11,6/28/2013 20:48,837,2190,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+7333,6/28/2013 20:13,6/28/2013 20:27,36,783,52,Michigan Ave & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6241,554.506499811496
+7336,6/28/2013 20:16,6/28/2013 20:42,538,1605,31,Franklin St & Chicago Ave,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.8968,-87.6356,The Loop,41.8777,-87.6353,2120.96381778076
+7337,6/28/2013 20:16,6/28/2013 20:42,622,1566,31,Franklin St & Chicago Ave,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.8968,-87.6356,The Loop,41.8777,-87.6353,2120.96381778076
+7338,6/28/2013 20:17,6/28/2013 20:26,842,543,52,Michigan Ave & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6241,554.506499811496
+7339,6/28/2013 20:18,6/28/2013 20:40,270,1279,76,Lake Shore Dr & Monroe St,57,Clinton St & Roosevelt Rd,Customer,null,null,The Loop,41.881,-87.6167,Near West Side,41.8671,-87.6411,2539.18235510511
+7343,6/28/2013 20:22,6/28/2013 20:41,764,1150,42,Wabash Ave & Cermak Rd,42,Wabash Ave & Cermak Rd,Customer,null,null,Near South Side,41.8532,-87.6253,Near South Side,41.8532,-87.6253,0
+7344,6/28/2013 20:23,6/28/2013 20:33,154,625,33,State St & Van Buren St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8772,-87.6278,The Loop,41.8846,-87.6319,887.396722210407
+7346,6/28/2013 20:25,6/28/2013 20:41,850,952,42,Wabash Ave & Cermak Rd,42,Wabash Ave & Cermak Rd,Customer,null,null,Near South Side,41.8532,-87.6253,Near South Side,41.8532,-87.6253,0
+7347,6/28/2013 20:25,6/28/2013 21:01,223,2145,62,McCormick Place,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8761,-87.6244,2781.49952605695
+7384,6/28/2013 20:40,6/28/2013 20:51,471,671,33,State St & Van Buren St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8772,-87.6278,The Loop,41.8682,-87.6263,1010.37609040854
+7385,6/28/2013 20:40,6/28/2013 20:51,440,663,33,State St & Van Buren St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8772,-87.6278,The Loop,41.8682,-87.6263,1010.37609040854
+7386,6/28/2013 20:41,6/28/2013 20:43,270,164,57,Clinton St & Roosevelt Rd,55,Halsted St & James M Rochford St,Customer,null,null,Near West Side,41.8671,-87.6411,Near West Side,41.8659,-87.6466,479.320097899134
+7387,6/28/2013 20:42,6/28/2013 20:52,850,578,42,Wabash Ave & Cermak Rd,108,Halsted St & Polk St,Customer,null,null,Near South Side,41.8532,-87.6253,Near West Side,41.8718,-87.6466,2719.75443128231
+7388,6/28/2013 20:42,6/28/2013 20:52,764,571,42,Wabash Ave & Cermak Rd,249,Montrose Harbor,Customer,null,null,Near South Side,41.8532,-87.6253,Uptown,41.964,-87.6382,12346.493818215
+7404,6/28/2013 20:46,6/28/2013 22:26,110,5986,15,Racine Ave & 18th St,15,Racine Ave & 18th St,Customer,null,null,Lower West Side,41.8582,-87.6565,Lower West Side,41.8582,-87.6565,0
+7412,6/28/2013 20:51,6/28/2013 20:58,607,414,17,Wood St & Division St,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9094,-87.6777,790.53762344405
+7418,6/28/2013 20:55,6/28/2013 21:04,20,550,66,Clinton St & Lake St,74,Kingsbury St & Erie St,Customer,null,null,Near West Side,41.8858,-87.6414,Near North Side,41.8938,-87.6419,890.575886992954
+7419,6/28/2013 20:56,6/28/2013 21:03,390,465,66,Clinton St & Lake St,74,Kingsbury St & Erie St,Customer,null,null,Near West Side,41.8858,-87.6414,Near North Side,41.8938,-87.6419,890.575886992954
+7420,6/28/2013 20:58,6/28/2013 21:12,850,800,108,Halsted St & Polk St,62,McCormick Place,Customer,null,null,Near West Side,41.8718,-87.6466,Near South Side,41.8514,-87.6188,3239.86334657653
+7421,6/28/2013 20:58,6/28/2013 21:12,764,798,249,Montrose Harbor,62,McCormick Place,Customer,null,null,Uptown,41.964,-87.6382,Near South Side,41.8514,-87.6188,12609.9901216012
+7423,6/28/2013 21:02,6/28/2013 21:29,169,1613,60,Dayton St & North Ave,29,Noble St & Milwaukee Ave,Customer,null,null,Near North Side,41.9106,-87.6494,West Town,41.9007,-87.6626,1550.55895851499
+7424,6/28/2013 21:02,6/28/2013 21:29,137,1624,60,Dayton St & North Ave,29,Noble St & Milwaukee Ave,Customer,null,null,Near North Side,41.9106,-87.6494,West Town,41.9007,-87.6626,1550.55895851499
+7425,6/28/2013 21:03,6/28/2013 21:12,914,532,26,McClurg Ct & Illinois St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8977,-87.6235,899.730301561782
+7426,6/28/2013 21:03,6/28/2013 21:13,837,602,26,McClurg Ct & Illinois St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8977,-87.6235,899.730301561782
+7432,6/28/2013 21:13,6/28/2013 21:18,389,328,19,Loomis St & Taylor St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8694,-87.661,Near West Side,41.8695,-87.6555,457.463543622628
+7439,6/28/2013 21:21,6/28/2013 21:53,561,1885,17,Wood St & Division St,17,Wood St & Division St,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9033,-87.6727,0
+7440,6/28/2013 21:21,6/28/2013 22:20,463,3545,85,Michigan Ave & Oak St,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.886,-87.6241,1659.24343797125
+7441,6/28/2013 21:22,6/28/2013 22:21,132,3521,85,Michigan Ave & Oak St,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.886,-87.6241,1659.24343797125
+7445,6/28/2013 21:23,6/28/2013 21:33,202,608,22,May St & Taylor St,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8695,-87.6555,Near West Side,41.8694,-87.661,457.463543622622
+7447,6/28/2013 21:24,6/28/2013 21:32,854,441,42,Wabash Ave & Cermak Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.8682,-87.6263,1659.21933118581
+7448,6/28/2013 21:26,6/29/2013 18:38,336,76345,22,May St & Taylor St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8695,-87.6555,Near West Side,41.8695,-87.6555,0
+7464,6/28/2013 21:43,6/28/2013 22:01,212,1060,15,Racine Ave & 18th St,21,Aberdeen St & Jackson Blvd,Customer,null,null,Lower West Side,41.8582,-87.6565,Near West Side,41.8777,-87.6548,2175.51375679809
+7467,6/28/2013 21:48,6/28/2013 22:04,356,968,44,State St & Randolph St,249,Montrose Harbor,Customer,null,null,The Loop,41.8847,-87.6277,Uptown,41.964,-87.6382,8845.19596796246
+7468,6/28/2013 21:52,6/28/2013 22:01,607,514,69,Damen Ave & Pierce Ave,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.8996,-87.6677,1364.13461004295
+7469,6/28/2013 21:54,6/28/2013 22:27,561,2018,17,Wood St & Division St,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.9077,-87.6726,481.721190578123
+7470,6/28/2013 21:55,6/28/2013 22:12,143,997,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7471,6/28/2013 21:56,6/28/2013 22:12,101,999,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7472,6/28/2013 21:56,6/28/2013 22:07,270,662,55,Halsted St & James M Rochford St,32,Racine Ave & Congress Pkwy,Customer,null,null,Near West Side,41.8659,-87.6466,Near West Side,41.8746,-87.657,1303.44929127486
+7473,6/28/2013 21:58,6/28/2013 22:14,229,962,24,Fairbanks Ct & Grand Ave,73,Jefferson St & Monroe St,Customer,null,null,Near North Side,41.8919,-87.6206,Near West Side,41.8804,-87.6427,2233.03243918275
+7480,6/28/2013 22:12,6/28/2013 22:18,485,408,54,Ogden Ave & Chicago Ave,56,Desplaines St & Kinzie St,Customer,null,null,West Town,41.8964,-87.6541,Near West Side,41.8887,-87.6444,1165.2547843775
+7482,6/28/2013 22:13,6/28/2013 22:33,44,1181,36,Franklin St & Jackson Blvd,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8777,-87.6353,0
+7483,6/28/2013 22:14,6/28/2013 22:28,466,830,36,Franklin St & Jackson Blvd,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.886,-87.6241,1310.74123087068
+7485,6/28/2013 22:21,6/28/2013 22:47,319,1561,25,Michigan Ave & Pearson St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8977,-87.6235,Near West Side,41.8816,-87.6413,2315.88732708392
+7486,6/28/2013 22:22,6/28/2013 22:48,837,1587,25,Michigan Ave & Pearson St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8977,-87.6235,Near West Side,41.8816,-87.6413,2315.88732708392
+7487,6/28/2013 22:22,6/28/2013 22:54,320,1969,74,Kingsbury St & Erie St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.8938,-87.6419,Lincoln Park,41.9268,-87.6344,3707.18501807229
+7488,6/28/2013 22:22,6/28/2013 22:55,130,1986,74,Kingsbury St & Erie St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.8938,-87.6419,Lincoln Park,41.9268,-87.6344,3707.18501807229
+7492,6/28/2013 22:24,6/28/2013 22:50,333,1522,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7494,6/28/2013 22:25,6/28/2013 22:49,449,1452,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7495,6/28/2013 22:24,6/28/2013 23:21,463,3387,52,Michigan Ave & Lake St,31,Franklin St & Chicago Ave,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8968,-87.6356,1532.12068422065
+7497,6/28/2013 22:25,6/28/2013 22:42,259,1002,56,Desplaines St & Kinzie St,14,Morgan St & 18th St,Customer,null,null,Near West Side,41.8887,-87.6444,Lower West Side,41.8581,-87.6511,3446.27253923172
+7498,6/28/2013 22:27,6/28/2013 23:21,132,3235,52,Michigan Ave & Lake St,31,Franklin St & Chicago Ave,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8968,-87.6356,1532.12068422065
+7499,6/28/2013 22:28,6/28/2013 22:52,228,1483,73,Jefferson St & Monroe St,300,Broadway & Barry Ave,Customer,null,null,Near West Side,41.8804,-87.6427,Lake View,41.9377,-87.6441,6365.71524183886
+7501,6/28/2013 22:31,6/28/2013 22:52,246,1311,17,Wood St & Division St,26,McClurg Ct & Illinois St,Customer,null,null,West Town,41.9033,-87.6727,Near North Side,41.891,-87.6173,4798.3991975656
+7502,6/28/2013 22:31,6/28/2013 22:56,43,1509,77,Clinton St & Madison St,77,Clinton St & Madison St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8816,-87.6413,0
+7503,6/28/2013 22:33,6/28/2013 22:56,816,1388,56,Desplaines St & Kinzie St,72,State St & 16th St,Customer,null,null,Near West Side,41.8887,-87.6444,Near South Side,41.8601,-87.6277,3466.03227328191
+7504,6/28/2013 22:33,6/28/2013 22:55,297,1368,56,Desplaines St & Kinzie St,72,State St & 16th St,Customer,null,null,Near West Side,41.8887,-87.6444,Near South Side,41.8601,-87.6277,3466.03227328191
+7505,6/28/2013 22:35,6/28/2013 22:56,41,1232,77,Clinton St & Madison St,77,Clinton St & Madison St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8816,-87.6413,0
+7506,6/28/2013 22:36,6/28/2013 22:51,136,897,252,Greenwood Ave & 47th St,31,Franklin St & Chicago Ave,Customer,null,null,Kenwood,41.8098,-87.5994,Near North Side,41.8968,-87.6356,10117.7795319648
+7507,6/28/2013 22:37,6/28/2013 23:06,533,1746,56,Desplaines St & Kinzie St,26,McClurg Ct & Illinois St,Customer,null,null,Near West Side,41.8887,-87.6444,Near North Side,41.891,-87.6173,2267.58022848798
+7511,6/28/2013 22:40,6/28/2013 22:51,322,660,91,Clinton St & Washington Blvd,31,Franklin St & Chicago Ave,Customer,null,null,Near West Side,41.8834,-87.6412,Near North Side,41.8968,-87.6356,1559.88740686947
+7512,6/28/2013 22:41,6/28/2013 22:51,468,623,91,Clinton St & Washington Blvd,31,Franklin St & Chicago Ave,Customer,null,null,Near West Side,41.8834,-87.6412,Near North Side,41.8968,-87.6356,1559.88740686947
+7519,6/28/2013 22:46,6/28/2013 23:32,559,2783,30,Ashland Ave & Augusta Blvd,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.8996,-87.6677,West Town,41.8996,-87.6677,0
+7520,6/28/2013 22:46,6/28/2013 23:32,393,2724,30,Ashland Ave & Augusta Blvd,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.8996,-87.6677,West Town,41.8996,-87.6677,0
+7525,6/28/2013 22:55,6/28/2013 23:25,333,1811,85,Michigan Ave & Oak St,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.886,-87.6241,1659.24343797125
+7526,6/28/2013 22:55,6/28/2013 23:26,449,1870,85,Michigan Ave & Oak St,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.886,-87.6241,1659.24343797125
+7530,6/28/2013 23:07,6/28/2013 23:25,470,1030,26,McClurg Ct & Illinois St,56,Desplaines St & Kinzie St,Customer,null,null,Near North Side,41.891,-87.6173,Near West Side,41.8887,-87.6444,2267.58022848802
+7532,6/28/2013 23:11,6/28/2013 23:27,73,939,21,Aberdeen St & Jackson Blvd,15,Racine Ave & 18th St,Customer,null,null,Near West Side,41.8777,-87.6548,Lower West Side,41.8582,-87.6565,2175.5137567984
+7534,6/28/2013 23:13,6/29/2013 10:23,454,40209,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7535,6/28/2013 23:17,6/29/2013 0:15,371,3515,22,May St & Taylor St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8695,-87.6555,Near West Side,41.8695,-87.6555,0
+7544,6/28/2013 23:29,6/28/2013 23:39,449,621,52,Michigan Ave & Lake St,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8977,-87.6235,1293.40567788126
+7545,6/28/2013 23:29,6/28/2013 23:40,333,624,52,Michigan Ave & Lake St,350,Ashland Ave & Chicago Ave,Customer,null,null,The Loop,41.886,-87.6241,West Town,41.896,-87.6677,3785.58148092616
+7547,6/28/2013 23:34,6/28/2013 23:45,524,654,72,State St & 16th St,33,State St & Van Buren St,Customer,null,null,Near South Side,41.8601,-87.6277,The Loop,41.8772,-87.6278,1894.84848395218
+7550,6/28/2013 23:39,6/29/2013 0:40,281,3699,59,Wabash Ave & Roosevelt Rd,17,Wood St & Division St,Customer,null,null,The Loop,41.8682,-87.6263,West Town,41.9033,-87.6727,5488.33253245413
+7551,6/28/2013 23:39,6/29/2013 0:40,855,3694,59,Wabash Ave & Roosevelt Rd,17,Wood St & Division St,Customer,null,null,The Loop,41.8682,-87.6263,West Town,41.9033,-87.6727,5488.33253245413
+7560,6/28/2013 23:45,6/29/2013 0:29,110,2633,15,Racine Ave & 18th St,15,Racine Ave & 18th St,Customer,null,null,Lower West Side,41.8582,-87.6565,Lower West Side,41.8582,-87.6565,0
+7562,6/28/2013 23:55,6/29/2013 0:06,145,678,74,Kingsbury St & Erie St,77,Clinton St & Madison St,Customer,null,null,Near North Side,41.8938,-87.6419,Near West Side,41.8816,-87.6413,1362.64727965945
+7564,6/29/2013 0:05,6/29/2013 0:16,164,642,76,Lake Shore Dr & Monroe St,51,Clark St & Randolph St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.8846,-87.6319,1319.90329701344
+7565,6/29/2013 0:10,6/29/2013 0:13,57,168,33,State St & Van Buren St,33,State St & Van Buren St,Customer,null,null,The Loop,41.8772,-87.6278,The Loop,41.8772,-87.6278,0
+7566,6/29/2013 0:10,6/29/2013 0:32,54,1304,44,State St & Randolph St,61,Wood St & Milwaukee Ave,Customer,null,null,The Loop,41.8847,-87.6277,West Town,41.9077,-87.6726,4507.38770635984
+7568,6/29/2013 0:14,6/29/2013 0:23,524,536,33,State St & Van Buren St,72,State St & 16th St,Customer,null,null,The Loop,41.8772,-87.6278,Near South Side,41.8601,-87.6277,1894.84848395197
+7570,6/29/2013 0:19,6/29/2013 0:30,154,679,51,Clark St & Randolph St,22,May St & Taylor St,Customer,null,null,The Loop,41.8846,-87.6319,Near West Side,41.8695,-87.6555,2578.25573970847
+7574,6/29/2013 0:50,6/29/2013 1:00,331,608,72,State St & 16th St,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near South Side,41.8601,-87.6277,The Loop,41.8761,-87.6244,1791.95011898267
+7575,6/29/2013 0:54,6/29/2013 2:51,392,7019,45,Michigan Ave & Congress Pkwy,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8761,-87.6244,0
+7576,6/29/2013 0:55,6/29/2013 2:50,53,6957,45,Michigan Ave & Congress Pkwy,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8761,-87.6244,0
+7577,6/29/2013 1:02,6/29/2013 1:13,386,648,90,Millennium Park,72,State St & 16th St,Customer,null,null,The Loop,41.881,-87.6241,Near South Side,41.8601,-87.6277,2342.15405699184
+7578,6/29/2013 1:11,6/29/2013 1:48,466,2216,52,Michigan Ave & Lake St,44,State St & Randolph St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.8847,-87.6277,332.79786381127
+7579,6/29/2013 1:16,6/29/2013 1:48,134,1951,52,Michigan Ave & Lake St,44,State St & Randolph St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.8847,-87.6277,332.79786381127
+7580,6/29/2013 1:20,6/29/2013 1:34,658,861,17,Wood St & Division St,71,Morgan St & Lake St,Customer,null,null,West Town,41.9033,-87.6727,Near West Side,41.8855,-87.6523,2607.31013408092
+7581,6/29/2013 1:21,6/29/2013 1:34,244,803,17,Wood St & Division St,71,Morgan St & Lake St,Customer,null,null,West Town,41.9033,-87.6727,Near West Side,41.8855,-87.6523,2607.31013408092
+7582,6/29/2013 1:37,6/29/2013 1:42,658,327,71,Morgan St & Lake St,320,Loomis St & Lexington St,Customer,null,null,Near West Side,41.8855,-87.6523,Near West Side,41.8722,-87.6615,1662.45054701236
+7583,6/29/2013 1:37,6/29/2013 1:42,244,309,71,Morgan St & Lake St,21,Aberdeen St & Jackson Blvd,Customer,null,null,Near West Side,41.8855,-87.6523,Near West Side,41.8777,-87.6548,885.896546840001
+7584,6/29/2013 2:16,6/29/2013 2:25,331,501,45,Michigan Ave & Congress Pkwy,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8682,-87.6263,891.068676179201
+7585,6/29/2013 2:17,6/29/2013 2:25,534,474,90,Millennium Park,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8682,-87.6263,1440.99648865706
+7586,6/29/2013 2:19,6/29/2013 2:33,143,849,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7587,6/29/2013 2:34,6/29/2013 2:58,143,1458,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7591,6/29/2013 2:59,6/29/2013 3:23,143,1417,69,Damen Ave & Pierce Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9094,-87.6777,0
+7592,6/29/2013 3:03,6/29/2013 3:20,174,994,88,May St & Randolph St,43,Michigan Ave & Washington St,Customer,null,null,Near West Side,41.884,-87.6557,The Loop,41.8839,-87.6246,2576.27539271845
+7593,6/29/2013 4:22,6/29/2013 4:40,137,1056,29,Noble St & Milwaukee Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9007,-87.6626,West Town,41.9094,-87.6777,1582.81718031214
+7594,6/29/2013 4:22,6/29/2013 4:28,267,354,29,Noble St & Milwaukee Ave,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9007,-87.6626,West Town,41.9077,-87.6726,1132.29269482168
+7596,6/29/2013 6:13,6/29/2013 6:22,535,541,85,Michigan Ave & Oak St,48,Larrabee St & Kingsbury St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.8978,-87.6429,1624.81293742771
+7597,6/29/2013 6:16,6/29/2013 7:10,392,3244,45,Michigan Ave & Congress Pkwy,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8761,-87.6244,0
+7602,6/29/2013 7:14,6/29/2013 8:09,161,3294,32,Racine Ave & Congress Pkwy,44,State St & Randolph St,Customer,null,null,Near West Side,41.8746,-87.657,The Loop,41.8847,-87.6277,2677.62486130679
+7605,6/29/2013 7:27,6/29/2013 8:22,446,3253,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7609,6/29/2013 7:30,6/29/2013 9:53,290,8603,93,Sheffield Ave & Willow St,93,Sheffield Ave & Willow St,Customer,null,null,Lincoln Park,41.9137,-87.6529,Lincoln Park,41.9137,-87.6529,0
+7610,6/29/2013 7:33,6/29/2013 7:45,534,731,59,Wabash Ave & Roosevelt Rd,62,McCormick Place,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8514,-87.6188,1963.89280192687
+7611,6/29/2013 7:39,6/29/2013 8:51,57,4343,33,State St & Van Buren St,62,McCormick Place,Customer,null,null,The Loop,41.8772,-87.6278,Near South Side,41.8514,-87.6188,2962.26814249697
+7612,6/29/2013 7:42,6/29/2013 7:44,539,144,51,Clark St & Randolph St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8842,-87.6296,192.704567264475
+7613,6/29/2013 7:45,6/29/2013 8:03,328,1091,14,Morgan St & 18th St,62,McCormick Place,Customer,null,null,Lower West Side,41.8581,-87.6511,Near South Side,41.8514,-87.6188,2778.86978198719
+7615,6/29/2013 7:52,6/29/2013 8:44,658,3146,320,Loomis St & Lexington St,62,McCormick Place,Customer,null,null,Near West Side,41.8722,-87.6615,Near South Side,41.8514,-87.6188,4230.04480928732
+7616,6/29/2013 7:56,6/29/2013 8:59,557,3816,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+7617,6/29/2013 7:56,6/29/2013 9:00,58,3816,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.891,-87.6173,0
+7618,6/29/2013 7:58,6/29/2013 8:44,765,2783,26,McClurg Ct & Illinois St,62,McCormick Place,Customer,null,null,Near North Side,41.891,-87.6173,Near South Side,41.8514,-87.6188,4405.22500469765
+7619,6/29/2013 7:59,6/29/2013 8:08,855,555,17,Wood St & Division St,54,Ogden Ave & Chicago Ave,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.8964,-87.6541,1731.19431449409
+7621,6/29/2013 8:06,6/29/2013 8:09,466,159,44,State St & Randolph St,44,State St & Randolph St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8847,-87.6277,0
+7622,6/29/2013 8:11,6/29/2013 9:24,161,4399,44,State St & Randolph St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.886,-87.6241,332.797863811464
+7623,6/29/2013 8:11,6/29/2013 9:24,466,4386,44,State St & Randolph St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.886,-87.6241,332.797863811464
+7632,6/29/2013 8:25,6/29/2013 9:07,446,2487,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7633,6/29/2013 8:32,6/29/2013 8:44,393,724,30,Ashland Ave & Augusta Blvd,31,Franklin St & Chicago Ave,Customer,null,null,West Town,41.8996,-87.6677,Near North Side,41.8968,-87.6356,2679.20457878632
+7635,6/29/2013 8:33,6/29/2013 8:58,524,1510,72,State St & 16th St,47,State St & Kinzie St,Customer,null,null,Near South Side,41.8601,-87.6277,Near North Side,41.8892,-87.6277,3227.5665374856
+7636,6/29/2013 8:34,6/29/2013 8:54,329,1218,59,Wabash Ave & Roosevelt Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8682,-87.6263,0
+7638,6/29/2013 8:36,6/29/2013 8:51,457,892,68,Clinton St & Tilden St,42,Wabash Ave & Cermak Rd,Customer,null,null,Near West Side,41.8759,-87.6408,Near South Side,41.8532,-87.6253,2823.83502535113
+7641,6/29/2013 8:38,6/29/2013 8:57,522,1155,51,Clark St & Randolph St,62,McCormick Place,Customer,null,null,The Loop,41.8846,-87.6319,Near South Side,41.8514,-87.6188,3843.65120784953
+7645,6/29/2013 8:42,6/29/2013 9:21,43,2328,77,Clinton St & Madison St,81,Daley Center Plaza,Customer,null,null,Near West Side,41.8816,-87.6413,The Loop,41.8842,-87.6296,1007.96379873948
+7646,6/29/2013 8:43,6/29/2013 9:17,105,2087,31,Franklin St & Chicago Ave,62,McCormick Place,Customer,null,null,Near North Side,41.8968,-87.6356,Near South Side,41.8514,-87.6188,5234.8785132677
+7647,6/29/2013 8:42,6/29/2013 8:57,893,887,47,State St & Kinzie St,75,Canal St & Jackson Blvd,Customer,null,null,Near North Side,41.8892,-87.6277,Near West Side,41.8781,-87.64,1594.87269040623
+7648,6/29/2013 8:46,6/29/2013 8:52,104,368,73,Jefferson St & Monroe St,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8804,-87.6427,The Loop,41.8777,-87.6353,686.091402517139
+7649,6/29/2013 8:49,6/29/2013 9:04,440,848,59,Wabash Ave & Roosevelt Rd,62,McCormick Place,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8514,-87.6188,1963.89280192687
+7650,6/29/2013 8:53,6/29/2013 9:25,628,1935,90,Millennium Park,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.881,-87.6241,Near South Side,41.8532,-87.6253,3088.73308556231
+7659,6/29/2013 9:05,6/29/2013 9:22,392,1017,45,Michigan Ave & Congress Pkwy,90,Millennium Park,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.881,-87.6241,552.349732237273
+7663,6/29/2013 9:10,6/29/2013 9:25,52,868,87,Racine Ave & Fullerton Ave,340,Clark St & Wrightwood Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9295,-87.6431,1342.89380314763
+7665,6/29/2013 9:13,6/29/2013 9:42,527,1773,37,Dearborn St & Adams St,90,Millennium Park,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.881,-87.6241,508.93066059794
+7667,6/29/2013 9:15,6/29/2013 10:01,446,2784,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7668,6/29/2013 9:15,6/29/2013 10:01,351,2765,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7671,6/29/2013 9:25,6/29/2013 9:39,207,840,45,Michigan Ave & Congress Pkwy,251,Clarendon Ave & Leland Ave,Customer,null,null,The Loop,41.8761,-87.6244,Uptown,41.968,-87.65,10425.7637471207
+7678,6/29/2013 9:38,6/29/2013 9:46,855,473,54,Ogden Ave & Chicago Ave,17,Wood St & Division St,Customer,null,null,West Town,41.8964,-87.6541,West Town,41.9033,-87.6727,1731.19431449401
+7688,6/29/2013 9:41,6/29/2013 10:00,41,1182,77,Clinton St & Madison St,77,Clinton St & Madison St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8816,-87.6413,0
+7699,6/29/2013 9:44,6/29/2013 10:18,284,2033,34,Cannon Dr & Fullerton Ave,69,Damen Ave & Pierce Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,West Town,41.9094,-87.6777,4074.15421714152
+7709,6/29/2013 9:47,6/29/2013 10:08,118,1258,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+7722,6/29/2013 9:50,6/29/2013 10:22,178,1933,58,Ashland Ave & Armitage Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,Logan Square,41.916,-87.6689,Logan Square,41.916,-87.6689,0
+7723,6/29/2013 9:50,6/29/2013 10:22,187,1913,251,Clarendon Ave & Leland Ave,251,Clarendon Ave & Leland Ave,Customer,null,null,Uptown,41.968,-87.65,Uptown,41.968,-87.65,0
+7725,6/29/2013 9:52,6/29/2013 10:09,484,1018,36,Franklin St & Jackson Blvd,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8777,-87.6353,0
+7727,6/29/2013 9:52,6/29/2013 10:06,153,838,36,Franklin St & Jackson Blvd,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8777,-87.6353,0
+7733,6/29/2013 9:54,6/29/2013 10:11,478,1026,30,Ashland Ave & Augusta Blvd,81,Daley Center Plaza,Customer,null,null,West Town,41.8996,-87.6677,The Loop,41.8842,-87.6296,3596.64372464413
+7738,6/29/2013 9:58,6/29/2013 10:27,450,1741,30,Ashland Ave & Augusta Blvd,17,Wood St & Division St,Customer,null,null,West Town,41.8996,-87.6677,West Town,41.9033,-87.6727,583.956846398368
+7739,6/29/2013 10:01,6/29/2013 10:21,308,1188,71,Morgan St & Lake St,81,Daley Center Plaza,Customer,null,null,Near West Side,41.8855,-87.6523,The Loop,41.8842,-87.6296,1887.30440769418
+7742,6/29/2013 10:07,6/29/2013 10:23,855,974,17,Wood St & Division St,71,Morgan St & Lake St,Customer,null,null,West Town,41.9033,-87.6727,Near West Side,41.8855,-87.6523,2607.31013408092
+7744,6/29/2013 10:09,6/29/2013 10:19,153,603,36,Franklin St & Jackson Blvd,90,Millennium Park,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.881,-87.6241,1003.13627335496
+7746,6/29/2013 10:10,6/29/2013 10:33,402,1380,61,Wood St & Milwaukee Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9077,-87.6726,Lincoln Park,41.9183,-87.6363,3233.28837338391
+7747,6/29/2013 10:10,6/29/2013 10:20,538,570,36,Franklin St & Jackson Blvd,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8761,-87.6244,922.023026165557
+7754,6/29/2013 10:16,6/29/2013 10:34,654,1075,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+7760,6/29/2013 10:20,6/29/2013 10:38,328,1084,62,McCormick Place,33,State St & Van Buren St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8772,-87.6278,2962.2681424969
+7765,6/29/2013 10:25,6/29/2013 11:42,409,4590,24,Fairbanks Ct & Grand Ave,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.881,-87.6167,1252.92282793905
+7767,6/29/2013 10:28,6/29/2013 10:42,450,886,17,Wood St & Division St,30,Ashland Ave & Augusta Blvd,Customer,null,null,West Town,41.9033,-87.6727,West Town,41.8996,-87.6677,583.956846398576
+7768,6/29/2013 10:28,6/29/2013 11:02,420,1992,67,Sheffield Ave & Fullerton Ave,26,McClurg Ct & Illinois St,Customer,null,null,Lincoln Park,41.9256,-87.6537,Near North Side,41.891,-87.6173,4886.58816016614
+7771,6/29/2013 10:34,6/29/2013 11:07,173,2002,47,State St & Kinzie St,81,Daley Center Plaza,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.8842,-87.6296,579.924939951637
+7773,6/29/2013 10:36,6/29/2013 11:06,442,1804,81,Daley Center Plaza,73,Jefferson St & Monroe St,Customer,null,null,The Loop,41.8842,-87.6296,Near West Side,41.8804,-87.6427,1164.88410056946
+7776,6/29/2013 10:36,6/29/2013 10:41,456,321,49,Dearborn St & Monroe St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8813,-87.6295,The Loop,41.8842,-87.6296,315.936795081636
+7777,6/29/2013 10:36,6/29/2013 12:09,446,5541,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+7778,6/29/2013 10:37,6/29/2013 11:00,222,1367,26,McClurg Ct & Illinois St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.881,-87.6167,1118.55287069519
+7779,6/29/2013 10:37,6/29/2013 11:01,339,1398,26,McClurg Ct & Illinois St,90,Millennium Park,Customer,null,null,Near North Side,41.891,-87.6173,The Loop,41.881,-87.6241,1244.13071441751
+7781,6/29/2013 10:41,6/29/2013 11:08,513,1646,85,Michigan Ave & Oak St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6167,2297.09579332762
+7782,6/29/2013 10:43,6/29/2013 11:01,456,1078,81,Daley Center Plaza,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8682,-87.6263,1799.21123246792
+7783,6/29/2013 10:44,6/29/2013 11:02,539,1098,81,Daley Center Plaza,262,Halsted St & 37th St,Customer,null,null,The Loop,41.8842,-87.6296,Near West Side,41.8271,-87.6458,6481.76518588459
+7784,6/29/2013 10:45,6/29/2013 11:08,206,1384,85,Michigan Ave & Oak St,76,Lake Shore Dr & Monroe St,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6167,2297.09579332762
+7786,6/29/2013 10:50,6/29/2013 11:17,457,1667,42,Wabash Ave & Cermak Rd,76,Lake Shore Dr & Monroe St,Customer,null,null,Near South Side,41.8532,-87.6253,The Loop,41.881,-87.6167,3160.39131288855
+7788,6/29/2013 10:51,6/29/2013 10:58,616,404,46,Wells St & Walton St,88,May St & Randolph St,Customer,null,null,Near North Side,41.8999,-87.6344,Near West Side,41.884,-87.6557,2500.97971616279
+7790,6/29/2013 10:54,6/29/2013 11:18,117,1445,351,Cottage Grove Ave & 51st St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Kenwood,41.803,-87.6066,Lincoln Park,41.9183,-87.6363,13037.6994324024
+7791,6/29/2013 10:54,6/29/2013 11:19,508,1462,149,Calumet Ave & 33rd St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Douglas,41.8349,-87.6179,Lincoln Park,41.9183,-87.6363,9388.40123223663
+7794,6/29/2013 11:00,6/29/2013 11:31,189,1877,252,Greenwood Ave & 47th St,5,State St & Harrison St,Customer,null,null,Kenwood,41.8098,-87.5994,The Loop,41.874,-87.6277,7501.46548232726
+7795,6/29/2013 11:00,6/29/2013 11:46,226,2767,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+7796,6/29/2013 11:00,6/29/2013 11:46,564,2751,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+7798,6/29/2013 11:04,6/29/2013 12:16,130,4321,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+7805,6/29/2013 11:07,6/29/2013 11:27,43,1220,31,Franklin St & Chicago Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Near North Side,41.8919,-87.6206,1361.86586362863
+7808,6/29/2013 11:08,6/29/2013 11:27,308,1128,31,Franklin St & Chicago Ave,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8968,-87.6356,Near North Side,41.8919,-87.6206,1361.86586362863
+7810,6/29/2013 11:09,6/29/2013 11:41,183,1921,54,Ogden Ave & Chicago Ave,52,Michigan Ave & Lake St,Customer,null,null,West Town,41.8964,-87.6541,The Loop,41.886,-87.6241,2737.60156928168
+7811,6/29/2013 11:10,6/29/2013 11:42,317,1923,54,Ogden Ave & Chicago Ave,52,Michigan Ave & Lake St,Customer,null,null,West Town,41.8964,-87.6541,The Loop,41.886,-87.6241,2737.60156928168
+7815,6/29/2013 11:10,6/29/2013 11:14,173,229,81,Daley Center Plaza,108,Halsted St & Polk St,Customer,null,null,The Loop,41.8842,-87.6296,Near West Side,41.8718,-87.6466,1966.19664437109
+7816,6/29/2013 11:10,6/29/2013 11:30,481,1212,90,Millennium Park,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8682,-87.6263,1440.99648865706
+7820,6/29/2013 11:10,6/29/2013 13:07,44,7006,36,Franklin St & Jackson Blvd,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.8777,-87.6353,Near North Side,41.8919,-87.6206,1989.89680891556
+7822,6/29/2013 11:11,6/29/2013 11:21,312,615,46,Wells St & Walton St,84,Green St & Milwaukee Ave,Customer,null,null,Near North Side,41.8999,-87.6344,West Town,41.8917,-87.6487,1495.51547958112
+7828,6/29/2013 11:14,6/29/2013 11:34,440,1178,37,Dearborn St & Adams St,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.8794,-87.6298,0
+7833,6/29/2013 11:17,6/29/2013 11:40,563,1401,61,Wood St & Milwaukee Ave,81,Daley Center Plaza,Customer,null,null,West Town,41.9077,-87.6726,The Loop,41.8842,-87.6296,4415.04475194265
+7841,6/29/2013 11:18,6/29/2013 11:44,539,1549,262,Halsted St & 37th St,56,Desplaines St & Kinzie St,Customer,null,null,Near West Side,41.8271,-87.6458,Near West Side,41.8887,-87.6444,6847.86879510538
+7843,6/29/2013 11:18,6/29/2013 11:45,456,1582,59,Wabash Ave & Roosevelt Rd,56,Desplaines St & Kinzie St,Customer,null,null,The Loop,41.8682,-87.6263,Near West Side,41.8887,-87.6444,2736.77953325815
+7846,6/29/2013 11:22,6/29/2013 11:42,912,1171,25,Michigan Ave & Pearson St,91,Clinton St & Washington Blvd,Customer,null,null,Near North Side,41.8977,-87.6235,Near West Side,41.8834,-87.6412,2159.59025565328
+7847,6/29/2013 11:22,6/29/2013 11:42,598,1175,25,Michigan Ave & Pearson St,91,Clinton St & Washington Blvd,Customer,null,null,Near North Side,41.8977,-87.6235,Near West Side,41.8834,-87.6412,2159.59025565328
+7850,6/29/2013 11:26,6/29/2013 11:43,548,992,67,Sheffield Ave & Fullerton Ave,69,Damen Ave & Pierce Ave,Customer,null,null,Lincoln Park,41.9256,-87.6537,West Town,41.9094,-87.6777,2683.0481663066
+7853,6/29/2013 11:29,6/29/2013 11:32,173,166,108,Halsted St & Polk St,81,Daley Center Plaza,Customer,null,null,Near West Side,41.8718,-87.6466,The Loop,41.8842,-87.6296,1966.19664437125
+7862,6/29/2013 11:32,6/30/2013 11:27,415,86105,91,Clinton St & Washington Blvd,15,Racine Ave & 18th St,Customer,null,null,Near West Side,41.8834,-87.6412,Lower West Side,41.8582,-87.6565,3074.214519769
+7865,6/29/2013 11:33,6/29/2013 12:34,485,3655,51,Clark St & Randolph St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.881,-87.6167,1319.90329701348
+7868,6/29/2013 11:33,6/29/2013 12:34,167,3651,51,Clark St & Randolph St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.881,-87.6167,1319.90329701348
+7869,6/29/2013 11:34,6/29/2013 11:53,386,1151,90,Millennium Park,51,Clark St & Randolph St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8846,-87.6319,758.122354644741
+7871,6/29/2013 11:34,6/29/2013 11:53,36,1145,90,Millennium Park,51,Clark St & Randolph St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8846,-87.6319,758.122354644741
+7878,6/29/2013 11:35,6/29/2013 11:54,285,1138,24,Fairbanks Ct & Grand Ave,50,Clark St & Congress Pkwy,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.8759,-87.6306,1952.85264839998
+7881,6/29/2013 11:35,6/29/2013 11:54,835,1114,24,Fairbanks Ct & Grand Ave,50,Clark St & Congress Pkwy,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.8759,-87.6306,1952.85264839998
+7890,6/29/2013 11:38,6/29/2013 11:49,45,664,46,Wells St & Walton St,46,Wells St & Walton St,Customer,null,null,Near North Side,41.8999,-87.6344,Near North Side,41.8999,-87.6344,0
+7892,6/29/2013 11:39,6/29/2013 12:41,522,3762,62,McCormick Place,69,Damen Ave & Pierce Ave,Customer,null,null,Near South Side,41.8514,-87.6188,West Town,41.9094,-87.6777,8086.94686208938
+7893,6/29/2013 11:39,6/29/2013 11:56,473,979,90,Millennium Park,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8977,-87.6235,1847.53912677844
+7904,6/29/2013 11:43,6/29/2013 12:00,434,1042,33,State St & Van Buren St,62,McCormick Place,Customer,null,null,The Loop,41.8772,-87.6278,Near South Side,41.8514,-87.6188,2962.26814249697
+7905,6/29/2013 11:43,6/29/2013 11:46,173,198,81,Daley Center Plaza,49,Dearborn St & Monroe St,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8813,-87.6295,315.936795081305
+7907,6/29/2013 11:43,6/29/2013 12:00,52,1028,340,Clark St & Wrightwood Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9295,-87.6431,Lincoln Park,41.9256,-87.6584,1342.89380314757
+7913,6/29/2013 11:47,6/29/2013 11:56,860,576,60,Dayton St & North Ave,48,Larrabee St & Kingsbury St,Customer,null,null,Near North Side,41.9106,-87.6494,Near North Side,41.8978,-87.6429,1523.15268278798
+7915,6/29/2013 11:47,6/29/2013 12:09,244,1276,21,Aberdeen St & Jackson Blvd,43,Michigan Ave & Washington St,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.8839,-87.6246,2593.70600710105
+7917,6/29/2013 11:48,6/29/2013 12:40,622,3131,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+7919,6/29/2013 11:48,6/29/2013 12:09,342,1252,21,Aberdeen St & Jackson Blvd,43,Michigan Ave & Washington St,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.8839,-87.6246,2593.70600710105
+7920,6/29/2013 11:48,6/29/2013 13:06,392,4649,90,Millennium Park,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8761,-87.6244,552.349732237502
+7922,6/29/2013 11:49,6/29/2013 13:00,512,4279,164,Franklin St & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.8858,-87.6355,The Loop,41.881,-87.6241,1087.50405284722
+7923,6/29/2013 11:49,6/29/2013 13:00,118,4252,34,Cannon Dr & Fullerton Ave,90,Millennium Park,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.881,-87.6241,5150.68376931805
+7928,6/29/2013 11:50,6/29/2013 12:28,349,2270,47,State St & Kinzie St,249,Montrose Harbor,Customer,null,null,Near North Side,41.8892,-87.6277,Uptown,41.964,-87.6382,8353.75621728687
+7932,6/29/2013 11:51,6/29/2013 13:06,538,4500,45,Michigan Ave & Congress Pkwy,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8761,-87.6244,0
+7933,6/29/2013 11:51,6/29/2013 12:08,256,1028,72,State St & 16th St,90,Millennium Park,Customer,null,null,Near South Side,41.8601,-87.6277,The Loop,41.881,-87.6241,2342.15405699209
+7934,6/29/2013 11:51,6/29/2013 12:39,153,2901,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+7939,6/29/2013 11:53,6/29/2013 11:55,173,133,49,Dearborn St & Monroe St,74,Kingsbury St & Erie St,Customer,null,null,The Loop,41.8813,-87.6295,Near North Side,41.8938,-87.6419,1726.87671651989
+7944,6/29/2013 11:55,6/29/2013 12:23,902,1720,90,Millennium Park,44,State St & Randolph St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8847,-87.6277,510.392006942869
+7946,6/29/2013 11:55,6/29/2013 12:24,396,1711,90,Millennium Park,44,State St & Randolph St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8847,-87.6277,510.392006942869
+7949,6/29/2013 11:56,6/29/2013 12:28,412,1907,47,State St & Kinzie St,108,Halsted St & Polk St,Customer,null,null,Near North Side,41.8892,-87.6277,Near West Side,41.8718,-87.6466,2486.14993273583
+7950,6/29/2013 11:56,6/29/2013 12:27,421,1862,47,State St & Kinzie St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.8682,-87.6263,2337.6282015354
+7953,6/29/2013 11:57,6/29/2013 12:30,534,1941,62,McCormick Place,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8761,-87.6244,2781.49952605695
+7956,6/29/2013 11:58,6/29/2013 12:32,174,2068,43,Michigan Ave & Washington St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8839,-87.6246,The Loop,41.8682,-87.6263,1752.49507283351
+7958,6/29/2013 11:58,6/29/2013 12:28,524,1792,47,State St & Kinzie St,252,Greenwood Ave & 47th St,Customer,null,null,Near North Side,41.8892,-87.6277,Kenwood,41.8098,-87.5994,9121.23120213597
+7959,6/29/2013 11:58,6/29/2013 12:52,106,3248,27,Larrabee St & North Ave,93,Sheffield Ave & Willow St,Customer,null,null,Near North Side,41.9102,-87.6435,Lincoln Park,41.9137,-87.6529,866.960695501529
+7960,6/29/2013 11:58,6/29/2013 12:32,835,1987,50,Clark St & Congress Pkwy,262,Halsted St & 37th St,Customer,null,null,The Loop,41.8759,-87.6306,Near West Side,41.8271,-87.6458,5572.25225587639
+7962,6/29/2013 11:59,6/29/2013 12:09,171,591,5,State St & Harrison St,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.874,-87.6277,Near South Side,41.8532,-87.6253,2309.93394663742
+7964,6/29/2013 11:59,6/29/2013 12:32,285,1930,50,Clark St & Congress Pkwy,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8759,-87.6306,The Loop,41.8682,-87.6263,934.662485989101
+7965,6/29/2013 12:00,6/29/2013 12:34,530,2083,34,Cannon Dr & Fullerton Ave,351,Cottage Grove Ave & 51st St,Customer,null,null,Lincoln Park,41.9268,-87.6344,Kenwood,41.803,-87.6066,13934.1243691813
+7968,6/29/2013 12:00,6/29/2013 12:34,320,2077,34,Cannon Dr & Fullerton Ave,149,Calumet Ave & 33rd St,Customer,null,null,Lincoln Park,41.9268,-87.6344,Douglas,41.8349,-87.6179,10294.0363019542
+7971,6/29/2013 12:01,6/29/2013 12:33,489,1936,45,Michigan Ave & Congress Pkwy,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.881,-87.6167,838.328189023231
+7973,6/29/2013 12:02,6/29/2013 12:32,223,1806,45,Michigan Ave & Congress Pkwy,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.881,-87.6167,838.328189023231
+7975,6/29/2013 12:02,6/29/2013 12:52,587,3035,27,Larrabee St & North Ave,220,Hampden Ct & Diversey Pkwy,Customer,null,null,Near North Side,41.9102,-87.6435,Lake View,41.9326,-87.6424,2490.83594116064
+7978,6/29/2013 12:04,6/29/2013 12:34,486,1822,25,Michigan Ave & Pearson St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.901,-87.6238,367.245844753366
+7987,6/29/2013 12:06,6/29/2013 12:32,470,1530,56,Desplaines St & Kinzie St,69,Damen Ave & Pierce Ave,Customer,null,null,Near West Side,41.8887,-87.6444,West Town,41.9094,-87.6777,3589.72348667961
+7988,6/29/2013 12:06,6/29/2013 12:32,253,1530,56,Desplaines St & Kinzie St,69,Damen Ave & Pierce Ave,Customer,null,null,Near West Side,41.8887,-87.6444,West Town,41.9094,-87.6777,3589.72348667961
+7990,6/29/2013 12:06,6/29/2013 12:18,453,721,33,State St & Van Buren St,42,Wabash Ave & Cermak Rd,Customer,null,null,The Loop,41.8772,-87.6278,Near South Side,41.8532,-87.6253,2667.41338974817
+7996,6/29/2013 12:08,6/29/2013 12:33,563,1544,81,Daley Center Plaza,61,Wood St & Milwaukee Ave,Customer,null,null,The Loop,41.8842,-87.6296,West Town,41.9077,-87.6726,4415.0447519425
+7997,6/29/2013 12:08,6/29/2013 12:27,107,1175,53,Wells St & Erie St,251,Clarendon Ave & Leland Ave,Customer,null,null,Near North Side,41.8938,-87.6342,Uptown,41.968,-87.65,8338.13115185611
+7998,6/29/2013 12:08,6/29/2013 12:33,654,1505,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+7999,6/29/2013 12:08,6/29/2013 12:35,439,1599,25,Michigan Ave & Pearson St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8682,-87.6263,3284.46531836749
+8001,6/29/2013 12:10,6/29/2013 12:32,256,1324,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8002,6/29/2013 12:10,6/29/2013 12:31,95,1230,48,Larrabee St & Kingsbury St,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.8968,-87.6356,610.688309214155
+8003,6/29/2013 12:11,6/29/2013 12:27,540,962,44,State St & Randolph St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8682,-87.6263,1844.37795792352
+8005,6/29/2013 12:11,6/29/2013 12:22,53,617,45,Michigan Ave & Congress Pkwy,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8777,-87.6353,922.023026165505
+8007,6/29/2013 12:12,6/29/2013 12:39,572,1627,62,McCormick Place,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near South Side,41.8514,-87.6188,Lincoln Park,41.9268,-87.6344,8472.0719973017
+8009,6/29/2013 12:13,6/29/2013 12:22,498,538,45,Michigan Ave & Congress Pkwy,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8777,-87.6353,922.023026165505
+8010,6/29/2013 12:13,6/29/2013 12:24,597,649,45,Michigan Ave & Congress Pkwy,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.886,-87.6241,1106.40085583499
+8012,6/29/2013 12:15,6/29/2013 13:01,466,2716,52,Michigan Ave & Lake St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8919,-87.6206,710.219998648175
+8013,6/29/2013 12:16,6/29/2013 13:01,183,2657,52,Michigan Ave & Lake St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.886,-87.6241,Near North Side,41.8919,-87.6206,710.219998648175
+8014,6/29/2013 12:16,6/29/2013 12:36,123,1174,77,Clinton St & Madison St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near West Side,41.8816,-87.6413,The Loop,41.8682,-87.6263,1942.91739605394
+8015,6/29/2013 12:17,6/29/2013 12:36,474,1166,77,Clinton St & Madison St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near West Side,41.8816,-87.6413,The Loop,41.8682,-87.6263,1942.91739605394
+8016,6/29/2013 12:17,6/29/2013 12:46,513,1744,76,Lake Shore Dr & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.8919,-87.6206,1252.92282793922
+8018,6/29/2013 12:17,6/29/2013 12:48,356,1870,76,Lake Shore Dr & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.8919,-87.6206,1252.92282793922
+8024,6/29/2013 12:21,6/29/2013 12:45,76,1481,75,Canal St & Jackson Blvd,37,Dearborn St & Adams St,Customer,null,null,Near West Side,41.8781,-87.64,The Loop,41.8794,-87.6298,858.050927420646
+8026,6/29/2013 12:21,6/29/2013 12:46,409,1507,76,Lake Shore Dr & Monroe St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.8919,-87.6206,1252.92282793922
+8027,6/29/2013 12:22,6/29/2013 12:45,494,1387,75,Canal St & Jackson Blvd,37,Dearborn St & Adams St,Customer,null,null,Near West Side,41.8781,-87.64,The Loop,41.8794,-87.6298,858.050927420646
+8031,6/29/2013 12:23,6/29/2013 12:40,425,1035,108,Halsted St & Polk St,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8718,-87.6466,The Loop,41.8777,-87.6353,1143.53047808509
+8033,6/29/2013 12:24,6/29/2013 12:41,417,1046,49,Dearborn St & Monroe St,36,Franklin St & Jackson Blvd,Customer,null,null,The Loop,41.8813,-87.6295,The Loop,41.8777,-87.6353,626.690863162061
+8035,6/29/2013 12:25,6/29/2013 12:37,386,670,51,Clark St & Randolph St,195,Columbus Dr & Randolph St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8847,-87.6195,1026.76062580542
+8040,6/29/2013 12:32,6/29/2013 12:42,628,611,42,Wabash Ave & Cermak Rd,57,Clinton St & Roosevelt Rd,Customer,null,null,Near South Side,41.8532,-87.6253,Near West Side,41.8671,-87.6411,2021.57937457385
+8041,6/29/2013 12:32,6/29/2013 12:40,534,460,45,Michigan Ave & Congress Pkwy,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.8761,-87.6244,Near West Side,41.8781,-87.64,1312.82476376049
+8042,6/29/2013 12:33,6/29/2013 12:55,897,1305,62,McCormick Place,5,State St & Harrison St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.874,-87.6277,2614.99431283171
+8043,6/29/2013 12:33,6/29/2013 12:55,471,1301,62,McCormick Place,5,State St & Harrison St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.874,-87.6277,2614.99431283171
+8044,6/29/2013 12:33,6/29/2013 14:00,285,5240,59,Wabash Ave & Roosevelt Rd,94,Lincoln Ave & Armitage Ave,Customer,null,null,The Loop,41.8682,-87.6263,Lincoln Park,41.9183,-87.6363,5631.33773582421
+8045,6/29/2013 12:34,6/29/2013 14:00,835,5202,262,Halsted St & 37th St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near West Side,41.8271,-87.6458,Lincoln Park,41.9183,-87.6363,10164.3102400565
+8046,6/29/2013 12:34,6/29/2013 13:09,130,2089,34,Cannon Dr & Fullerton Ave,90,Millennium Park,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.881,-87.6241,5150.68376931805
+8047,6/29/2013 12:34,6/29/2013 13:10,567,2162,34,Cannon Dr & Fullerton Ave,90,Millennium Park,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.881,-87.6241,5150.68376931805
+8054,6/29/2013 12:39,6/29/2013 13:02,90,1389,25,Michigan Ave & Pearson St,43,Michigan Ave & Washington St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8839,-87.6246,1532.06194384175
+8055,6/29/2013 12:39,6/29/2013 13:02,505,1335,25,Michigan Ave & Pearson St,43,Michigan Ave & Washington St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8839,-87.6246,1532.06194384175
+8056,6/29/2013 12:42,6/29/2013 12:51,902,531,44,State St & Randolph St,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8847,-87.6277,The Loop,41.8839,-87.6246,272.383230307222
+8058,6/29/2013 12:43,6/29/2013 13:03,474,1203,59,Wabash Ave & Roosevelt Rd,47,State St & Kinzie St,Customer,null,null,The Loop,41.8682,-87.6263,Near North Side,41.8892,-87.6277,2337.62820153533
+8059,6/29/2013 12:43,6/29/2013 13:03,123,1167,59,Wabash Ave & Roosevelt Rd,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8839,-87.6246,1752.49507283376
+8060,6/29/2013 12:44,6/29/2013 12:47,330,177,55,Halsted St & James M Rochford St,57,Clinton St & Roosevelt Rd,Customer,null,null,Near West Side,41.8659,-87.6466,Near West Side,41.8671,-87.6411,479.320097899069
+8062,6/29/2013 12:44,6/29/2013 13:05,572,1249,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+8065,6/29/2013 12:46,6/29/2013 13:04,162,1057,61,Wood St & Milwaukee Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9094,-87.6777,468.251670921536
+8066,6/29/2013 12:46,6/29/2013 13:03,817,1017,61,Wood St & Milwaukee Ave,69,Damen Ave & Pierce Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9094,-87.6777,468.251670921536
+8068,6/29/2013 12:47,6/29/2013 13:17,43,1779,24,Fairbanks Ct & Grand Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.8919,-87.6206,Lincoln Park,41.9268,-87.6344,4041.73254476756
+8069,6/29/2013 12:47,6/29/2013 13:04,632,966,77,Clinton St & Madison St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8695,-87.6555,1788.1743974201
+8071,6/29/2013 12:48,6/29/2013 13:04,37,964,77,Clinton St & Madison St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8816,-87.6413,Near West Side,41.8695,-87.6555,1788.1743974201
+8072,6/29/2013 12:48,6/29/2013 13:07,53,1107,36,Franklin St & Jackson Blvd,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.881,-87.6167,1583.80452639618
+8073,6/29/2013 12:48,6/29/2013 13:07,417,1094,36,Franklin St & Jackson Blvd,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.881,-87.6167,1583.80452639618
+8075,6/29/2013 12:50,6/29/2013 13:15,76,1510,37,Dearborn St & Adams St,47,State St & Kinzie St,Customer,null,null,The Loop,41.8794,-87.6298,Near North Side,41.8892,-87.6277,1104.83902574585
+8076,6/29/2013 12:50,6/29/2013 13:15,494,1507,37,Dearborn St & Adams St,47,State St & Kinzie St,Customer,null,null,The Loop,41.8794,-87.6298,Near North Side,41.8892,-87.6277,1104.83902574585
+8079,6/29/2013 12:52,6/29/2013 14:31,489,5979,76,Lake Shore Dr & Monroe St,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6241,609.420895085461
+8080,6/29/2013 12:53,6/29/2013 13:12,84,1148,27,Larrabee St & North Ave,73,Jefferson St & Monroe St,Customer,null,null,Near North Side,41.9102,-87.6435,Near West Side,41.8804,-87.6427,3309.18205509698
+8082,6/29/2013 12:53,6/29/2013 13:12,450,1130,27,Larrabee St & North Ave,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.9102,-87.6435,Near North Side,41.8968,-87.6356,1625.84278048313
+8084,6/29/2013 12:54,6/29/2013 12:59,173,274,74,Kingsbury St & Erie St,49,Dearborn St & Monroe St,Customer,null,null,Near North Side,41.8938,-87.6419,The Loop,41.8813,-87.6295,1726.87671651999
+8086,6/29/2013 12:54,6/29/2013 13:03,393,515,31,Franklin St & Chicago Ave,23,Orleans St & Elm St,Customer,null,null,Near North Side,41.8968,-87.6356,Near North Side,41.9029,-87.6377,701.468891919648
+8089,6/29/2013 12:57,6/29/2013 13:07,356,613,24,Fairbanks Ct & Grand Ave,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.886,-87.6241,710.219998648023
+8090,6/29/2013 12:57,6/29/2013 13:07,308,605,24,Fairbanks Ct & Grand Ave,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.886,-87.6241,710.219998648023
+8092,6/29/2013 12:58,6/29/2013 13:07,511,561,24,Fairbanks Ct & Grand Ave,52,Michigan Ave & Lake St,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.886,-87.6241,710.219998648023
+8095,6/29/2013 12:59,6/29/2013 13:13,457,825,59,Wabash Ave & Roosevelt Rd,62,McCormick Place,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8514,-87.6188,1963.89280192687
+8096,6/29/2013 12:59,6/29/2013 13:27,173,1627,49,Dearborn St & Monroe St,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8813,-87.6295,The Loop,41.8839,-87.6246,495.163372136095
+8097,6/29/2013 12:59,6/29/2013 13:13,540,809,59,Wabash Ave & Roosevelt Rd,62,McCormick Place,Customer,null,null,The Loop,41.8682,-87.6263,Near South Side,41.8514,-87.6188,1963.89280192687
+8108,6/29/2013 13:03,6/29/2013 13:20,403,1037,121,Blackstone Ave & Hyde Park Blvd,51,Clark St & Randolph St,Customer,null,null,Hyde Park,41.8026,-87.5904,The Loop,41.8846,-87.6319,9740.25012815055
+8114,6/29/2013 13:03,6/29/2013 13:16,223,742,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.891,-87.6173,1118.55287069577
+8115,6/29/2013 13:04,6/29/2013 13:34,563,1800,61,Wood St & Milwaukee Ave,25,Michigan Ave & Pearson St,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.8977,-87.6235,4218.06720149665
+8116,6/29/2013 13:04,6/29/2013 13:34,561,1778,61,Wood St & Milwaukee Ave,25,Michigan Ave & Pearson St,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.8977,-87.6235,4218.06720149665
+8117,6/29/2013 13:06,6/29/2013 13:28,407,1354,51,Clark St & Randolph St,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.901,-87.6238,1940.37611234794
+8122,6/29/2013 13:08,6/29/2013 13:34,54,1546,61,Wood St & Milwaukee Ave,25,Michigan Ave & Pearson St,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.8977,-87.6235,4218.06720149665
+8123,6/29/2013 13:09,6/29/2013 13:26,560,1065,53,Wells St & Erie St,37,Dearborn St & Adams St,Customer,null,null,Near North Side,41.8938,-87.6342,The Loop,41.8794,-87.6298,1648.8496130555
+8125,6/29/2013 13:09,6/29/2013 14:13,850,3849,62,McCormick Place,251,Clarendon Ave & Leland Ave,Customer,null,null,Near South Side,41.8514,-87.6188,Uptown,41.968,-87.65,13205.7792787297
+8129,6/29/2013 13:11,6/29/2013 14:00,130,2950,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+8130,6/29/2013 13:11,6/29/2013 13:27,376,939,51,Clark St & Randolph St,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.8846,-87.6319,Near North Side,41.901,-87.6238,1940.37611234794
+8131,6/29/2013 13:12,6/29/2013 13:26,255,856,24,Fairbanks Ct & Grand Ave,349,Halsted St & Wrightwood Ave,Customer,null,null,Near North Side,41.8919,-87.6206,Lincoln Park,41.9291,-87.6491,4766.84345080302
+8133,6/29/2013 13:12,6/29/2013 13:26,331,845,24,Fairbanks Ct & Grand Ave,90,Millennium Park,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.881,-87.6241,1236.60337235101
+8135,6/29/2013 13:12,6/29/2013 13:26,183,806,24,Fairbanks Ct & Grand Ave,90,Millennium Park,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.881,-87.6241,1236.60337235101
+8137,6/29/2013 13:13,6/29/2013 14:00,567,2844,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+8140,6/29/2013 13:13,6/29/2013 13:45,378,1894,26,McClurg Ct & Illinois St,87,Racine Ave & Fullerton Ave,Customer,null,null,Near North Side,41.891,-87.6173,Lincoln Park,41.9256,-87.6584,5133.3319768935
+8143,6/29/2013 13:14,6/29/2013 13:48,538,2092,45,Michigan Ave & Congress Pkwy,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8839,-87.6246,869.55572143105
+8145,6/29/2013 13:14,6/29/2013 14:13,434,3548,62,McCormick Place,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8682,-87.6263,1963.89280192684
+8151,6/29/2013 13:16,6/29/2013 13:28,572,748,34,Cannon Dr & Fullerton Ave,279,Halsted St & 35th St,Customer,null,null,Lincoln Park,41.9268,-87.6344,Bridgeport,41.8307,-87.6472,10725.647964304
+8153,6/29/2013 13:17,6/29/2013 13:20,453,236,42,Wabash Ave & Cermak Rd,62,McCormick Place,Customer,null,null,Near South Side,41.8532,-87.6253,Near South Side,41.8514,-87.6188,578.28962798966
+8154,6/29/2013 13:17,6/29/2013 13:21,330,202,57,Clinton St & Roosevelt Rd,55,Halsted St & James M Rochford St,Customer,null,null,Near West Side,41.8671,-87.6411,Near West Side,41.8659,-87.6466,479.320097899134
+8158,6/29/2013 13:19,6/29/2013 13:58,302,2329,90,Millennium Park,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.901,-87.6238,2213.65014406801
+8159,6/29/2013 13:19,6/29/2013 13:59,101,2355,69,Damen Ave & Pierce Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Lincoln Park,41.9183,-87.6363,3575.16999242753
+8162,6/29/2013 13:22,6/29/2013 13:48,440,1608,45,Michigan Ave & Congress Pkwy,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.881,-87.6167,838.328189023231
+8163,6/29/2013 13:22,6/29/2013 13:45,153,1346,76,Lake Shore Dr & Monroe St,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.901,-87.6238,2297.09579332747
+8164,6/29/2013 13:22,6/29/2013 13:45,485,1331,76,Lake Shore Dr & Monroe St,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.881,-87.6167,Near North Side,41.901,-87.6238,2297.09579332747
+8167,6/29/2013 13:23,6/29/2013 13:52,494,1734,47,State St & Kinzie St,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.8777,-87.6353,1422.58802700309
+8168,6/29/2013 13:23,6/29/2013 13:47,44,1472,24,Fairbanks Ct & Grand Ave,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.8919,-87.6206,Near North Side,41.901,-87.6238,1044.18390913654
+8169,6/29/2013 13:23,6/29/2013 13:52,474,1721,47,State St & Kinzie St,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.8777,-87.6353,1422.58802700309
+8173,6/29/2013 13:26,6/29/2013 14:15,517,2933,262,Halsted St & 37th St,90,Millennium Park,Customer,null,null,Near West Side,41.8271,-87.6458,The Loop,41.881,-87.6241,6258.86418775106
+8176,6/29/2013 13:26,6/29/2013 14:36,452,4160,85,Michigan Ave & Oak St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.8977,-87.6235,367.245844753361
+8177,6/29/2013 13:29,6/29/2013 13:52,76,1378,47,State St & Kinzie St,36,Franklin St & Jackson Blvd,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.8777,-87.6353,1422.58802700309
+8182,6/29/2013 13:30,6/29/2013 14:14,348,2693,59,Wabash Ave & Roosevelt Rd,45,Michigan Ave & Congress Pkwy,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8761,-87.6244,891.068676179396
+8184,6/29/2013 13:30,6/29/2013 14:20,592,3013,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+8197,6/29/2013 13:33,6/29/2013 13:42,646,535,48,Larrabee St & Kingsbury St,60,Dayton St & North Ave,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.9106,-87.6494,1523.15268278799
+8199,6/29/2013 13:33,6/29/2013 13:56,267,1345,61,Wood St & Milwaukee Ave,47,State St & Kinzie St,Customer,null,null,West Town,41.9077,-87.6726,Near North Side,41.8892,-87.6277,4250.13123211858
+8200,6/29/2013 13:33,6/29/2013 14:17,339,2637,76,Lake Shore Dr & Monroe St,262,Halsted St & 37th St,Customer,null,null,The Loop,41.881,-87.6167,Near West Side,41.8271,-87.6458,6453.34725672426
+8201,6/29/2013 13:33,6/29/2013 14:17,222,2624,76,Lake Shore Dr & Monroe St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.8682,-87.6263,1626.46260678173
+8204,6/29/2013 13:34,6/29/2013 13:54,194,1250,16,Wood St & North Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,West Town,41.9103,-87.6725,Lincoln Park,41.9183,-87.6363,3133.89451270197
+8210,6/29/2013 13:35,6/29/2013 14:30,281,3273,17,Wood St & Division St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,West Town,41.9033,-87.6727,The Loop,41.8682,-87.6263,5488.33253245452
+8216,6/29/2013 13:36,6/29/2013 14:03,466,1659,24,Fairbanks Ct & Grand Ave,81,Daley Center Plaza,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.8842,-87.6296,1136.08687311102
+8220,6/29/2013 13:37,6/29/2013 13:52,560,944,37,Dearborn St & Adams St,251,Clarendon Ave & Leland Ave,Customer,null,null,The Loop,41.8794,-87.6298,Uptown,41.968,-87.65,9984.00336194247
+8223,6/29/2013 13:37,6/29/2013 14:03,409,1564,24,Fairbanks Ct & Grand Ave,81,Daley Center Plaza,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.8842,-87.6296,1136.08687311102
+8225,6/29/2013 13:38,6/29/2013 13:58,597,1199,52,Michigan Ave & Lake St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6167,831.400176754601
+8226,6/29/2013 13:38,6/29/2013 13:48,45,642,46,Wells St & Walton St,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.8999,-87.6344,West Town,41.8964,-87.6541,1676.5509642299
+8227,6/29/2013 13:38,6/29/2013 14:06,291,1715,88,May St & Randolph St,71,Morgan St & Lake St,Customer,null,null,Near West Side,41.884,-87.6557,Near West Side,41.8855,-87.6523,327.264056131286
+8229,6/29/2013 13:38,6/29/2013 14:07,1,1710,88,May St & Randolph St,71,Morgan St & Lake St,Customer,null,null,Near West Side,41.884,-87.6557,Near West Side,41.8855,-87.6523,327.264056131286
+8233,6/29/2013 13:39,6/29/2013 13:46,375,410,80,Aberdeen St & Madison St,56,Desplaines St & Kinzie St,Customer,null,null,Near West Side,41.8815,-87.6548,Near West Side,41.8887,-87.6444,1173.09191170843
+8236,6/29/2013 13:39,6/29/2013 14:05,401,1534,66,Clinton St & Lake St,53,Wells St & Erie St,Customer,null,null,Near West Side,41.8858,-87.6414,Near North Side,41.8938,-87.6342,1070.15020970279
+8237,6/29/2013 13:39,6/29/2013 14:30,168,3054,17,Wood St & Division St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,West Town,41.9033,-87.6727,The Loop,41.8682,-87.6263,5488.33253245452
+8240,6/29/2013 13:39,6/29/2013 13:53,123,839,43,Michigan Ave & Washington St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.891,-87.6173,999.359911640958
+8244,6/29/2013 13:40,6/29/2013 14:21,182,2455,67,Sheffield Ave & Fullerton Ave,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Lincoln Park,41.9256,-87.6537,The Loop,41.8682,-87.6263,6774.24152434635
+8247,6/29/2013 13:41,6/29/2013 14:21,279,2422,67,Sheffield Ave & Fullerton Ave,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Lincoln Park,41.9256,-87.6537,The Loop,41.8682,-87.6263,6774.24152434635
+8248,6/29/2013 13:41,6/29/2013 14:04,481,1393,59,Wabash Ave & Roosevelt Rd,5,State St & Harrison St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.874,-87.6277,655.385308588204
+8249,6/29/2013 13:41,6/29/2013 14:37,264,3375,13,Wilton Ave & Diversey Pkwy,127,Lincoln Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9325,-87.6527,Lincoln Park,41.9259,-87.6493,785.55776878244
+8250,6/29/2013 13:41,6/29/2013 14:23,442,2496,34,Cannon Dr & Fullerton Ave,76,Lake Shore Dr & Monroe St,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.881,-87.6167,5294.29199033836
+8252,6/29/2013 13:42,6/29/2013 13:58,161,961,52,Michigan Ave & Lake St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6167,831.400176754601
+8253,6/29/2013 13:42,6/29/2013 14:04,653,1313,340,Clark St & Wrightwood Ave,5,State St & Harrison St,Customer,null,null,Lincoln Park,41.9295,-87.6431,The Loop,41.874,-87.6277,6304.71899431048
+8254,6/29/2013 13:42,6/29/2013 13:58,367,912,80,Aberdeen St & Madison St,74,Kingsbury St & Erie St,Customer,null,null,Near West Side,41.8815,-87.6548,Near North Side,41.8938,-87.6419,1740.67762850848
+8257,6/29/2013 13:43,6/29/2013 13:49,559,355,51,Clark St & Randolph St,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.886,-87.6241,664.885432666111
+8260,6/29/2013 13:45,6/29/2013 14:37,611,3125,13,Wilton Ave & Diversey Pkwy,90,Millennium Park,Customer,null,null,Lincoln Park,41.9325,-87.6527,The Loop,41.881,-87.6241,6189.50664941971
+8263,6/29/2013 13:46,6/29/2013 14:16,206,1818,56,Desplaines St & Kinzie St,93,Sheffield Ave & Willow St,Customer,null,null,Near West Side,41.8887,-87.6444,Lincoln Park,41.9137,-87.6529,2860.05428299916
+8266,6/29/2013 13:46,6/29/2013 14:16,247,1757,56,Desplaines St & Kinzie St,93,Sheffield Ave & Willow St,Customer,null,null,Near West Side,41.8887,-87.6444,Lincoln Park,41.9137,-87.6529,2860.05428299916
+8268,6/29/2013 13:47,6/29/2013 14:06,427,1130,93,Sheffield Ave & Willow St,31,Franklin St & Chicago Ave,Customer,null,null,Lincoln Park,41.9137,-87.6529,Near North Side,41.8968,-87.6356,2357.61729792523
+8270,6/29/2013 13:47,6/29/2013 14:06,423,1127,93,Sheffield Ave & Willow St,31,Franklin St & Chicago Ave,Customer,null,null,Lincoln Park,41.9137,-87.6529,Near North Side,41.8968,-87.6356,2357.61729792523
+8271,6/29/2013 13:47,6/29/2013 13:53,228,364,49,Dearborn St & Monroe St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8813,-87.6295,The Loop,41.8842,-87.6296,315.936795081636
+8275,6/29/2013 13:48,6/29/2013 14:37,266,2938,13,Wilton Ave & Diversey Pkwy,76,Lake Shore Dr & Monroe St,Customer,null,null,Lincoln Park,41.9325,-87.6527,The Loop,41.881,-87.6167,6454.85934882577
+8280,6/29/2013 13:49,6/29/2013 13:59,192,604,54,Ogden Ave & Chicago Ave,121,Blackstone Ave & Hyde Park Blvd,Customer,null,null,West Town,41.8964,-87.6541,Hyde Park,41.8026,-87.5904,11684.281527048
+8282,6/29/2013 13:51,6/29/2013 14:43,167,3155,59,Wabash Ave & Roosevelt Rd,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.8682,-87.6263,Near North Side,41.901,-87.6238,3648.9216393684
+8283,6/29/2013 13:51,6/29/2013 14:37,265,2724,13,Wilton Ave & Diversey Pkwy,76,Lake Shore Dr & Monroe St,Customer,null,null,Lincoln Park,41.9325,-87.6527,The Loop,41.881,-87.6167,6454.85934882577
+8287,6/29/2013 13:52,6/29/2013 14:28,43,2156,34,Cannon Dr & Fullerton Ave,45,Michigan Ave & Congress Pkwy,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.8761,-87.6244,5691.0139374936
+8289,6/29/2013 13:53,6/29/2013 14:28,654,2128,34,Cannon Dr & Fullerton Ave,45,Michigan Ave & Congress Pkwy,Customer,null,null,Lincoln Park,41.9268,-87.6344,The Loop,41.8761,-87.6244,5691.0139374936
+8291,6/29/2013 13:52,6/29/2013 14:03,914,628,36,Franklin St & Jackson Blvd,80,Aberdeen St & Madison St,Customer,null,null,The Loop,41.8777,-87.6353,Near West Side,41.8815,-87.6548,1666.61511726585
+8295,6/29/2013 13:54,6/29/2013 14:18,66,1443,27,Larrabee St & North Ave,17,Wood St & Division St,Customer,null,null,Near North Side,41.9102,-87.6435,West Town,41.9033,-87.6727,2543.13617623155
+8297,6/29/2013 13:55,6/29/2013 14:18,712,1409,75,Canal St & Jackson Blvd,350,Ashland Ave & Chicago Ave,Customer,null,null,Near West Side,41.8781,-87.64,West Town,41.896,-87.6677,3036.33310217017
+8298,6/29/2013 13:55,6/29/2013 14:20,273,1525,69,Damen Ave & Pierce Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Logan Square,41.916,-87.6689,1037.01810736472
+8299,6/29/2013 13:55,6/29/2013 14:10,484,877,90,Millennium Park,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8781,-87.64,1359.436181492
+8300,6/29/2013 13:55,6/29/2013 14:20,522,1506,69,Damen Ave & Pierce Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Logan Square,41.916,-87.6689,1037.01810736472
+8301,6/29/2013 13:55,6/29/2013 17:30,313,12886,34,Cannon Dr & Fullerton Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9183,-87.6363,951.061622846123
+8303,6/29/2013 13:56,6/29/2013 14:10,53,829,90,Millennium Park,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8781,-87.64,1359.436181492
+8304,6/29/2013 13:56,6/29/2013 17:30,586,12825,94,Lincoln Ave & Armitage Ave,94,Lincoln Ave & Armitage Ave,Customer,null,null,Lincoln Park,41.9183,-87.6363,Lincoln Park,41.9183,-87.6363,0
+8306,6/29/2013 13:56,6/29/2013 14:21,817,1487,69,Damen Ave & Pierce Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Logan Square,41.916,-87.6689,1037.01810736472
+8307,6/29/2013 13:56,6/29/2013 14:31,89,2091,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+8308,6/29/2013 13:56,6/29/2013 14:01,32,265,69,Damen Ave & Pierce Ave,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9077,-87.6726,468.251670921532
+8309,6/29/2013 13:56,6/29/2013 14:10,331,808,90,Millennium Park,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8781,-87.64,1359.436181492
+8310,6/29/2013 13:57,6/29/2013 14:21,253,1453,69,Damen Ave & Pierce Ave,58,Ashland Ave & Armitage Ave,Customer,null,null,West Town,41.9094,-87.6777,Logan Square,41.916,-87.6689,1037.01810736472
+8314,6/29/2013 13:57,6/29/2013 14:10,512,781,90,Millennium Park,75,Canal St & Jackson Blvd,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8781,-87.64,1359.436181492
+8315,6/29/2013 13:58,6/29/2013 14:17,363,1163,51,Clark St & Randolph St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8682,-87.6263,1882.05293177811
+8317,6/29/2013 13:58,6/29/2013 14:24,380,1549,69,Damen Ave & Pierce Ave,61,Wood St & Milwaukee Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9077,-87.6726,468.251670921532
+8319,6/29/2013 13:59,6/29/2013 14:28,559,1768,52,Michigan Ave & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6241,554.506499811496
+8320,6/29/2013 13:59,6/29/2013 14:31,161,1899,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6167,0
+8321,6/29/2013 13:59,6/29/2013 14:37,107,2293,251,Clarendon Ave & Leland Ave,31,Franklin St & Chicago Ave,Customer,null,null,Uptown,41.968,-87.65,Near North Side,41.8968,-87.6356,7993.79712276585
+8322,6/29/2013 14:00,6/29/2013 14:17,116,1023,51,Clark St & Randolph St,59,Wabash Ave & Roosevelt Rd,Customer,null,null,The Loop,41.8846,-87.6319,The Loop,41.8682,-87.6263,1882.05293177811
+8323,6/29/2013 14:00,6/29/2013 14:31,41,1880,77,Clinton St & Madison St,54,Ogden Ave & Chicago Ave,Customer,null,null,Near West Side,41.8816,-87.6413,West Town,41.8964,-87.6541,1954.65468741304
+8324,6/29/2013 14:01,6/29/2013 14:18,622,1025,90,Millennium Park,72,State St & 16th St,Customer,null,null,The Loop,41.881,-87.6241,Near South Side,41.8601,-87.6277,2342.15405699184
+8325,6/29/2013 14:01,6/29/2013 14:28,356,1620,52,Michigan Ave & Lake St,90,Millennium Park,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.881,-87.6241,554.506499811496
+8328,6/29/2013 14:02,6/29/2013 14:17,444,890,61,Wood St & Milwaukee Ave,56,Desplaines St & Kinzie St,Customer,null,null,West Town,41.9077,-87.6726,Near West Side,41.8887,-87.6444,3140.69895963084
+8332,6/29/2013 14:04,6/29/2013 14:31,315,1619,59,Wabash Ave & Roosevelt Rd,53,Wells St & Erie St,Customer,null,null,The Loop,41.8682,-87.6263,Near North Side,41.8938,-87.6342,2926.25626948364
+8334,6/29/2013 14:05,6/29/2013 14:30,653,1485,5,State St & Harrison St,81,Daley Center Plaza,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8842,-87.6296,1144.3407022862
+8336,6/29/2013 14:06,6/29/2013 14:30,481,1470,5,State St & Harrison St,81,Daley Center Plaza,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.8842,-87.6296,1144.3407022862
+8338,6/29/2013 14:06,6/29/2013 14:30,597,1449,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6167,The Loop,41.881,-87.6167,0
+8339,6/29/2013 14:06,6/29/2013 14:09,228,176,81,Daley Center Plaza,37,Dearborn St & Adams St,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8794,-87.6298,534.035338925962
+8341,6/29/2013 14:06,6/29/2013 14:29,170,1371,22,May St & Taylor St,22,May St & Taylor St,Customer,null,null,Near West Side,41.8695,-87.6555,Near West Side,41.8695,-87.6555,0
+8342,6/29/2013 14:07,6/29/2013 14:17,897,641,5,State St & Harrison St,90,Millennium Park,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.881,-87.6241,842.226845881316
+8343,6/29/2013 14:07,6/29/2013 14:17,174,638,5,State St & Harrison St,90,Millennium Park,Customer,null,null,The Loop,41.874,-87.6277,The Loop,41.881,-87.6241,842.226845881316
+8345,6/29/2013 14:07,6/29/2013 14:15,341,453,57,Clinton St & Roosevelt Rd,59,Wabash Ave & Roosevelt Rd,Customer,null,null,Near West Side,41.8671,-87.6411,The Loop,41.8682,-87.6263,1235.91285947178
+8349,6/29/2013 14:10,6/29/2013 15:05,563,3298,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8977,-87.6235,0
+8351,6/29/2013 14:12,6/29/2013 14:18,256,328,90,Millennium Park,33,State St & Van Buren St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8772,-87.6278,529.45512216861
+8358,6/29/2013 14:13,6/29/2013 14:40,561,1605,25,Michigan Ave & Pearson St,49,Dearborn St & Monroe St,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.8813,-87.6295,1882.23659303947
+8360,6/29/2013 14:14,6/29/2013 14:21,76,426,36,Franklin St & Jackson Blvd,73,Jefferson St & Monroe St,Customer,null,null,The Loop,41.8777,-87.6353,Near West Side,41.8804,-87.6427,686.091402517309
+8367,6/29/2013 14:16,6/29/2013 16:02,457,6365,62,McCormick Place,62,McCormick Place,Customer,null,null,Near South Side,41.8514,-87.6188,Near South Side,41.8514,-87.6188,0
+8368,6/29/2013 14:16,6/29/2013 14:48,565,1880,48,Larrabee St & Kingsbury St,69,Damen Ave & Pierce Ave,Customer,null,null,Near North Side,41.8978,-87.6429,West Town,41.9094,-87.6777,3164.01578557797
+8369,6/29/2013 14:17,6/29/2013 14:39,348,1347,45,Michigan Ave & Congress Pkwy,90,Millennium Park,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.881,-87.6241,552.349732237273
+8371,6/29/2013 14:17,6/29/2013 14:40,517,1337,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8372,6/29/2013 14:17,6/29/2013 14:51,353,1998,25,Michigan Ave & Pearson St,90,Millennium Park,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.881,-87.6241,1847.53912677833
+8373,6/29/2013 14:18,6/29/2013 14:28,456,626,56,Desplaines St & Kinzie St,49,Dearborn St & Monroe St,Customer,null,null,Near West Side,41.8887,-87.6444,The Loop,41.8813,-87.6295,1486.5473328129
+8375,6/29/2013 14:19,6/29/2013 14:49,379,1792,48,Larrabee St & Kingsbury St,69,Damen Ave & Pierce Ave,Customer,null,null,Near North Side,41.8978,-87.6429,West Town,41.9094,-87.6777,3164.01578557797
+8376,6/29/2013 14:19,6/29/2013 14:30,118,655,90,Millennium Park,77,Clinton St & Madison St,Customer,null,null,The Loop,41.881,-87.6241,Near West Side,41.8816,-87.6413,1428.41654713529
+8377,6/29/2013 14:19,6/29/2013 14:27,70,434,91,Clinton St & Washington Blvd,36,Franklin St & Jackson Blvd,Customer,null,null,Near West Side,41.8834,-87.6412,The Loop,41.8777,-87.6353,795.35969403151
+8378,6/29/2013 14:20,6/29/2013 15:19,357,3535,62,McCormick Place,62,McCormick Place,Customer,null,null,Near South Side,41.8514,-87.6188,Near South Side,41.8514,-87.6188,0
+8382,6/29/2013 14:20,6/29/2013 14:33,143,809,69,Damen Ave & Pierce Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9094,-87.6777,West Town,41.9007,-87.6626,1582.81718031229
+8383,6/29/2013 14:20,6/29/2013 15:15,363,3275,59,Wabash Ave & Roosevelt Rd,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8846,-87.6319,1882.05293177794
+8384,6/29/2013 14:21,6/29/2013 15:15,116,3285,59,Wabash Ave & Roosevelt Rd,51,Clark St & Randolph St,Customer,null,null,The Loop,41.8682,-87.6263,The Loop,41.8846,-87.6319,1882.05293177794
+8385,6/29/2013 14:21,6/29/2013 15:02,533,2484,26,McClurg Ct & Illinois St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.891,-87.6173,Lincoln Park,41.9256,-87.6537,4886.58816016601
+8386,6/29/2013 14:21,6/29/2013 15:02,712,2479,26,McClurg Ct & Illinois St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.891,-87.6173,Lincoln Park,41.9256,-87.6537,4886.58816016601
+8387,6/29/2013 14:22,6/29/2013 14:53,105,1843,62,McCormick Place,45,Michigan Ave & Congress Pkwy,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8761,-87.6244,2781.49952605695
+8388,6/29/2013 14:22,6/29/2013 14:46,192,1462,121,Blackstone Ave & Hyde Park Blvd,69,Damen Ave & Pierce Ave,Customer,null,null,Hyde Park,41.8026,-87.5904,West Town,41.9094,-87.6777,13906.239940044
+8390,6/29/2013 14:22,6/29/2013 14:47,340,1523,48,Larrabee St & Kingsbury St,69,Damen Ave & Pierce Ave,Customer,null,null,Near North Side,41.8978,-87.6429,West Town,41.9094,-87.6777,3164.01578557797
+8392,6/29/2013 14:23,6/29/2013 14:51,599,1647,25,Michigan Ave & Pearson St,90,Millennium Park,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.881,-87.6241,1847.53912677833
+8393,6/29/2013 14:23,6/29/2013 14:39,522,947,58,Ashland Ave & Armitage Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Logan Square,41.916,-87.6689,Lincoln Park,41.9256,-87.6584,1370.81442700279
+8394,6/29/2013 14:23,6/29/2013 16:52,273,8928,58,Ashland Ave & Armitage Ave,85,Michigan Ave & Oak St,Customer,null,null,Logan Square,41.916,-87.6689,Near North Side,41.901,-87.6238,4098.80540959562
+8395,6/29/2013 14:23,6/29/2013 14:51,459,1636,25,Michigan Ave & Pearson St,90,Millennium Park,Customer,null,null,Near North Side,41.8977,-87.6235,The Loop,41.881,-87.6241,1847.53912677833
+8396,6/29/2013 14:24,6/29/2013 14:39,909,932,25,Michigan Ave & Pearson St,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.8977,-87.6235,West Town,41.8964,-87.6541,2539.36631679113
+8397,6/29/2013 14:24,6/29/2013 14:39,437,890,25,Michigan Ave & Pearson St,54,Ogden Ave & Chicago Ave,Customer,null,null,Near North Side,41.8977,-87.6235,West Town,41.8964,-87.6541,2539.36631679113
+8398,6/29/2013 14:25,6/29/2013 15:08,540,2597,62,McCormick Place,52,Michigan Ave & Lake St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.886,-87.6241,3873.37720600384
+8401,6/29/2013 14:26,6/29/2013 14:40,591,840,90,Millennium Park,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8977,-87.6235,1847.53912677844
+8403,6/29/2013 14:25,6/29/2013 14:45,32,1170,61,Wood St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9007,-87.6626,1132.29269482172
+8404,6/29/2013 14:26,6/29/2013 14:39,817,817,58,Ashland Ave & Armitage Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Logan Square,41.916,-87.6689,Lincoln Park,41.9256,-87.6584,1370.81442700279
+8405,6/29/2013 14:26,6/29/2013 14:45,162,1143,61,Wood St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9007,-87.6626,1132.29269482172
+8407,6/29/2013 14:26,6/29/2013 14:39,253,791,58,Ashland Ave & Armitage Ave,87,Racine Ave & Fullerton Ave,Customer,null,null,Logan Square,41.916,-87.6689,Lincoln Park,41.9256,-87.6584,1370.81442700279
+8409,6/29/2013 14:27,6/29/2013 14:45,358,1078,77,Clinton St & Madison St,90,Millennium Park,Customer,null,null,Near West Side,41.8816,-87.6413,The Loop,41.881,-87.6241,1428.41654713531
+8411,6/29/2013 14:27,6/29/2013 14:45,207,1024,251,Clarendon Ave & Leland Ave,90,Millennium Park,Customer,null,null,Uptown,41.968,-87.65,The Loop,41.881,-87.6241,9892.57850040279
+8413,6/29/2013 14:28,6/29/2013 14:51,111,1398,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+8416,6/29/2013 14:29,6/29/2013 14:45,470,973,61,Wood St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9007,-87.6626,1132.29269482172
+8421,6/29/2013 14:31,6/29/2013 14:42,62,679,49,Dearborn St & Monroe St,108,Halsted St & Polk St,Customer,null,null,The Loop,41.8813,-87.6295,Near West Side,41.8718,-87.6466,1768.6421425054
+8427,6/29/2013 14:32,6/29/2013 16:02,90,5360,43,Michigan Ave & Washington St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.891,-87.6173,999.359911640958
+8432,6/29/2013 14:34,6/29/2013 14:41,372,449,25,Michigan Ave & Pearson St,24,Fairbanks Ct & Grand Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8919,-87.6206,687.408482863148
+8433,6/29/2013 14:33,6/29/2013 16:02,538,5330,43,Michigan Ave & Washington St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.891,-87.6173,999.359911640958
+8435,6/29/2013 14:34,6/29/2013 14:48,125,811,29,Noble St & Milwaukee Ave,47,State St & Kinzie St,Customer,null,null,West Town,41.9007,-87.6626,Near North Side,41.8892,-87.6277,3165.40201608395
+8441,6/29/2013 14:36,6/29/2013 15:03,204,1643,81,Daley Center Plaza,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.8842,-87.6296,Near North Side,41.901,-87.6238,1928.01342186361
+8442,6/29/2013 14:36,6/29/2013 14:56,413,1170,21,Aberdeen St & Jackson Blvd,33,State St & Van Buren St,Customer,null,null,Near West Side,41.8777,-87.6548,The Loop,41.8772,-87.6278,2237.38101032706
+8443,6/29/2013 14:36,6/29/2013 15:01,47,1450,26,McClurg Ct & Illinois St,71,Morgan St & Lake St,Customer,null,null,Near North Side,41.891,-87.6173,Near West Side,41.8855,-87.6523,2969.62104415087
+8444,6/29/2013 14:37,6/29/2013 15:04,137,1617,81,Daley Center Plaza,85,Michigan Ave & Oak St,Customer,null,null,The Loop,41.8842,-87.6296,Near North Side,41.901,-87.6238,1928.01342186361
+8446,6/29/2013 14:37,6/29/2013 16:35,44,7061,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+8447,6/29/2013 14:37,6/29/2013 14:49,256,700,33,State St & Van Buren St,90,Millennium Park,Customer,null,null,The Loop,41.8772,-87.6278,The Loop,41.881,-87.6241,529.455122168455
+8448,6/29/2013 14:37,6/29/2013 15:11,88,2038,28,Larrabee St & Menomonee St,26,McClurg Ct & Illinois St,Customer,null,null,Lincoln Park,41.9147,-87.6433,Near North Side,41.891,-87.6173,3401.12126342643
+8449,6/29/2013 14:38,6/29/2013 14:49,481,708,81,Daley Center Plaza,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.8839,-87.6246,414.918538342974
+8453,6/29/2013 14:39,6/29/2013 14:45,274,362,61,Wood St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9077,-87.6726,West Town,41.9007,-87.6626,1132.29269482172
+8454,6/29/2013 14:40,6/29/2013 14:42,54,132,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8977,-87.6235,Near North Side,41.8977,-87.6235,0
+8456,6/29/2013 14:40,6/29/2013 15:04,302,1419,85,Michigan Ave & Oak St,90,Millennium Park,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6241,2213.65014406804
+8460,6/29/2013 14:42,6/29/2013 15:04,560,1328,251,Clarendon Ave & Leland Ave,85,Michigan Ave & Oak St,Customer,null,null,Uptown,41.968,-87.65,Near North Side,41.901,-87.6238,7753.94623089781
+8461,6/29/2013 14:43,6/29/2013 20:35,143,21122,29,Noble St & Milwaukee Ave,29,Noble St & Milwaukee Ave,Customer,null,null,West Town,41.9007,-87.6626,West Town,41.9007,-87.6626,0
+8462,6/29/2013 14:43,6/29/2013 15:02,348,1135,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+8463,6/29/2013 14:43,6/29/2013 15:02,517,1130,90,Millennium Park,52,Michigan Ave & Lake St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.886,-87.6241,554.506499811936
+8465,6/29/2013 14:45,6/29/2013 15:17,109,1967,85,Michigan Ave & Oak St,279,Halsted St & 35th St,Customer,null,null,Near North Side,41.901,-87.6238,Bridgeport,41.8307,-87.6472,8046.1718194402
+8467,6/29/2013 14:45,6/29/2013 15:15,220,1808,108,Halsted St & Polk St,19,Loomis St & Taylor St,Customer,null,null,Near West Side,41.8718,-87.6466,Near West Side,41.8694,-87.661,1221.81955788046
+8468,6/29/2013 14:45,6/29/2013 14:58,300,799,43,Michigan Ave & Washington St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8839,-87.6246,The Loop,41.8842,-87.6296,414.918538342979
+8469,6/29/2013 14:45,6/29/2013 14:58,346,751,43,Michigan Ave & Washington St,81,Daley Center Plaza,Customer,null,null,The Loop,41.8839,-87.6246,The Loop,41.8842,-87.6296,414.918538342979
+8472,6/29/2013 14:47,6/29/2013 15:25,764,2288,62,McCormick Place,49,Dearborn St & Monroe St,Customer,null,null,Near South Side,41.8514,-87.6188,The Loop,41.8813,-87.6295,3442.27362609859
+8473,6/29/2013 14:47,6/29/2013 15:17,153,1810,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.901,-87.6238,0
+8474,6/29/2013 14:47,6/29/2013 15:35,411,2828,94,Lincoln Ave & Armitage Ave,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9183,-87.6363,Near North Side,41.901,-87.6238,2188.21768221913
+8475,6/29/2013 14:48,6/29/2013 15:34,101,2793,94,Lincoln Ave & Armitage Ave,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9183,-87.6363,Near North Side,41.901,-87.6238,2188.21768221913
+8476,6/29/2013 14:48,6/29/2013 15:17,444,1736,56,Desplaines St & Kinzie St,94,Lincoln Ave & Armitage Ave,Customer,null,null,Near West Side,41.8887,-87.6444,Lincoln Park,41.9183,-87.6363,3355.71581418199
+8478,6/29/2013 14:48,6/29/2013 15:13,25,1496,87,Racine Ave & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9268,-87.6344,1993.09434579726
+8479,6/29/2013 14:49,6/29/2013 14:59,125,594,47,State St & Kinzie St,5,State St & Harrison St,Customer,null,null,Near North Side,41.8892,-87.6277,The Loop,41.874,-87.6277,1690.7190381879
+8481,6/29/2013 14:50,6/29/2013 15:35,191,2687,94,Lincoln Ave & Armitage Ave,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9183,-87.6363,Near North Side,41.901,-87.6238,2188.21768221913
+8482,6/29/2013 14:50,6/29/2013 15:35,194,2669,94,Lincoln Ave & Armitage Ave,85,Michigan Ave & Oak St,Customer,null,null,Lincoln Park,41.9183,-87.6363,Near North Side,41.901,-87.6238,2188.21768221913
+8486,6/29/2013 14:51,6/29/2013 15:13,817,1299,87,Racine Ave & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9256,-87.6584,Lincoln Park,41.9268,-87.6344,1993.09434579726
+8488,6/29/2013 14:51,6/29/2013 15:00,112,497,85,Michigan Ave & Oak St,31,Franklin St & Chicago Ave,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.8968,-87.6356,1087.28652837498
+8491,6/29/2013 14:52,6/29/2013 15:10,238,1072,94,Lincoln Ave & Armitage Ave,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9183,-87.6363,Lincoln Park,41.9256,-87.6537,1657.17585340397
+8500,6/29/2013 14:56,6/29/2013 15:15,50,1146,53,Wells St & Erie St,49,Dearborn St & Monroe St,Customer,null,null,Near North Side,41.8938,-87.6342,The Loop,41.8813,-87.6295,1442.86969421132
+8501,6/29/2013 14:56,6/29/2013 15:15,394,1150,53,Wells St & Erie St,49,Dearborn St & Monroe St,Customer,null,null,Near North Side,41.8938,-87.6342,The Loop,41.8813,-87.6295,1442.86969421132
+8507,6/29/2013 14:58,6/29/2013 15:19,234,1256,13,Wilton Ave & Diversey Pkwy,348,California Ave & 21st St,Customer,null,null,Lincoln Park,41.9325,-87.6527,South Lawndale,41.854,-87.6954,9412.05661253202
+8508,6/29/2013 14:58,6/29/2013 15:21,343,1403,33,State St & Van Buren St,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.8772,-87.6278,Near North Side,41.8919,-87.6206,1737.1691450191
+8511,6/29/2013 15:00,6/29/2013 15:18,222,1115,59,Wabash Ave & Roosevelt Rd,91,Clinton St & Washington Blvd,Customer,null,null,The Loop,41.8682,-87.6263,Near West Side,41.8834,-87.6412,2094.72788087958
+8512,6/29/2013 15:00,6/29/2013 15:12,600,717,80,Aberdeen St & Madison St,66,Clinton St & Lake St,Customer,null,null,Near West Side,41.8815,-87.6548,Near West Side,41.8858,-87.6414,1210.13608815303
+8513,6/29/2013 15:01,6/29/2013 15:47,167,2731,85,Michigan Ave & Oak St,19,Loomis St & Taylor St,Customer,null,null,Near North Side,41.901,-87.6238,Near West Side,41.8694,-87.661,4670.974698206
+8518,6/29/2013 15:04,6/29/2013 15:19,261,892,13,Wilton Ave & Diversey Pkwy,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9325,-87.6527,Lincoln Park,41.9268,-87.6344,1642.81049876334
+8519,6/29/2013 15:04,6/29/2013 15:26,163,1283,34,Cannon Dr & Fullerton Ave,13,Wilton Ave & Diversey Pkwy,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9325,-87.6527,1642.8104987634
+8520,6/29/2013 15:05,6/29/2013 15:54,517,2958,52,Michigan Ave & Lake St,33,State St & Van Buren St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.8772,-87.6278,1029.76682588519
+8522,6/29/2013 15:05,6/29/2013 15:26,269,1242,34,Cannon Dr & Fullerton Ave,13,Wilton Ave & Diversey Pkwy,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9325,-87.6527,1642.8104987634
+8531,6/29/2013 15:09,6/29/2013 15:38,848,1729,57,Clinton St & Roosevelt Rd,60,Dayton St & North Ave,Customer,null,null,Near West Side,41.8671,-87.6411,Near North Side,41.9106,-87.6494,4876.48149424134
+8532,6/29/2013 15:09,6/29/2013 15:37,92,1705,57,Clinton St & Roosevelt Rd,60,Dayton St & North Ave,Customer,null,null,Near West Side,41.8671,-87.6411,Near North Side,41.9106,-87.6494,4876.48149424134
+8533,6/29/2013 15:10,6/29/2013 15:54,540,2611,52,Michigan Ave & Lake St,33,State St & Van Buren St,Customer,null,null,The Loop,41.886,-87.6241,The Loop,41.8772,-87.6278,1029.76682588519
+8534,6/29/2013 15:11,6/29/2013 16:06,300,3299,81,Daley Center Plaza,90,Millennium Park,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.881,-87.6241,577.258732475447
+8535,6/29/2013 15:11,6/29/2013 16:06,346,3326,81,Daley Center Plaza,90,Millennium Park,Customer,null,null,The Loop,41.8842,-87.6296,The Loop,41.881,-87.6241,577.258732475447
+8536,6/29/2013 15:11,6/29/2013 15:40,238,1761,67,Sheffield Ave & Fullerton Ave,69,Damen Ave & Pierce Ave,Customer,null,null,Lincoln Park,41.9256,-87.6537,West Town,41.9094,-87.6777,2683.0481663066
+8538,6/29/2013 15:12,6/29/2013 15:23,599,620,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8539,6/29/2013 15:12,6/29/2013 16:20,105,4047,45,Michigan Ave & Congress Pkwy,33,State St & Van Buren St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8772,-87.6278,309.038659836841
+8540,6/29/2013 15:12,6/29/2013 16:19,236,4021,45,Michigan Ave & Congress Pkwy,33,State St & Van Buren St,Customer,null,null,The Loop,41.8761,-87.6244,The Loop,41.8772,-87.6278,309.038659836841
+8545,6/29/2013 15:14,6/29/2013 16:16,489,3757,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8546,6/29/2013 15:14,6/29/2013 15:41,25,1657,34,Cannon Dr & Fullerton Ave,34,Cannon Dr & Fullerton Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9268,-87.6344,0
+8547,6/29/2013 15:14,6/29/2013 15:32,134,1092,26,McClurg Ct & Illinois St,53,Wells St & Erie St,Customer,null,null,Near North Side,41.891,-87.6173,Near North Side,41.8938,-87.6342,1436.48468206165
+8548,6/29/2013 15:14,6/29/2013 16:16,256,3729,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8550,6/29/2013 15:14,6/29/2013 15:40,817,1542,34,Cannon Dr & Fullerton Ave,340,Clark St & Wrightwood Ave,Customer,null,null,Lincoln Park,41.9268,-87.6344,Lincoln Park,41.9295,-87.6431,784.517017253728
+8551,6/29/2013 15:15,6/29/2013 15:49,572,2011,279,Halsted St & 35th St,43,Michigan Ave & Washington St,Customer,null,null,Bridgeport,41.8307,-87.6472,The Loop,41.8839,-87.6246,6201.21498089221
+8555,6/29/2013 15:17,6/29/2013 15:31,420,833,340,Clark St & Wrightwood Ave,53,Wells St & Erie St,Customer,null,null,Lincoln Park,41.9295,-87.6431,Near North Side,41.8938,-87.6342,4035.29722836955
+8557,6/29/2013 15:18,6/29/2013 15:20,519,144,91,Clinton St & Washington Blvd,91,Clinton St & Washington Blvd,Customer,null,null,Near West Side,41.8834,-87.6412,Near West Side,41.8834,-87.6412,0
+8558,6/29/2013 15:18,6/29/2013 16:30,351,4311,85,Michigan Ave & Oak St,90,Millennium Park,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6241,2213.65014406804
+8560,6/29/2013 15:18,6/29/2013 15:50,209,1907,30,Ashland Ave & Augusta Blvd,85,Michigan Ave & Oak St,Customer,null,null,West Town,41.8996,-87.6677,Near North Side,41.901,-87.6238,3647.69469703903
+8562,6/29/2013 15:19,6/29/2013 16:12,425,3200,43,Michigan Ave & Washington St,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.8839,-87.6246,The Loop,41.881,-87.6167,732.73342552632
+8564,6/29/2013 15:19,6/29/2013 15:46,74,1628,46,Wells St & Walton St,85,Michigan Ave & Oak St,Customer,null,null,Near North Side,41.8999,-87.6344,Near North Side,41.901,-87.6238,891.396554238879
+8567,6/29/2013 15:19,6/29/2013 15:45,159,1539,87,Racine Ave & Fullerton Ave,279,Halsted St & 35th St,Customer,null,null,Lincoln Park,41.9256,-87.6584,Bridgeport,41.8307,-87.6472,10581.9612691745
+8568,6/29/2013 15:19,6/29/2013 16:30,153,4245,85,Michigan Ave & Oak St,90,Millennium Park,Customer,null,null,Near North Side,41.901,-87.6238,The Loop,41.881,-87.6241,2213.65014406804
+8569,6/29/2013 15:19,6/29/2013 16:30,109,4232,279,Halsted St & 35th St,90,Millennium Park,Customer,null,null,Bridgeport,41.8307,-87.6472,The Loop,41.881,-87.6241,5914.05809557609
+8573,6/29/2013 15:20,6/29/2013 15:31,76,682,73,Jefferson St & Monroe St,49,Dearborn St & Monroe St,Customer,null,null,Near West Side,41.8804,-87.6427,The Loop,41.8813,-87.6295,1102.26940675873
+8574,6/29/2013 15:20,6/29/2013 15:49,607,1720,30,Ashland Ave & Augusta Blvd,85,Michigan Ave & Oak St,Customer,null,null,West Town,41.8996,-87.6677,Near North Side,41.901,-87.6238,3647.69469703903
+8575,6/29/2013 15:21,6/29/2013 16:01,536,2413,53,Wells St & Erie St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.8938,-87.6342,Lincoln Park,41.9268,-87.6344,3656.96977484157
+8576,6/29/2013 15:21,6/29/2013 16:01,543,2414,53,Wells St & Erie St,34,Cannon Dr & Fullerton Ave,Customer,null,null,Near North Side,41.8938,-87.6342,Lincoln Park,41.9268,-87.6344,3656.96977484157
+8577,6/29/2013 15:21,6/29/2013 16:01,315,2395,53,Wells St & Erie St,164,Franklin St & Lake St,Customer,null,null,Near North Side,41.8938,-87.6342,The Loop,41.8858,-87.6355,894.594220531268
+8578,6/29/2013 15:22,6/29/2013 15:54,474,1927,36,Franklin St & Jackson Blvd,62,McCormick Place,Customer,null,null,The Loop,41.8777,-87.6353,Near South Side,41.8514,-87.6188,3229.25695941663
+8579,6/29/2013 15:22,6/29/2013 15:54,494,1916,36,Franklin St & Jackson Blvd,43,Michigan Ave & Washington St,Customer,null,null,The Loop,41.8777,-87.6353,The Loop,41.8839,-87.6246,1120.98247650665
+8580,6/29/2013 15:22,6/29/2013 15:40,910,1078,90,Millennium Park,81,Daley Center Plaza,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8842,-87.6296,577.258732475139
+8582,6/29/2013 15:22,6/29/2013 15:40,293,1097,90,Millennium Park,81,Daley Center Plaza,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.8842,-87.6296,577.258732475139
+8584,6/29/2013 15:22,6/29/2013 15:33,596,617,91,Clinton St & Washington Blvd,46,Wells St & Walton St,Customer,null,null,Near West Side,41.8834,-87.6412,Near North Side,41.8999,-87.6344,1921.44838952521
+8586,6/29/2013 15:23,6/29/2013 15:39,307,993,43,Michigan Ave & Washington St,25,Michigan Ave & Pearson St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.8977,-87.6235,1532.06194384159
+8597,6/29/2013 15:27,6/29/2013 15:54,372,1630,24,Fairbanks Ct & Grand Ave,51,Clark St & Randolph St,Customer,null,null,Near North Side,41.8919,-87.6206,The Loop,41.8846,-87.6319,1236.68621760589
+8606,6/29/2013 15:29,6/29/2013 15:41,269,730,13,Wilton Ave & Diversey Pkwy,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9325,-87.6527,Lincoln Park,41.9256,-87.6537,770.918779832886
+8607,6/29/2013 15:30,6/29/2013 15:41,163,690,13,Wilton Ave & Diversey Pkwy,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Lincoln Park,41.9325,-87.6527,Lincoln Park,41.9256,-87.6537,770.918779832886
+8608,6/29/2013 15:30,6/29/2013 16:07,473,2209,25,Michigan Ave & Pearson St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9256,-87.6537,3988.6072083252
+8610,6/29/2013 15:31,6/29/2013 15:33,417,156,90,Millennium Park,90,Millennium Park,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6241,0
+8611,6/29/2013 15:31,6/29/2013 16:06,591,2135,25,Michigan Ave & Pearson St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9256,-87.6537,3988.6072083252
+8612,6/29/2013 15:31,6/29/2013 16:07,301,2153,25,Michigan Ave & Pearson St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9256,-87.6537,3988.6072083252
+8613,6/29/2013 15:31,6/29/2013 16:08,452,2218,25,Michigan Ave & Pearson St,67,Sheffield Ave & Fullerton Ave,Customer,null,null,Near North Side,41.8977,-87.6235,Lincoln Park,41.9256,-87.6537,3988.6072083252
+8614,6/29/2013 15:32,6/29/2013 15:55,560,1430,85,Michigan Ave & Oak St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.891,-87.6173,1227.96162263681
+8615,6/29/2013 15:32,6/29/2013 15:56,204,1448,85,Michigan Ave & Oak St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.891,-87.6173,1227.96162263681
+8616,6/29/2013 15:32,6/29/2013 15:55,137,1409,85,Michigan Ave & Oak St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.891,-87.6173,1227.96162263681
+8617,6/29/2013 15:32,6/29/2013 15:56,592,1417,85,Michigan Ave & Oak St,26,McClurg Ct & Illinois St,Customer,null,null,Near North Side,41.901,-87.6238,Near North Side,41.891,-87.6173,1227.96162263681
+8619,6/29/2013 15:33,6/29/2013 16:31,366,3460,43,Michigan Ave & Washington St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.891,-87.6173,999.359911640958
+8621,6/29/2013 15:34,6/29/2013 16:28,462,3255,43,Michigan Ave & Washington St,26,McClurg Ct & Illinois St,Customer,null,null,The Loop,41.8839,-87.6246,Near North Side,41.891,-87.6173,999.359911640958
+8622,6/29/2013 15:34,6/29/2013 15:54,156,1184,88,May St & Randolph St,46,Wells St & Walton St,Customer,null,null,Near West Side,41.884,-87.6557,Near North Side,41.8999,-87.6344,2500.97971616301
+8623,6/29/2013 15:34,6/29/2013 16:01,860,1633,48,Larrabee St & Kingsbury St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.8977,-87.6235,1607.76022006778
+8624,6/29/2013 15:35,6/29/2013 15:58,559,1355,90,Millennium Park,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8919,-87.6206,1236.60337235102
+8625,6/29/2013 15:35,6/29/2013 15:48,440,752,37,Dearborn St & Adams St,90,Millennium Park,Customer,null,null,The Loop,41.8794,-87.6298,The Loop,41.881,-87.6241,508.93066059794
+8627,6/29/2013 15:35,6/29/2013 16:01,535,1613,48,Larrabee St & Kingsbury St,25,Michigan Ave & Pearson St,Customer,null,null,Near North Side,41.8978,-87.6429,Near North Side,41.8977,-87.6235,1607.76022006778
+8628,6/29/2013 15:35,6/29/2013 15:57,321,1331,90,Millennium Park,24,Fairbanks Ct & Grand Ave,Customer,null,null,The Loop,41.881,-87.6241,Near North Side,41.8919,-87.6206,1236.60337235102
+8630,6/29/2013 15:35,6/29/2013 15:43,228,453,37,Dearborn St & Adams St,91,Clinton St & Washington Blvd,Customer,null,null,The Loop,41.8794,-87.6298,Near West Side,41.8834,-87.6412,1044.90049023248
+8634,6/29/2013 15:36,6/29/2013 15:44,417,449,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+8635,6/29/2013 15:36,6/29/2013 16:11,183,2102,90,Millennium Park,76,Lake Shore Dr & Monroe St,Customer,null,null,The Loop,41.881,-87.6241,The Loop,41.881,-87.6167,609.420895085465
+8649,6/29/2013 15:38,6/29/2013 15:51,446,729,85,Michigan Ave & Oak St,279,Halsted St & 35th St,Customer,null,null,Near North Side,41.901,-87.6238,Bridgeport,41.8307,-87.6472,8046.1718194402
+
